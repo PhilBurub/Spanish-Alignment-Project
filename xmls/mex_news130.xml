@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Россия примет участие в выставке CONFITEXPO 2021 </se>
+    <se lang="es" variant_id="1">Rusia presente en CONFITEXPO 2021 en México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 июля / 2021</se>
+    <se lang="es" variant_id="1">21 de julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/confitexpo_2021/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/rusia_confitexpo2021/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Крупнейший российский кондитерский холдинг ООО «Объединенные кондитеры» примет участие в 35-й Международной выставке кондитерских изделий CONFITEXPO 2021.</se>
+      <se lang="es" variant_id="1">El holding United Confectionary, líder del mercado de confitería de Rusia y el mayor productor de dulces y golosinas en Europa del Este, tomará parte en la 35ª Exposición Internacional para la Industria de la Confitería CONFITEXPO 2021.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мероприятие состоится в период с 3 по 6 августа 2021 г. в выставочном центре «Гвадалахара-Экспо» в г. Гвадалахара, штат Халиско, по адресу: Ав.</se>
+      <se lang="es" variant_id="1">El evento se celebrará del 3 al 6 de agosto 2021 en el centro de exposiciones EXPO GUADALAJARA, Av.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Мариано Отеро, д. 1499.</se>
+      <se lang="es" variant_id="1">Mariano Otero 1499, Guadalajara, Jalisco.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Стенд компании будет располагаться в павильоне №1, выставочные места 280-283.</se>
+      <se lang="es" variant_id="1">El stand de United Confectionary se encontrará en el pabellón 1, espacios 280-283.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">С презентацией холдинга можно ознакомиться здесь.</se>
+      <se lang="es" variant_id="1">Les invitamos a conocer la presentación del holding aquí.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии фотовыставки «Самая красивая страна» </se>
+    <se lang="es" variant_id="1">Se inaugura la exposición fotográfica “Rusia es Mucho Más” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">18 сентября / 2018</se>
+    <se lang="es" variant_id="1">18 setiembre / 2018</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/ob_otkrytii_fotovystavki_samaya_krasivaya_strana/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/se_inaugura_la_exposici_n_fotogr_fica_rusia_es_mucho_m_s/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">в Белом зале Национального конгресса Аргентины состоялось торжественное открытие фотовыставки «Самая красивая страна», подготовленной Русским географическим обществом при содействии Посольства России в Буэнос-Айресе.</se>
+      <se lang="es" variant_id="1">El día 17 de septiembre en el Salón Blanco del Palacio del Congreso Nacional tuvo lugar la inauguración de la exposición fotográfica “Rusia es Mucho Más”, preparada por la Sociedad Geográfica Rusa con el apoyo de la Embajada de Rusia en Argentina.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В экспозицию вошли 50 уникальных фотографий, отобранных из 45 тысяч работ участников одноименного фотоконкурса.</se>
+      <se lang="es" variant_id="1">La muestra abarca 50 fotos únicas que fueron seleccionadas de 45 mil obras presentadas para el concurso que lleva el mismo nombre.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Открывая выставку, Чрезвычайный и Полномочный Посол Российской Федерации Д.В.Феоктистов отметил, что ее проведение в год десятилетия установления стратегического партнерства между Россией и Аргентиной является исключительно значимым.</se>
+      <se lang="es" variant_id="1">El Embajador Extraordinario y Plenipotenciario de la Federación de Rusia Dmitry Feoktistov resaltó en su palabra de bienvenida la importancia de la muestra que se celebra en el año del décimo aniversario de las relaciones de Asociación Estratégica entre Rusia y Argentina.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Подобные проекты культурно-гуманитарного характера, приумножая взаимопонимание, делают крепче дружбу между народами и по-настоящему сближают наши страны.</se>
+      <se lang="es" variant_id="1">Proyectos culturales de este tipo, que hacen crecer el entendimiento mutuo, fortalecen la amistad entre los pueblos y favorecen al acercamiento de los países.</se>
+    </para>
+  </body>
+</html>

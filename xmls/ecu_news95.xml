@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Приглашаем всех желающих принять участие 3 сентября 2022 г. в Международной акции «Диктант Победы»! </se>
+    <se lang="es" variant_id="1">¡Les invitamos a participar en el evento internacional "Dictado de la Victoria" que tendrá lugar en la República del Ecuador! </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">25 августа / 2022</se>
+    <se lang="es" variant_id="1">25 agosto / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/priglashaem_vsekh_zhelayushchikh_prinyat_uchastie_3_sentyabrya_2022_g_v_mezhdunarodnoy_aktsii_diktan/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/les_invitamos_a_participar_en_el_evento_internacional_dictado_de_la_victoria_que_tendr_lugar_en_la_r/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В столице Эквадора, г.Кито, данное мероприятие  пройдёт по адресу  :  Casa de la Cultura, Av.</se>
+      <se lang="es" variant_id="1">Quito,  Casa de la Cultura  , Sala 3.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">6 de Diciembre 345, Sala 3.</se>
+      <se lang="es" variant_id="1">(Av. 6 de Diciembre 345).</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">3 сентября 2022 г., начало в 09-00.</se>
+      <se lang="es" variant_id="1">El 3 de septiembre a las  09:00  .</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Зарегистрироваться можно по Whatsapp:  +593 99 57 58 584.</se>
+      <se lang="es" variant_id="1">Puedes registrarte por WhatsApp  : 099 57 58 584.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Акция «Диктант Победы» была запущена в 2019 году в рамках проекта «Историческая память».</se>
+      <se lang="es" variant_id="1">La campaña Dictado de la Victoria se lanzó por primera vez en 2019 como parte del proyecto del movimiento Conmemoracion Histórica.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Диктант призван пробудить интерес у школьников, молодежи, а также у российских и иностранных граждан к событиям героического прошлого нашей страны, возможность проверить свои знания истории, узнать новую информацию о забытых подвигах предков.</se>
+      <se lang="es" variant_id="1">El dictado está diseñado para despertar el interés de estudiantes, jóvenes, así como de ciudadanos rusos y extranjeros sobre los acontecimientos del pasado heroico de nuestro país. Esta es la oportunidad de poner a prueba su conocimiento sobre la historia, aprender nueva información sobre las hazañas olvidadas de sus antepasados.</se>
+    </para>
+    <para id="6">
+      <se lang="ru" variant_id="0">На тысячах площадок в России и за рубежом участники отвечают на вопросы, посвященные событиям Великой Отечественной войны и Великой Победы.</se>
+      <se lang="es" variant_id="1">En miles de lugares en Rusia, así como en el extranjero, los participantes responderán a preguntas sobre los eventos de la Gran Guerra Patria y la Gran Victoria.</se>
+    </para>
+  </body>
+</html>

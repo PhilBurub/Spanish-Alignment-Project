@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О праздничном концерте в клубе им. В.Маяковского </se>
+    <se lang="es" variant_id="1">Sobre los festejos en el club V.Mayakovsky </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">22 августа</se>
+    <se lang="es" variant_id="1">22 agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_prazdnichnom_kontserte_v_klube_im_v_mayakovskogo/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/sobre_los_festejos_en_el_club_v_mayakovsky/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">20 августа с.г. Чрезвычайный и Полномочный Посол Российской Федерации в Аргентинской Республике Д.В.Феоктистов посетил праздничный концерт, приуроченный к 71-й годовщине с момента основания культурного и спортивного клуба «Владимир Маяковский» в г.Кильмес (провинция Буэнос-Айрес).</se>
+      <se lang="es" variant_id="1">El 20 de agosto, El Embajador Extraordinario y Plenipotenciario de la Federación de Rusia en la República Argentina, Dmitry Feoktistov, asistió a un concierto con motivo del 71 aniversario del Club cultural y deportivo “Vladímir Mayakovsky” en Quilmes (provincia de Buenos Aires).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Обратившись к организаторам и гостям мероприятия с теплым поздравлением, руководитель дипмиссии отметил, что среди собравшихся присутствует много молодых людей.</se>
+      <se lang="es" variant_id="1">Dirigiéndose a los organizadores e invitados del evento con calurosas felicitaciones, el jefe de la Misión diplomática notó la gran cantidad de jóvenes entre los participantes.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В этой связи подчеркнул важность того, чтобы подрастающее поколение помнило свою историческую Родину, её культуру и традиции, знало историю своей семьи.</se>
+      <se lang="es" variant_id="1">En ese sentido, destacó la importancia de que las generaciones más jóvenes recuerden su patria histórica, su cultura y tradiciones, y conozcan la historia de su familia.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Д.В.Феоктистов пожелал всем присутствовавшим доброго здоровья и счастья, а Клубу – процветания и дальнейших успехов.</se>
+      <se lang="es" variant_id="1">Dmitry Feoktistov deseó buena salud y felicidad a todos los presentes, y al Club, prosperidad y muchos éxitos.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Россия назначила нового посла в Мексике </se>
+    <se lang="es" variant_id="1">Rusia designa nuevo embajador en México  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 февраля</se>
+    <se lang="es" variant_id="1">12 de febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/rossiya_naznachila_novogo_posla_v_meksike/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/rusia_designa_nuevo_embajador_en_m_xico_/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Президент России Владимир Путин назначил Николая Софинского новым послом в Мексике и по совместительству послом в Белизе.</se>
+      <se lang="es" variant_id="1">Rusia designa nuevo embajador en México El mandatario ruso designó a Nikolái Sofinskiy como nuevo Embajador del país en México y concurrente en Belice.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Николай Софинский имеет дипломатический опыт, насчитывающий более трех десятилетий, он был послом в Перу и Уругвае, а также был советником-посланником посольства России в Испании и Генеральным консулом в Хьюстоне.</se>
+      <se lang="es" variant_id="1">Nikolái Sofinskiy cuenta con una experiencia diplomática de más de tres décadas y fue Embajador en Perú y Uruguay, además de ser Ministro Consejero en la Embajada de Rusia en España y Cónsul General en Houston.</se>
+    </para>
+  </body>
+</html>

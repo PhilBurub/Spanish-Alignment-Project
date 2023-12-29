@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О новогодней ёлке в Посольстве </se>
+    <se lang="es" variant_id="1">Sobre la fiesta navideña en la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">27 декабря / 2021</se>
+    <se lang="es" variant_id="1">27 diciembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_novogodney_yelke_v_posolstve/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/sobre_la_fiesta_navide_a_en_la_embajada/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">27 декабря с.г. в Большом зале Посольства прошел весёлый утренник для детей сотрудников с музыкальным представлением и сладкими подарками.</se>
+      <se lang="es" variant_id="1">El 27 de diciembre en el Salón Grande de la Embajada se celebró una alegre fiesta navideña para los hijos del personal de la misión diplomatica con un espectáculo musical y regalos dulces.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Маленьких гостей поздравили Дед Мороз и Снегурочка.</se>
+      <se lang="es" variant_id="1">El Padre Moroz y Snegurochka felicitaron a los pequeños invitados.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В фойе была развернута выставка детских рисунков.</se>
+      <se lang="es" variant_id="1">En el vestíbulo se abrió una exposición de los dibujos infantiles.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О визите Посла России на производство фармкомпании "Probiomed" </se>
+    <se lang="es" variant_id="1">Embajador de Rusia visita las instalaciones de la compañía "Probiomed" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">26 мая / 2022</se>
+    <se lang="es" variant_id="1">26 de mayo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_vizite_posla_rossii_na_proizvodstvo_farmkompanii_probiomed/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_de_rusia_visita_las_instalaciones_de_la_compa_a_probiomed/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">26 мая 2022 г. Посол России в Мексике В.В.Коронелли посетил производственную площадку мексиканской фармацевтической компании "Probiomed".</se>
+      <se lang="es" variant_id="1">El 26 de mayo de 2022 el Embajador de Rusia en México, Víktor Koronelli, visitó las instalaciones de la compañía farmacéutica mexicana "Probiomed".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы с главой компании Х.Урибе выражена надежда на продолжение сотрудничества и производство на местных мощностях российской вакцины от коронавируса "Спутник V".</se>
+      <se lang="es" variant_id="1">En el marco de su conversación con el Director de la empresa, Ing.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В ходе беседы с главой компании Х.Урибе выражена надежда на продолжение сотрудничества и производство на местных мощностях российской вакцины от коронавируса "Спутник V".</se>
+      <se lang="es" variant_id="1">Jaime Úribe, el Embajador expresó su confianza en continuar la cooperación e iniciar la producción en México de la vacuna rusa contra el coronavirus "Sputnik V".</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии фотовыставки о Санкт-Петербурге </se>
+    <se lang="es" variant_id="1">Sobre la inauguración de exposición fotográfica sobre San Petersburgo </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">13 мая</se>
+    <se lang="es" variant_id="1">13 mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/ob_otkrytii_fotovystavki_o_sankt_peterburge/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_la_inauguraci_n_de_exposici_n_fotogr_fica_sobre_san_petersburgo/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">12 мая 2023 г. в Музее истории искусств г.Монтевидео состоялась церемония открытия фотовыставки, приуроченной к 320-летию основания Санкт-Петербурга и 25-й годовщине заключения Соглашения о сотрудничестве между администрацией Санкт-Петербурга и мэрией Монтевидео в торгово-экономической, научно-технической и культурной областях.</se>
+      <se lang="es" variant_id="1">El 12 de mayo en el Museo de Historia del Arte de Montevideo se celebró la ceremonia de inauguración de la exposición fotográfica con motivo del 320 Aniversario de la fundación de San Petersburgo y el 25 Aniversario de la firma del Convenio entre la Administración de la "capital del norte" rusa y la Intendencia de Montevideo sobre la cooperación en el área económico comercial, científico-técnico y cultural.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие российские соотечественники, представители дипкорпуса, а также общественно-политических и культурных кругов и СМИ.</se>
+      <se lang="es" variant_id="1">Al evento asistieron compatriotas rusos, integrantes del cuerpo diplomático, así como representantes de los círculos socio-políticos locales y de los medios de comunicación.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В своем выступлении временный поверенный в делах России в Уругвае С.В.Леонтьев подчеркнул всемирное культурно-историческое значение северной столицы России, а также рассказал о сотрудничестве между Санкт-Петербургом и Монтевидео.</se>
+      <se lang="es" variant_id="1">El Encargado de Negocios a.i. de Rusia en Uruguay Sergey Leontev subrayó el valor histórico y cultural internacional de San Petersburgo y contó sobre la cooperación entre esta ciudad y Montevideo, inclusive la reciente visita a la capital uruguaya de la delegación de la Universidad Nacional de Investigaciones ITMO (21 de abril).</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Выставка продлится до 27 мая с.г.</se>
+      <se lang="es" variant_id="1">La exposición permanecerá abierta para el público hasta el 27 de mayo.</se>
+    </para>
+  </body>
+</html>

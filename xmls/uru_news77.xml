@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече с послом Венесуэлы </se>
+    <se lang="es" variant_id="1">La reunión con el Embajador de Venezuela </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">29 марта / 2022</se>
+    <se lang="es" variant_id="1">29 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_vstreche_s_poslom_venesuely/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/la_reuni_n_con_el_embajador_de_venezuela/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">29 марта 2022 г. посол России А.В.Будаев посетил посла Венесуэлы Х.Чирино в его резиденции.</se>
+      <se lang="es" variant_id="1">El 29 de marzo de 2022 el Embajador de Rusia Andrey Budaev visitó al Embajador de Venezuela Julio Chirino en su residencia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе встречи, проходившей в конструктивной, дружественной обстановке, обсуждались вопросы, представляющие взаимный интерес.</se>
+      <se lang="es" variant_id="1">Durante la reunión, que se celebró en un ambiente constructivo y amistoso, se trataron temas de interés mutuo.</se>
+    </para>
+  </body>
+</html>

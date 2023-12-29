@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Сообщение для СМИ </se>
+    <se lang="es" variant_id="1">Comunicado de prensa </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 ноября / 2022</se>
+    <se lang="es" variant_id="1">15 de noviembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/soobshchenie_dlya_smi/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/comunicado_de_prensa/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Сан-Луис-Потоси и г. Мехико) прошли концерты российского Хора Турецкого и Сопрано, собравшие сотни зрителей, в т.ч.</se>
+      <se lang="es" variant_id="1">Los días 10 y 11 de noviembre de 2022 tuvieron lugar en México (San Luis Potosí y Ciudad de México) los conciertos del Coro ruso Turetsky y Soprano, que reunieron a cientos de espectadores, entre ellos compatriotas rusos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Посольство выражает признательность Губернатору штата Сан-Луис-Потоси Р.Кардоне и руководству Министерства культуры Мексики за содействие в выборе площадок для проведения и организации указанных концертов.</se>
+      <se lang="es" variant_id="1">La Embajada agradece al Gobernador del Estado de San Luis Potosí, Ricardo Gallardo Cardona y a la dirección de la Secretaría de Cultura de México por su colaboración en la elección de los lugares y la organización de los conciertos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Без их поддержки мероприятия могли бы не состояться, как, например, это произошло в Гвадалахаре, где власти города решили запретить российскую культуру.</se>
+      <se lang="es" variant_id="1">Sin su apoyo, los actos no habrían podido celebrarse, como ocurrió, por ejemplo, en Guadalajara, donde las autoridades municipales decidieron prohibir la cultura rusa.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Одновременно сообщаем, что перед Национальным центром культуры г.Мехико (Cenart) стояла небольшая группа лиц с украинскими флагами, которая исполняла фашистко-бандеровскую песню «Червона калина».</se>
+      <se lang="es" variant_id="1">Al mismo tiempo, informamos que un pequeño grupo de personas con banderas ucranianas se paró frente al Centro Nacional de Cultura de la Ciudad de México (Cenart) y cantó la canción fascista-banderista "Chervona Kalina".</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Все попытки украинских националистов сорвать мероприятия в Мексике не увенчались успехом – в зале был аншлаг.</se>
+      <se lang="es" variant_id="1">Todos los intentos de los nacionalistas ucranianos de interrumpir los actos en México fueron infructuosos: la sala estaba llena.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Нацизм не пройдет ни в Мексике, ни в мире.</se>
+      <se lang="es" variant_id="1">El nazismo no pasará ni en México ni en el mundo.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Прием в Посольстве России в Перу по случаю Дня защитника Отечества </se>
+    <se lang="es" variant_id="1">La recepción en la Embajada de Rusia con el motivo del Día del Defensor de la Patria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">28 февраля</se>
+    <se lang="es" variant_id="1">28 Febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/priem_v_posolstve_rossii_v_peru_po_sluchayu_dnya_zashchitnika_otechestva/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/la_recepci_n_en_la_embajada_de_rusia_con_el_motivo_del_d_a_del_defensor_de_la_patria/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">28 февраля с.г. в Посольстве России в Перу состоялся торжественный прием по случаю Дня защитника Отечества.</se>
+      <se lang="es" variant_id="1">El 28 de febrero la Embajada de Rusia en el Perú ofreció una recepción con el motivo del Día del Defensor de la Patria.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие представители перуанских госучреждений, военных атташатов дружественных стран, деловых и общественных кругов, СМИ, а также соотечественники и выпускники российских вузов.</se>
+      <se lang="es" variant_id="1">Al evento asistieron representantes de entidades gubernamentales peruanos, agregados militares de países amigos, círculos empresariales, sociedad civil, medios de comunicación, así como compatriotas rusos y egresados ​​de universidades rusas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">К собравшимся обратился с приветственным словом военный атташе А.Ю.Лойко.</se>
+      <se lang="es" variant_id="1">El agregado militar Andrei Loiko se dirigió a los invitados con un discurso de saludo.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Мероприятие прошло в теплой дружественной атмосфере.</se>
+      <se lang="es" variant_id="1">El evento se llevó a cabo en un ambiente cálido y amistoso.</se>
+    </para>
+  </body>
+</html>

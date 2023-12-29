@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О концерте русской классической музыки в Монтевидео </se>
+    <se lang="es" variant_id="1">El concierto de música clásica rusa en Montevideo </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">20 сентября / 2022</se>
+    <se lang="es" variant_id="1">20 setiembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_kontserte_russkoy_klassicheskoy_muzyki_v_montevideo/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/el_concierto_de_m_sica_cl_sica_rusa_en_montevideo/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">20 сентября 2022 г. в посольстве России в Уругвае был организован концерт маэстро Стефана Лано (фортепьяно) и оперной певицы Евгении Пиршиной (контральто), исполнивших классические произведения всемирно известных российских композиторов (П.Чайковского, С.Рахманинова, М.Глинки и А.Рубинштейна).</se>
+      <se lang="es" variant_id="1">El 20 de septiembre de 2022 en la Embajada de Rusia en Uruguay fue organizado el concierto del maestro Stefan Lano (piano) y la cantante de ópera Evgenia Pirshina (contralto), quienes interpretaron obras clásicas de los compositores rusos mundialmente conocidos (Piotr Chaikovski, Serguéi Rajmáninov, Mijaíl Glinka, Antón Rubinstein).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мероприятие посетили российские соотечественники, представители дипкорпуса, местных СМИ, уругвайских общественно-политических и культурных кругов.</se>
+      <se lang="es" variant_id="1">Al evento asistieron compatriotas rusos, representantes del cuerpo diplomático, medios de comunicación y círculos socio-políticos y culturales locales.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Концерт вызвал душевный подъем зрителей, после исполнения каждого произведения звучали бурные аплодисменты, публика просила исполнителей выступить на «бис».</se>
+      <se lang="es" variant_id="1">El concierto se celebró en un ambiente eufórico, después de cada interpretación se producían grandes aplausos y el público pedía a los artistas hacer un bis.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">После завершения концерта посол А.В.Будаев вручил артистам цветы и почетные грамоты за вклад в продвижение русского музыкального искусства.</se>
+      <se lang="es" variant_id="1">Una vez finalizado el concierto el Embajador Andrey Budaev entregó a Stefan Lano y Evgenia Pirshina flores y diplomas de reconocimiento por el aporte en la promoción del arte musical ruso.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Также глава дипмиссии, С.Лано и Е.Пиршина дали интервью региональному представительству международного информагентства «Спутник».</se>
+      <se lang="es" variant_id="1">Al mismo tiempo, el Jefe de la Misión Diplomática y los artistas concedieron entrevistas a la Oficina Regional de la Agencia Internacional de Información “Sputnik”.</se>
+    </para>
+  </body>
+</html>

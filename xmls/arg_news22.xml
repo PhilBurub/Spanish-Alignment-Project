@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Выставка Русской православной иконы открылась в г. Парана </se>
+    <se lang="es" variant_id="1">Una exposición del Ícono Ortodoxo Ruso en la ciudad de Paraná </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 сентября / 2021</se>
+    <se lang="es" variant_id="1">15 setiembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/vystavka_russkoy_pravoslavnoy_ikony_otkrylas_v_g_parana/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/una_exposici_n_del_cono_ortodoxo_ruso_en_la_ciudad_de_paran/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">14 сентября с г. в городе Парана провинции Энтре-Риос открылась двухдневная выставка Русской православной иконы.</se>
+      <se lang="es" variant_id="1">El 14 de septiembre se inauguró una exposición de dos días del Ícono Ortodoxo Ruso en la ciudad de Paraná de la provincia de Entre Ríos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В церемонии открытия приняли участие министр управления и юстиции провинции Энтре-Риос Р.Ромеро, вице-мэр муниципалитета Серрито М.В.Гриноверо, глава Аргентинской и Южноамериканской епархии Русской Православной Церкви Московского Патриархата епископ Леонид, первый секретарь Посольства О.В.Коломин, а также руководители крупнейших диаспор провинции и представители общественности и бизнес-кругов.</se>
+      <se lang="es" variant_id="1">El acto inaugural contó con la presencia de la ministra de Gobierno y Justicia de la Provincia de Entre Ríos Rosario Romero, la viceintendente de la municipalidad de Cerrito Mirna Vanina Grinóvero, el jefe de la Diócesis de Argentina y Sudamérica de la Iglesia Ortodoxa Rusa del Patriarcado de Moscú, Obispo Leonid, el Primer Secretario de la Embajada Oleg Kolomin, así como representantes de las grandes diásporas provinciales y miembros de la comunidad y circulos empresariales.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">На 16-17 сентября с.г. выставка переедет в муниципалитет Серрито.</se>
+      <se lang="es" variant_id="1">Del 16 al 17 de septiembre la exposición estará abierta en el municipio de Cerrito.</se>
+    </para>
+  </body>
+</html>

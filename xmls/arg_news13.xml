@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Аргентине состоялось открытие Фестиваля российских фильмов </se>
+    <se lang="es" variant_id="1">Festival de Cine Ruso Moderno se inaugura en Argentina </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 ноября / 2019</se>
+    <se lang="es" variant_id="1">21 noviembre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/v_argentine_sostoyalos_otkrytie_festivalya_rossiyskikh_filmov/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/festival_de_cine_ruso_moderno_se_inaugura_en_argentina/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">21 ноября с.г. представители Посольства приняли участие в торжественной церемонии открытия Фестиваля российских фильмов в Аргентине, который организует компания «Русское Возрождение» при поддержке Министерства культуры Российской Федерации.</se>
+      <se lang="es" variant_id="1">El día 21 de noviembre los representantes de la Embajada de Rusia tomaron parte en la inauguración del Festival de Cine Ruso Moderno en Argentina, organizado por la compañía “Renacimiento Ruso” bajo el auspicio del Ministerio de Cultura de la Federación de Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Представить новинки российского кинематографа приехали известные актеры, продюсеры, представители ведущих киностудий, журналисты.</se>
+      <se lang="es" variant_id="1">Con motivo de presentar las películas llegaron a la ciudad de Buenos Aires los famosos actores, productores, representantes de estudios cinematográficos de renombre, periodistas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В первый день фестиваля был показан фильм «Тренер» (2018 г.), тепло принятый аргентинскими зрителями.</se>
+      <se lang="es" variant_id="1">El primer día de Festival se estrenó la película “Entrenador” (2018), que recibió una cálida acogida del público argentino.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">До 27 ноября с.г. будут продемонстрированы фильмы «Большой» (2017 г.), «Дылда» (2019 г.), «Давай разведемся» (2019 г.), «Выше неба» (2019 г.), «Бык» (2019 г.), «Мальчик русский» (2019 г.), «Одесса» (2019 г.), «Про любовь. </se>
+      <se lang="es" variant_id="1">Hasta el día de 27 de noviembre se demostrarán las películas “Bolshoi” (2017), “Dylda” (2019), “Vamos a divorciarnos” (2019), “Sobre el Cielo” (2019), “Bull” (2019), “Muchacho Ruso” (2019), “Odessa” (2019), “Sobre el Amor.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Только для взрослых» (2018 г.), «Аритмия» (2017 г.), «Подбросы» (2018 г.), «Черновик» (2018 г.), «Решение о ликвидации» (2018 г.), «Фиксики. Большой секрет» (2017г.).</se>
+      <se lang="es" variant_id="1">Solo Para Adultos” (2017), “Arithmy” (2017), “Lanzamientos (2018), “Proyecto” (2018), “Decisión sobre la Liquidación” (2018) y animación para toda la familia “Fixies, Gran Secreto” (2017).</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О телефонном разговоре Министров иностранных дел России и Мексики </se>
+    <se lang="es" variant_id="1">Conversación telefónica entre Cancilleres de Rusia y México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">18 февраля / 2021</se>
+    <se lang="es" variant_id="1">18 de febrero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_telefonnom_razgovore_ministrov_inostrannykh_del_meksiki_i_rossii/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/conversaci_n_telef_nica_entre_cancilleres_de_rusia_y_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">18 февраля 2021 г. по инициативе мексиканской стороны состоялся телефонный разговор Министра иностранных дел Российской Федерации С.В.Лаврова с Министром иностранных дел Мексики Марсело Луисом Эбрардом Касаубоном.</se>
+      <se lang="es" variant_id="1">El 18 de febrero de 2021 se ha celebrado una conversación telefónica entre el Ministro de Asuntos Exteriores de la Federación de Rusia, Serguéi #Lavrov, y el Secretario de Relaciones Exteriores de los Estados Unidos Mexicanos, Marcelo Ebrard.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Главы внешнеполитических ведомств обсудили текущее состояние российско-мексиканских отношений и возможности активизации двустороннего сотрудничества в различных областях, затронули вопросы взаимодействия России и Мексики на площадке ООН.</se>
+      <se lang="es" variant_id="1">Los cancilleres discutieron el estado actual de las relaciones ruso-mexicanas y las posibilidades de intensificar la cooperación bilateral en distintas esferas, se abordó la colaboración entre Rusia y México en la ONU.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В ходе беседы внимание также было уделено тематике практического взаимодействия по борьбе с распространением коронавирусной инфекции, в частности, поставкам в Мексику российской вакцины «Спутник V».</se>
+      <se lang="es" variant_id="1">Durante la conversación también se prestó atención a la interacción práctica en la lucha contra la propagación del coronavirus, sobre todo, el suministro a México de la vacuna rusa Sputnik V.</se>
+    </para>
+  </body>
+</html>

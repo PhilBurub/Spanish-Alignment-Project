@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">К юбилею А.С.Пушкина в Эквадоре </se>
+    <se lang="es" variant_id="1">Al aniversario de Aleksandr Pushkin en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">27 января</se>
+    <se lang="es" variant_id="1">27 enero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/k_yubileyu_a_s_pushkina_v_ekvadore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/al_aniversario_de_aleksandr_pushkin_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">27 января 2023 г. культурным фондом «Сle» совместно с Посольством России в Эквадоре было проведено очередное крупное мероприятие, посвящённое двум великим поэтам: русскому – А.С.Пушкину и эквадорскому – М.А.Сильва.</se>
+      <se lang="es" variant_id="1">El 27 de enero de 2023 la Fundación Cultural CLÉ, junto con la Embajada de Rusia en Ecuador, realizó un evento dedicado a dos grandes poetas: Aleksandr Pushkin y Medardo Ángel Silva.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">На празднике присутствовали школьники, студенты, представители эквадорской общественности и местных СМИ.</se>
+      <se lang="es" variant_id="1">En el evento participaron escolares, estudiantes, representantes de la ciudadanía ecuatoriana y medios de comunicación.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">С большим интересом участники этого события выслушали информацию и презентацию, подготовленные директором фонда К.Т.Корнехо Наварро, а также членом правления этой организации и переводчиком русской поэзии на испанский язык М.А.Корнехо Убильюсом.</se>
+      <se lang="es" variant_id="1">Con gran interés, los presentes escucharon la información y presentación preparada por la Presidenta de la Fundación, Carla Cornejo.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Кроме того, была проведена викторина на знание поэзии, победителям которой были вручены памятные призы.</se>
+      <se lang="es" variant_id="1">Además, se llevó a cabo un concurso de poesía, cuyos ganadores recibieron premios memorables.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Посол России в Эквадоре В.И.Спринчан, поблагодарив участников мероприятия за интерес к русской культуре, акцентировал внимание на некоторых моментах творчества одного из основоположников современного русского языка и важности донесения сведений о России до молодёжной аудитории.</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia en Ecuador, Vladimir Sprinchan, agradeció a los participantes del evento por su interés en la cultura rusa, y se centró en algunos aspectos de la creatividad de uno de los fundadores del idioma ruso moderno, así como en la importancia de compartir información sobre Rusia con el público joven.</se>
+    </para>
+  </body>
+</html>

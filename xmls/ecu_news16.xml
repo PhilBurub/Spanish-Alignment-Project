@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью газете «Metro» </se>
+    <se lang="es" variant_id="1">Entrevista al diario «Metro» </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 мая / 2021</se>
+    <se lang="es" variant_id="1">15 mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/intervyu_gazete_metro_15052021/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_al_diario_metro/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">13 мая Посол России в Эквадоре В.И.Спринчан дал интервью корреспонденту газеты «Metro» в Эквадоре, основное внимание в котором было уделено перспективами поставок российской вакцины «Sputnik V» в Эквадор.</se>
+      <se lang="es" variant_id="1">El 13 de mayo, el Embajador de Rusia en Ecuador Vladimir Sprinchan concedió una entrevista al corresponsal del diario «Metro»en Ecuador en la que se prestó mayor atención a las perspectivas de suministro de la vacuna rusa «Sputnik V» a Ecuador.</se>
+    </para>
+  </body>
+</html>

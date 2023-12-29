@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Рождественский прием в Посольстве </se>
+    <se lang="es" variant_id="1">La recepcion navidena en la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">18 декабря / 2019</se>
+    <se lang="es" variant_id="1">18 diciembre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/rozhdestvenskiy_priem_v_posolstve/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/la_recepcion_navidena_en_la_embajada/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">18 декабря с.г. в Посольстве России состоялся торжественный прием по случаю наступающих новогодних праздников.</se>
+      <se lang="es" variant_id="1">El dia 18 de diciembre se llevo a cabo una recepcion solemne en la Embajada de Rusia con motivo de las Fiestas del Ano Nuevo y Navidad que estan por llegar.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С приветственным словом выступил Чрезвычайный и Полномочный Посол Российской Федерации в Аргентинской Республике Д.В.Феоктистов.</se>
+      <se lang="es" variant_id="1">El Embajador Extraordinario y Plenipotenciario de la Federacion de Rusia Dmitry Feoktistov se dirigio al publico con palabras de bienvenida.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Проводить уходящий год собрались представители аргентинской исполнительной и законодательной власти, творческой интеллигенции, журналистского корпуса, а также российской диаспоры, с которыми дипмиссия плотно взаимодействовала на протяжении 2019 г.</se>
+      <se lang="es" variant_id="1">Estuvieron presentes los funcionarios de los poderes judicial y ejecutivo del pais, representantes del mundo artistico, de prensa y diaspora rusa, los cuales acompanaron a nuestra mision diplomatica en el ano 2019.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Вниманию  гостей была представлена выставка «Красота русской иконы» из собрания  Аргентинской и Южноамериканской епархии Русской Православной Церкви.</se>
+      <se lang="es" variant_id="1">Los  invitados disfrutaron la exposicion “La Belleza del Icono Ruso” de los  fondos de la Diocesis de Argentina y Sudamerica de la Iglesia Ortodoxa  Rusa del Patriarcado de Moscu.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России принял учащихся школы им.Сервантеса </se>
+    <se lang="es" variant_id="1">Embajador de Rusia recibe a alumnos de una escuela rusa </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">25 октября / 2019</se>
+    <se lang="es" variant_id="1">25 de octubre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_prinyal_uchashchikhsya_shkoly_im_servantesa/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/196__embajador_de_rusia_recibe_a_alumnos_de_una_escuela_rusa/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">24 октября 2019 г. Посол России в Мексике В.В.Коронелли принял в посольстве находящихся в Мехико учителей и учащихся московской школы №1252 им.Сервантеса.</se>
+      <se lang="es" variant_id="1">El 24 de octubre de 2019 el Embajador de Rusia en México, Sr. Víktor  Koronelli, recibió en la Embajada a los maestros y alumnos del colegio Cervantes de Moscú que actualmente se encuentran en México.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Российские школьники также встретились с учениками школы при посольстве.</se>
+      <se lang="es" variant_id="1">La delegación de estudiantes rusos también visitó la escuela de la Embajada.</se>
+    </para>
+  </body>
+</html>

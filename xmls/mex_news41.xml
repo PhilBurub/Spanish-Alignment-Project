@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью Посла России   в Мексике телеканалу    «ТВ Ацтека» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador de Rusia a TV Azteca </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">08 мая / 2020</se>
+    <se lang="es" variant_id="1">08 de mayo / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_posla_rossii_v_meksike_telekanalu_tv_atsteka/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_de_rusia_a_tv_azteca/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">8 мая 2020 г. Посол России в Мексике В.В.Коронелли дал в прямом эфире интервью одному из центральных мексиканских телеканалов «ТВ Ацтека», посвященное 75-летию годовщины Победы в Великой Отечественной войне.</se>
+      <se lang="es" variant_id="1">El 8 de mayo de 2020 el Embajador de Rusia en México, Víktor Koronelli, concedió una entrevista en vivo a uno de los canales centrales mexicanos "TV Azteca", en la cual habló sobre el 75 aniversario de la Victoria en la Gran Guerra Patria.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С интервью (на испанском языке) можно ознакомиться по следующей ссылке: Интервью Посла России в Мексике телеканалу «ТВ Ацтека»</se>
+      <se lang="es" variant_id="1">Se puede consultar la entrevista en el siguiente enlace: Entrevista del Embajador de Rusia a TV Azteca</se>
+    </para>
+  </body>
+</html>

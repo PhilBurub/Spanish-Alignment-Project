@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече Посла в Министерстве образования Мексики </se>
+    <se lang="es" variant_id="1">El Embajador de Rusia sostiene una reunión en SEP </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 июля</se>
+    <se lang="es" variant_id="1">12 de julio</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_vstreche_posla_v_ministerstve_obrazovaniya_meksiki/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_embajador_de_rusia_sostiene_una_reuni_n_en_sep/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">11 июля 2023 года Посол России в Мексике Н.В.Софинский провел рабочую встречу с Генеральным директором Главного управления образовательной политики, лучших практик и сотрудничества Министерства образования Мексики Х.Дель Рио.</se>
+      <se lang="es" variant_id="1">El día 11 de julio de 2023 el Embajador de Rusia en México, Nikolay Sofínskiy, sostuvo una reunión de trabajo con el Director General de Política Educativa, Mejores Prácticas y Cooperación de la Secretaría de Educación Pública, Jaime del Río Salcedo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В дружеской атмосфере обсудили текущее состояние дел и перспективы сотрудничества в сфере образования.</se>
+      <se lang="es" variant_id="1">En una atmósfera amistosa examinaron el estado actual de la relación bilateral y las perspectivas de cooperación en el campo de la educación.</se>
+    </para>
+  </body>
+</html>

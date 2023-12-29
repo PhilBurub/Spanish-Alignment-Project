@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О поездке Посла в г. Сьюдад-Хуарес </se>
+    <se lang="es" variant_id="1">Embajador visita Ciudad Juárez </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">14 ноября / 2022</se>
+    <se lang="es" variant_id="1">14 de noviembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_poezdke_posla_v_g_syudad_khuares/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_visita_ciudad_juarez/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">10–11 ноября 2022 года Посол России в Мексике В.В.Коронелли посетил г. Сьюдад-Хуарес (штат Чиуауа) для участия в праздновании 78-й годовщине Национальной ассоциации импортеров и экспортеров Мексики (ANIERM).</se>
+      <se lang="es" variant_id="1">Los días 10 y 11 de noviembre de 2022 el Embajador de Rusia en México, Víktor Koronelli, efectuó una visita a Ciudad Juárez, Chihuahua, donde participó en la celebración del 78º aniversario de la fundación de la Asociación Nacional de Importadores y Exportadores de la República Mexicana (ANIERM) A.C. Durante su estadía el Embajador sostuvo un encuentro con el Presidente Municipal, Lic.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе визита Посол также провел встречу с мэром города К.Пересом Куэльяром и дал интервью местным СМИ.</se>
+      <se lang="es" variant_id="1">Cruz Pérez Cuéllar, recorrió los sitios emblemáticos de la ciudad fronteriza y concedió entrevistas a los medios locales.</se>
+    </para>
+  </body>
+</html>

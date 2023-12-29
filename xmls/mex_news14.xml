@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексику прибыла новая партия антиковидной вакцины «Спутник V» </se>
+    <se lang="es" variant_id="1">México recibe nuevo lote de la vacuna "Sputnik V" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">06 июня / 2021</se>
+    <se lang="es" variant_id="1">06 de junio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksiku_pribyla_novaya_partiya_antikovidnoy_vaktsiny_sputnik_v/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/m_xico_recibe_nuevo_lote_de_la_vacuna_sputnik_v/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В ночь с 5 на 6 июня 2021 года в Мексику прибыла очередная (седьмая) – и самая крупная – партия российской вакцины от коронавируса «Спутник V» в количестве одного миллиона доз.</se>
+      <se lang="es" variant_id="1">La noche del 5 al 6 de junio de 2021 llegó a territorio mexicano el séptimo lote de la vacuna rusa anticovid "Sputnik V" de un millón de dosis.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Всего в страну поставлено 3,4 миллиона прививок отечественного антиковидного препарата.</se>
+      <se lang="es" variant_id="1">Con este cargamento más grande desde el inicio de los suministros, México ya suma 3,4 millones de dosis recibidos.</se>
+    </para>
+  </body>
+</html>

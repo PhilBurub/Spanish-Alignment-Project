@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Российские медикаменты продвигаются в Эквадор </se>
+    <se lang="es" variant_id="1">Medicamentos rusos están avanzados en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">04 февраля / 2022</se>
+    <se lang="es" variant_id="1">04 febrero / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/rossiyskie_medikamenty_prodvigayutsya_v_ekvador/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/medicamentos_rusos_est_n_avanzados_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">4 февраля с.г. Посол России в Эквадоре В.И.Спринчан принял руководство известной российской компании «Полисан», находящиеся в стране с целью продвижения различных медикаментов, которая производит эта фирма.</se>
+      <se lang="es" variant_id="1">El 4 de febrero el Embajador Extraordinario y Plenipotenciario de Rusia en Ecuador Vladimir Sprinchan recibió la gerencia de la reconocida empresa rusa «Polisan», la cual se encuentra en el país сon el objetivo de promocionar diversos medicamentos producidos por esta compañía.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Договорились о совместной работе по ознакомлению эквадорскоймедицинской общественности ряда препаратов российского производства.</se>
+      <se lang="es" variant_id="1">Acordamos trabajar juntos para concienciar a la comunidad médica ecuatoriana con una serie de medicamentos de fabricación rusa.</se>
+    </para>
+  </body>
+</html>

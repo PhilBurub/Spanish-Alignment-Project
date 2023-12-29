@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О визите роспосла в Национальный университет им. Св.Марка </se>
+    <se lang="es" variant_id="1">La visita del Embajador de Rusia  a la Universidad Nacional Mayor de San Marcos </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 марта</se>
+    <se lang="es" variant_id="1">21 Marzo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/o_vizite_rosposla_v_natsionalnyy_universitet_im_sv_marka/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/la_visita_del_embajador_de_rusia_a_la_universidad_nacional_mayor_de_san_marcos/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">21 марта с.г. роспосол И.В.Романченко посетил старейший вуз Латинской Америки – Национальный университет им. Св.Марка.</se>
+      <se lang="es" variant_id="1">El 21 de marzo el Embajador de Rusia Igor Romanchenko asistió a la institución educativa decana de América – la Universidad Nacional Mayor de San Marcos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В рамках визита состоялась встреча роспосла с его ректором Дж.Рамон, а также представителями университетского Фонда им. Св.Марка.</se>
+      <se lang="es" variant_id="1">Durante la visita, el Embajador se reunió con la Rectora Jeri Ramón, así como con representantes de la Fundación San Marcos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В ходе беседы обсуждались возможности налаживания межвузовского сотрудничества в сфере образования и науки, например, путем подписания партнерских соглашений с российскими образовательными организациями для обмена лучшими научно-образовательными практиками, содействия академической мобильности студентов и преподавателей.</se>
+      <se lang="es" variant_id="1">Durante la conversación, se abordaron las posibilidades de establecer cooperación interuniversitaria en el ámbito de la educación y la ciencia, por ejemplo, mediante la conclusión de convenios con instituciones educativas rusas para intercambiar mejores prácticas, promover la movilidad académica de estudiantes y profesores.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Достигнуты договоренности о реализации совместных культурно-просветительских проектов с участием посольства и этого вуза.</se>
+      <se lang="es" variant_id="1">Se alcanzaron acuerdos para la implementación de proyectos culturales y educativos conjuntos con la participación de la Embajada y la UNMSM.</se>
+    </para>
+  </body>
+</html>

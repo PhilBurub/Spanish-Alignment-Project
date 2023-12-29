@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Новый Посол России в Мексике Николай Софинский прибыл в Мехико </se>
+    <se lang="es" variant_id="1">El nuevo embajador de Rusia en México, Nikolay Sofinskiy, llegó a la Ciudad de México. </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">05 мая</se>
+    <se lang="es" variant_id="1">05 de mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/novyy_posol_rossii_v_meksike_nikolay_sofinskiy_pribyl_v_mekhiko/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_nuevo_embajador_de_rusia_en_m_xico_nikolay_sofinskiy_lleg_a_la_ciudad_de_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Я надеюсь, что российская концепция многополярного мира укрепит наше сотрудничество с Мексикой.</se>
+      <se lang="es" variant_id="1">N.Sofinskiy: Espero que el concepto ruso de un mundo multipolar refuerce nuestra cooperación con México.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Справедливый мировой порядок - это отсутствие гегемонии государства или группы государств в мировых делах, это коллективное лидерство с наличием нескольких полюсов силы.</se>
+      <se lang="es" variant_id="1">Un orden mundial justo es la ausencia de hegemonía de un estado o grupo de estados en los asuntos mundiales, en realidad es un liderazgo colectivo con la presencia de varios polos de poder.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">За 132-летний период, прошедший с момента официального оформления наших дипломатических отношений, происходило их постоянное обогащение, накапливался бесценный опыт.</se>
+      <se lang="es" variant_id="1">Durante el período de 132 años transcurrido desde la formalización de nuestras relaciones diplomáticas , su enriquecimiento continuo se desarrolló, se acumuló una experiencia de comunicación invaluable.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">В российском видении формирующегося многополярного мира одним из полюсов силы непременно должен быть регион Латинской Америки и Карибского бассейна, одним из основных проводников интересов которого на мировой арене является Мексика.</se>
+      <se lang="es" variant_id="1">En la visión rusa de un mundo multipolar emergente, uno de los polos de poder debe ser la región de América Latina y el Caribe, uno de cuyos principales agentes de intereses en el escenario mundial es México.</se>
+    </para>
+  </body>
+</html>

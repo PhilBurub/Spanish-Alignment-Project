@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посольство Российской Федерации в Мексике желает всем счастливого Рождества и Счастливого Нового Года. </se>
+    <se lang="es" variant_id="1">La Embajada de la Federación de Rusia en México desea a todos una Feliz Navidad y un Próspero Año Nuevo.  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">25 декабря / 2022</se>
+    <se lang="es" variant_id="1">25 de diciembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posolstvo_rossiyskoy_federatsii_v_meksike_zhelaet_vsem_schastlivogo_rozhdestva_i_schastlivogo_novogo/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/la_embajada_de_la_federaci_n_de_rusia_en_m_xico_desea_a_todos_una_feliz_navidad_y_un_pr_spero_a_o_nu/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Посольство Российской Федерации в Мексике желает всем счастливого Рождества и Счастливого Нового Года.</se>
+      <se lang="es" variant_id="1">La Embajada de la Federación de Rusia en México desea a todos una Feliz Navidad y un Próspero Año Nuevo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Пусть эти волшебные праздники наполнят вашу жизнь светом, теплом, радостью и благополучием.</se>
+      <se lang="es" variant_id="1">Que estas fiestas mágicas llenen su vida de luz, calor, alegría y prosperidad.</se>
+    </para>
+  </body>
+</html>

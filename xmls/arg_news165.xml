@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О приеме в Посольстве по случаю Дня России </se>
+    <se lang="es" variant_id="1">La recepción en la Embajada con motivo del Día de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 июня / 2022</se>
+    <se lang="es" variant_id="1">21 junio / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_prieme_v_posolstve_po_sluchayu_dnya_rossii_2022/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/la_recepci_n_en_la_embajada_con_motivo_del_d_a_de_rusia_2022/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">21 июня с.г. в Посольстве прошёл торжественный приём по случаю Дня России.</se>
+      <se lang="es" variant_id="1">21 de junio se celebró una recepción solemne en la Embajada con motivo del Día de Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Здание дипмиссии посетили сотрудники федеральных и муниципальных органов власти, представители дипкорпуса, бизнес-кругов, соотечественники и журналисты.</se>
+      <se lang="es" variant_id="1">La Misión diplomatica rusa recibió a los empleados de las autoridades federales y municipales, representantes del cuerpo diplomático, círculos empresariales, compatriotas y periodistas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Гости отведали традиционные блюда русской кухни, насладились живым исполнением произведений российских и аргентинских композиторов, осмотрели выставку Русского географического общества "Россия - самая красивая страна".</se>
+      <se lang="es" variant_id="1">Los invitados degustaron platos tradicionales de la cocina rusa, disfrutaron de las obras musicales de compositores rusos y argentinos, vieron la exposición de la Sociedad Geográfica Rusa "Rusia es mucho más".</se>
+    </para>
+  </body>
+</html>

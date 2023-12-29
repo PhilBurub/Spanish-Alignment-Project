@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Я был в Мексике, взбирался на пирамиды </se>
+    <se lang="es" variant_id="1">Cacto, palma, agave... Joseph Brodsky en México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">28 мая / 2021</se>
+    <se lang="es" variant_id="1">28 de mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/brodsky/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/brodsky_en_mexico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Летом 1975 года поэт Иосиф Бродский посетил Мексику для участия в писательском конгрессе по приглашению мексиканского поэта Октавио Паса.</se>
+      <se lang="es" variant_id="1">En verano de 1975 el célebre poeta ruso radicado en EE.UU.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Летом 1975 года поэт Иосиф Бродский посетил Мексику для участия в писательском конгрессе по приглашению мексиканского поэта Октавио Паса.</se>
+      <se lang="es" variant_id="1">Joseph Brodsky visitó México para participar en un congreso literario a invitación de Octavio Paz.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Помимо столицы Мехико и ее окрестностей (включая пирамиды Теотиуакана) Бродский на машине объехал полуостров Юкатан на юго-востоке страны.</se>
+      <se lang="es" variant_id="1">Además de la Ciudad de México, Brodsky conoció las Pirámides de Teotihuacán y recorrió en coche la península de Yucatán.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Кроме того, поэт побывал в городе Куэрнавака неподалеку от Мехико, где жил О.Пас и находилась летняя резиденция императора Мексики Максимилиана (1864–1867), чья судьба произвела сильное впечатление на Бродского.</se>
+      <se lang="es" variant_id="1">Brodsky también visitó a Octavio Paz en su casa de Cuernavaca donde conoció la ex residencia veraniega del Emperador Maximiliano cuya historia impactó al poeta.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Бродский и Октавио Пас познакомились еще в 1973 году и стали друзьями.</se>
+      <se lang="es" variant_id="1">Joseph Brodsky y Octavio Paz se conocieron en 1973 y se hicieron amigos.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Любопытно, что они почти одновременно стали лауреатами Нобелевских премий: Бродский в 1987, а Пас – в 1989.</se>
+      <se lang="es" variant_id="1">Los dos poetas ganaron el Premio Nobel de Literatura casi en el mismo momento – el ruso, en 1987, y el mexicano, en 1989.</se>
+    </para>
+    <para id="6">
+      <se lang="ru" variant_id="0">Поездка в Мексику запечатлена в цикле Бродского «Мексиканский дивертисмент» из семи стихотворений («Мерида», «В отеле «Континенталь», «Мексиканское танго (1867)», «Заметка для энциклопедии», «Куэрнавака», «К Евгению» и «Мексиканский романсеро»), вошедшем в сборник «Часть речи» (1977).</se>
+      <se lang="es" variant_id="1">El viaje a México se plasmó en el ciclo de siete poemas “Divertimento mexicano”, entre ellas “ A Eugenio ”, “ Cuernavaca ” y “ Romancero mexicano ”, dos últimas dedicadas a Octavio Paz.</se>
+    </para>
+  </body>
+</html>

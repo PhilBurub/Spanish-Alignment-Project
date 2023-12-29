@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посещение одного из ведущих университетов Эквадора </se>
+    <se lang="es" variant_id="1">Visita a la Universidad Tecnológica Ecuatoriana (UTE) </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">08 июля / 2021</se>
+    <se lang="es" variant_id="1">06 julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/poseshchenie_odnogo_iz_vedushchikh_universitetov_ekvadora/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/visita_a_la_universidad_tecnol_gica_ecuatoriana_ute/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">6 июля, в рамках ознакомления с деятельностью эквадорского технологического университета, Посол России в Эквадоре В.И.Спринчан подробно проанализировал с ректором данного вуза возможности и перспективы взаимодействия с российскими партнерами.</se>
+      <se lang="es" variant_id="1">El 6 de julio, en el marco de sensibilización con las actividades de la Universidad Tecnológica Ecuatoriana, el Embajador de Rusia en Ecuador Vladimir Sprinchan analizó en detalle con el Rector de esta universidad las posibilidades y perspectivas de interacción con socios rusos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Также был обсужден проект установки бюста Ю.А.Гагарина на территории данного университета.</se>
+      <se lang="es" variant_id="1">Al mismo tiempo se discutió el proyecto de instalación del busto de Yuri Gagarin en el territorio de esta universidad.</se>
+    </para>
+  </body>
+</html>

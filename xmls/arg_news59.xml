@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О вручении подарка от имени Президента В.В.Путина </se>
+    <se lang="es" variant_id="1">Se entrega el regalo de parte del Presidente Vladimir Putin </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">04 декабря / 2018</se>
+    <se lang="es" variant_id="1">04 diciembre / 2018</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_vruchenii_podarka_ot_imeni_prezidenta_v_v_putina/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/se_entrega_el_regalo_de_parte_del_presidente_vladimir_putin/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">3 декабря с.г. Чрезвычайный и Полномочный Посол Российской Федерации Д.В.Феоктистов вручил 12-летниму аргентинцу С.Кироге от имени Президента Российской Федерации В.В.Путина памятный подарок – фотографию российского лидера с автографом и официальный мяч Чемпионата мира по футболу 2018г.</se>
+      <se lang="es" variant_id="1">El 3 de diciembre el Embajador Extraordinario y Plenipotenciario de la Federación de Rusia Dmitry Feoktistov entregó a Santiago Quiroga Niell de 12 años un regalo memorable de parte del Presidente de la Federación de Rusia Vladimir Putin – una foto del mandatario ruso con su firma y la pelota oficial del Mundial de Futbol 2018.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С.Кирога с раннего детства испытывает искреннее восхищение по отношению к Президенту В.В.Путину, о чем его мать Э.Ниелл написала в роспосольство незадолго до визита главы российского государства в Аргентину.</se>
+      <se lang="es" variant_id="1">Santiago Quiroga Niell desde muy chiquito tiene una admiración profunda por el Presidente Vladimir Putin, de que su mamá Erica Niell escribió a la Embajada de Rusia poco antes de la visita del mandatario a Argentina.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Мальчик живо интересуется историей и культурой нашей страны, планирует изучать русский язык и со временем поехать на обучение в один из российских вузов по программе стипендий из средств федерального бюджета.</se>
+      <se lang="es" variant_id="1">Al joven le interesa la historia y cultura de Rusia, tiene planes de aprender el idioma y dentro de un tiempo ir a estudiar a una de las universidades rusas por el programa de becas que ofrece el Gobierno de la Federación de Rusia.</se>
+    </para>
+  </body>
+</html>

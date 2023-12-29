@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексике состоялся первый полет российского вертолета «Ансат» </se>
+    <se lang="es" variant_id="1">Se realizó primer vuelo del helicóptero ruso Ansat </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 августа / 2020</se>
+    <se lang="es" variant_id="1">10 de agosto / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksike_sostoyalsya_pervyy_polet_rossiyskogo_vertoleta_ansat/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/se_realiz_primer_vuelo_del_helic_ptero_ruso_ansat/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">7 августа 2020 г. в г. Гвадалахара состоялся первый полет легкого многоцелевого вертолета «Ансат» российского производства, демонстрируемого потенциальным клиентам мексиканской компанией «Craft Avia Center» совместно с АО «Русские вертолетные системы».</se>
+      <se lang="es" variant_id="1">Este 7 de agosto en la ciudad de Guadalajara fue realizado el primer vuelo del helicóptero ruso Ansat, que se está mostrando a los posibles clientes mexicanos por la empresa Craft Avia Center.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Источник: Вертолет "Ансат" совершил первый полет в Мексике.</se>
+      <se lang="es" variant_id="1">Fuente: En México comienzan los vuelos del helicóptero ruso Ansat.</se>
+    </para>
+  </body>
+</html>

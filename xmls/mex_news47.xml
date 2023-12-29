@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Клуб журналистов Мексики вручил посмертную награду Дарье Дугиной </se>
+    <se lang="es" variant_id="1">Club de periodistas de México entrega premio póstumo a Daria Dugina </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 декабря / 2022</se>
+    <se lang="es" variant_id="1">10 de diciembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/klub_zhurnalistov_meksiki_vruchil_posmertnuyu_nagradu_dare_duginoy/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/club_de_periodistas_de_m_xico_entrega_premio_p_stumo_a_daria_dugina/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Клуб журналистов Мексики вручил посмертную награду Дарье Дугиной.</se>
+      <se lang="es" variant_id="1">Club de periodistas de México entrega premio póstumo a Daria Dugina.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Выражаем благодарность Клубу журналистов Мексики за награждение международной премией российской журналистки Д.А.Дугиной (посмертно), которая трагически погибла в результате террористической атаки украинского режима.</se>
+      <se lang="es" variant_id="1">Expresamos nuestro agradecimiento al Club de Periodistas de México por otorgar el premio internacional a la periodista rusa D.A. Dugina (póstumamente), quien murió trágicamente como resultado del ataque terrorista del régimen Ucraniano.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Считаем это событие очередным проявлением солидарной с нами позиции Мексики против терроризма и в защиту журналисткой деятельности.</se>
+      <se lang="es" variant_id="1">Consideramos que este evento es una muestra más de la posición solidaria de México contra el terrorismo y en defensa de la actividad periodística.</se>
+    </para>
+  </body>
+</html>

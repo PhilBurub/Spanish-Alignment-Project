@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии фотовыставки по случаю 80-летия Победы в Сталинградской битве </se>
+    <se lang="es" variant_id="1">Sobre la muestra fotográfica con motivo del 80 Aniversario de la Victoria en la Batalla de Stalingrado  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 февраля</se>
+    <se lang="es" variant_id="1">03 febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/ob_otkrytii_fotovystavki_po_sluchayu_80_letiya_pobedy_v_stalingradskoy_bitve/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_la_muestra_fotogr_fica_con_motivo_del_80_aniversario_de_la_victoria_en_la_batalla_de_stalingra/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">3 февраля 2023 г. в Музее иммигрантов уругвайского г.Сан-Хавьер, основанного в 1913 г. переселенцами из Воронежской губернии, была открыта фотовыставка «Сан-Хавьер: история солидарности во Второй мировой войне», приуроченная к 80-летию Победы Красной армии в Сталинградской битве (2 февраля).</se>
+      <se lang="es" variant_id="1">El 3 de febrero de 2023 en el Museo de los Inmigrantes de la ciudad uruguaya San Javier (fundada en 1913 por los colonos de la región rusa de Vorónezh) se inauguró la exposición de fotos “San Javier: una historia de solidaridad en la II Guerra Mundial” con motivo del 80 Aniversario de la Victoria del Ejército Rojo sobre las tropas fascistas en la Batalla de Stalingrado (2 de febrero).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие сотрудники роспосольства, губернатор департамента Рио-Негро О.Лафлуф, мэр г.Сан-Хавьер В.Лако, представители местных общественно-политических и культурных кругов, а также российские соотечественники.</se>
+      <se lang="es" variant_id="1">En el evento participaron funcionarios de la Embajada de Rusia, Intendente del Departamento de Río Negro Omar Lafluf, Alcalde de San Javier Washington Laco, representantes de los círculos socio-políticos y culturales locales, así como compatriotas rusos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Выставка, подготовленная по инициативе журналиста С.Брилева на основе документов, предоставленных Музеем «Сталинградская битва», вызвала большой интерес уругвайской публики.</se>
+      <se lang="es" variant_id="1">La muestra, preparada por la iniciativa del periodista ruso Sergey Brilev a base de los documentos aportados por el Museo de la Batalla de Stalingrado, despertó gran interés del público uruguayo.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Подведены итоги Конкурса "Нам нужна одна Победа" </se>
+    <se lang="es" variant_id="1">Felicitamos a los ganadores del Concurso "Y ahora solo necesitamos la Victoria" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 июня / 2021</se>
+    <se lang="es" variant_id="1">23 Junio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/podvedeny_itogi_konkursa_nam_nuzhna_odna_pobeda/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/felicitamos_a_los_ganadores_del_concurso_y_ahora_solo_necesitamos_la_victoria/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Всего в конкурсе, посвященном 80-й годовщине начала Великой Отечественной войны, приняли участие 27 работ.</se>
+      <se lang="es" variant_id="1">Más de 27 obras de talentos del Perú y otros países formaron parte del Concurso artístico dedicado al 80 aniversario del inicio de la Gran Guerra Patria de la Unión Soviética contra el nazismo, bajo el titulo "Y ahora solo necesitamos la Victoria".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Поздравляем!</se>
+      <se lang="es" variant_id="1">¡Felicitaciones a los ganadores!</se>
+    </para>
+  </body>
+</html>

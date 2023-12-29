@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России принял участие в пресс-конференции, посвященной Международной книжной ярмарке в г. Пачука </se>
+    <se lang="es" variant_id="1">Embajador de Rusia participa en una conferencia de prensa dedicada a la Feria Universitaria del Libro en Pachuca </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">19 августа / 2020</se>
+    <se lang="es" variant_id="1">19 de agosto / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_prinyal_uchastie_v_press_konferentsii_posvyashchennoy_mezhdunarodnoy_knizhnoy_yarmarke_/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_de_rusia_participa_en_una_conferencia_de_prensa_dedicada_a_la_feria_universitaria_del_libr/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">19 августа 2020 г. Посол России в Мексике В.В.Коронелли принял участие в пресс-конференции (состоялась в онлайн-формате), посвященной предстоящему открытию 33-й Международной книжной ярмарки в г. Пачука, в которой Россия выступает в роли страны-почетного гостя.</se>
+      <se lang="es" variant_id="1">El 19 de agosto de 2020, el Embajador de Rusia en México, Víktor Koronelli, participó en una conferencia de prensa (realizada en formato online) dedicada a la próxima inauguración de la 33ª Feria Universitaria del Libro en Pachuca, en la que Rusia actúa como país invitado de honor.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Участие нашей страны в данном мероприятии приурочено к отмечаемому в текущем году 130-летию установления дипломатических отношений между Россией и Мексикой.</se>
+      <se lang="es" variant_id="1">La participación de nuestro país en este evento está programada para coincidir con el 130 aniversario del establecimiento de las relaciones diplomáticas entre Rusia y México.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В связи с тем, что из-за пандемии коронавируса ярмарка проходит в виртуальном режиме, приглашаем посетить подготовленную организаторами Интернет-площадку по адресу www.uaeh.edu.mx/ful</se>
+      <se lang="es" variant_id="1">Debido a que por la pandemia de coronavirus la feria se realiza en modo virtual, les invitamos a visitar el megaportal del evento: www.uaeh.edu.mx/ful</se>
+    </para>
+  </body>
+</html>

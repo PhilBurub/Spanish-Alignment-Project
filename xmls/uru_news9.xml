@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">День знаний в школе при Посольстве </se>
+    <se lang="es" variant_id="1">Día de Conocimientos en la escuela de la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">02 сентября / 2021</se>
+    <se lang="es" variant_id="1">02 setiembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/den_znaniy_v_shkole_pri_posolstve/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/d_a_de_conocimientos_en_la_escuela_de_la_embajada/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">1 сентября в школе при Посольстве России в Уругвае прошла традиционная линейка, посвященная Дню знаний.</se>
+      <se lang="es" variant_id="1">El 1 de septiembre en la escuela de la Embajada de Rusia se celebró el Día de Conocimientos. </se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С началом нового учебного года детей поздравил временный поверенный в делах России в Уругвае С.В.Леонтьев и директор школы В.Е.Савельева, которые пожелали школьникам, чтобы новый учебный год был увлекательным, плодотворным и запоминающимся, наполнен интересными событиями, новыми достижениями и, конечно, приносил только хорошие оценки.</se>
+      <se lang="es" variant_id="1">El Encargado de Negocios a.i. Sergey Leontev y la directora de la escuela Valentina Saveleva felicitaron a los niños con motivo del inicio del año académico y les desearon que este sea fascinante, fructífero y memorable, lleno de eventos interesantes, nuevos logros y, por supuesto, solo buenas notas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Особых поздравлений и почестей удостоились первоклашки.</se>
+      <se lang="es" variant_id="1">Las felicitaciones y honores especiales recibieron los alumnos del primer grado.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Первый звонок прозвучал в радостной и теплой атмосфере.</se>
+      <se lang="es" variant_id="1">El evento se celebró en el ámbito feliz y cálido.</se>
+    </para>
+  </body>
+</html>

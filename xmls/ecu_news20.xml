@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью посла эквадорской газете «El Mercurio de Cuenca» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador al diario ecuatoriano "El Mercurio de Cuenca" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 марта / 2022</se>
+    <se lang="es" variant_id="1">11 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/intervyu_posla_ekvadorskoy_gazete_el_mercurio_de_cuenca/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_del_embajador_al_diario_ecuatoriano_el_mercurio_de_cuenca/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Посол России в Эквадоре В.И.Спринчан дал обширное интервью корреспонденту указанного СМИ о проблематике ситуации на Украине и возможных последствиях западных экономических санкций для российско-эквадорских торгово-экономических связей.</se>
+      <se lang="es" variant_id="1">El 11 de marzo en respuesta a una solicitud del diario ecuatoriano “El Mercurio de Cuenca”, el Embajador de Rusia en Ecuador Sr. Vladimir Sprinchan concedió una extensa entrevista al corresponsal del medio mencionado sobre los problemas de la situación en Ucrania y las posibles consecuencias de las sanciones económicas occidentales para el comercio y las relaciones económicas ruso-ecuatorianas.</se>
+    </para>
+  </body>
+</html>

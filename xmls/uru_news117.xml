@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О прошедшем в Монтевидео концерте классической музыки, посвященном произведениям российских композиторов </se>
+    <se lang="es" variant_id="1">El concierto de la música clásica de los compositores rusos </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 июля / 2022</se>
+    <se lang="es" variant_id="1">10 julio / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_proshedshem_v_montevideo_kontserte_klassicheskoy_muzyki_posvyashchennom_proizvedeniyam_rossiyskikh/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/el_concierto_de_la_m_sica_cl_sica_de_los_compositores_rusos/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">9 июля 2022 г. в Монтевидео в театре “SODRE” состоялось выступление национального симфонического оркестра Уругвая под управлением известного дирижера С.Лано, в ходе которого были исполнены произведения А.К.Глазунова и С.В.Рахманинова.</se>
+      <se lang="es" variant_id="1">El 9 de julio de 2022 en Montevideo en el teatro SODRE se celebró el concierto de la Orquesta Sinfónica Nacional de Uruguay bajo la dirección del famoso compositor y director musical Stefan Lano dedicado a las obras de los compositores rusos Glazunov y Rachmaninoff.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мероприятие вызвало большой интерес местной публики.</se>
+      <se lang="es" variant_id="1">El evento despertó interés vivo del público uruguayo.</se>
+    </para>
+  </body>
+</html>

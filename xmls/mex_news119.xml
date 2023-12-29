@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России посетил с рабочим визитом г. Пачука </se>
+    <se lang="es" variant_id="1">Embajador de Rusia visita la ciudad de Pachuca </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">20 декабря / 2019</se>
+    <se lang="es" variant_id="1">20 de enero / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_posetil_s_rabochim_vizitom_g_pachuka/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/196__embajador_de_rusia_visita_la_ciudad_de_pachuca/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">17 января 2020 г. в рамках подготовки к участию России в качестве страны-почётного гостя на Международной университетской книжной ярмарке-2020 (г. Пачука, август), проходящей на площадке Автономного университета штата Идальго, Посол В.В.Коронелли посетил с рабочим визитом г. Пачука, где провёл встречу с ректором А.Понтиго Лойолой и принял участие в заседании оргкомитета книжной ярмарки, а также дал интервью местным СМИ.</se>
+      <se lang="es" variant_id="1">En el marco de la preparación para la participación de Rusia como invitado de honor de la FUL 2020, que tendrá lugar sobre la base de la Universidad Autónoma del Estado Hidalgo, el Embajador Víktor Koronelli realizó una visita de trabajo a Pachuca, donde celebró una reunión con el rector Adolfo Pontigo y dio una entrevista a los medio locales.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Участие России в данном мероприятии станет одним из ключевых событий в рамках празднования 130-летия установления дипломатических отношений между Россией и Мексикой.</se>
+      <se lang="es" variant_id="1">La participación de Rusia en la FUL 2020 será uno de los eventos clave en el marco de la celebración del 130 aniversario del establecimiento de relaciones diplomáticas entre Rusia y México.</se>
+    </para>
+  </body>
+</html>

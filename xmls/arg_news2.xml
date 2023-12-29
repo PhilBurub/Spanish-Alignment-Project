@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">22 июня 1941 года началась Великая Отечественная война </se>
+    <se lang="es" variant_id="1">El 22 de junio de 1941 comenzó la Gran Guerra Patria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">22 июня / 2021</se>
+    <se lang="es" variant_id="1">22 junio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/22_iyunya_1941_goda_nachalas_velikaya_otechestvennaya_voyna/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/el_22_de_junio_de_1941_comenz_la_gran_guerra_patria/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Ровно 80 лет назад гитлеровские солдаты перешли западную границу Советского Союза.</se>
+      <se lang="es" variant_id="1">Hace 80 años, los soldados de Hitler cruzaron la frontera occidental de la Unión Soviética.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В те ранние утренние часы года началась Великая Отечественная война, продолжавшаяся почти четыре года и унесшая жизни более 30 миллионов советских граждан.</se>
+      <se lang="es" variant_id="1">En esas primeras horas de madrugada comenzó la Gran Guerra Patria, que duró casi cuatro años y cobró la vida de más de 30 millones de ciudadanos soviéticos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Ежегодно 22 июня в России отмечается День Памяти и Скорби.</se>
+      <se lang="es" variant_id="1">Cada año el 22 de junio Rusia conmemora el Día de la Memoria y el Dolor.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">По всей стране проходят памятные мероприятия, возлагаются цветы и венки к памятникам Великой Отечественной войны, проходит акция "Свеча памяти"</se>
+      <se lang="es" variant_id="1">En toda Rusia se depositan coronas de flores en los monumentos de Gran Guerra Patria, se llevan a cabo los eventos para honrar la memoria de las víctimas, se lleva a cabo la campaña "Vela de la Memoria"</se>
+    </para>
+  </body>
+</html>

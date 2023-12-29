@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О приёме в Посольстве по случаю Дня России </se>
+    <se lang="es" variant_id="1">La recepción en la Embajada con motivo del Día de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 июня</se>
+    <se lang="es" variant_id="1">09 junio</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_priyeme_v_posolstve_po_sluchayu_dnya_rossii/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/la_recepci_n_en_la_embajada_con_motivo_del_d_a_de_rusia/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">8 июня с.г. в Посольстве прошёл торжественный приём по случаю Дня России.</se>
+      <se lang="es" variant_id="1">El 8 de junio se celebró una recepción solemne en la Embajada con motivo del Día de Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В нём приняли участие представители федеральных и муниципальных органов власти, дипкорпуса, бизнес-кругов, соотечественники и журналисты.</se>
+      <se lang="es" variant_id="1">La Misión diplomatica rusa recibió a los empleados de las autoridades federales y municipales, representantes del cuerpo diplomático, círculos empresariales, compatriotas y periodistas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В честь праздника музыканты исполнили произведения российских и аргентинских композиторов.</se>
+      <se lang="es" variant_id="1">En honor al Día de Rusia los músicos interpretaron obras de compositores rusos y argentinos.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Гости смогли ознакомиться с выставкой репродукций работ знаменитого советского скульптора С.Эрьзи и экспозицией картин с видами России, продегустировать традиционные блюда русской кухни.</se>
+      <se lang="es" variant_id="1">Los invitados vieron la exposición de reproducciones de obras del famoso escultor soviético Stepán Erzia y pinturas con vistas de Rusia, así como degustaron platos tradicionales de la cocina rusa.</se>
+    </para>
+  </body>
+</html>

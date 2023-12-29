@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече роспосла в Администрации президента Уругвая </se>
+    <se lang="es" variant_id="1">Sobre la reunión del Embajador de Rusia en la Secretaría del Presidente de Uruguay </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">25 января / 2021</se>
+    <se lang="es" variant_id="1">25 enero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_vstreche_rosposla_v_administratsii_prezidenta_urugvaya/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_la_reuni_n_del_embajador_de_rusia_en_la_secretar_a_del_presidente_de_uruguay/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">состоялась встреча Посла Российской Федерации в Восточной Республике Уругвай А.В.Будаева с руководителем Администрации президента этой страны, А.Дельгадо.</se>
+      <se lang="es" variant_id="1">El 25 de enero del a.c. se celebró la reunión entre el Embajador de la Federación de Rusia en la República Oriental del Uruguay Andrey V. Budaev y el Secretario de la Presidencia del país Álvaro Delgado.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы обсуждались перспективные направления взаимовыгодного двустороннего сотрудничества в различных областях.</se>
+      <se lang="es" variant_id="1">En el transcurso de la conversación se abordaron las vías perspectivas de la cooperación bilateral mutualmente beneficiosa en varios ámbitos.</se>
+    </para>
+  </body>
+</html>

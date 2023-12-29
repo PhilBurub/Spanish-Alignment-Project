@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии фотовыставки, посвященной Мексике </se>
+    <se lang="es" variant_id="1">Inaugurada exposición dedicada a México en Moscú </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 ноября / 2021</se>
+    <se lang="es" variant_id="1">10 de noviembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/ob_otkrytii_fotovystavki_posvyashchennoy_meksike/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/inaugurada_exposici_n_dedicada_a_m_xico_en_mosc/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">10 ноября в Москве по адресу ул. Арбат, 17 состоялось открытие фотовыставки «Мексика: люди и дела», посвященной 200-летию обретения Мексикой независимости (сентябрь 1821 г.), а также предстоящей в декабре годовщине установления российско-мексиканских дипломатических отношений (1890 г.).</se>
+      <se lang="es" variant_id="1">El pasado 10 de noviembre, en Moscú (C/.Arbat, 17) se inauguró la exposición grafica “México: personas y hechos” dedicada al 200 Aniversario de la Consumación de la Independencia de México (septiembre de 1821), así como al aniversario de las relaciones diplomáticas ruso-mexicanas establecidas en diciembre de 1890.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Выставка, которая продлится до 29 ноября, представляет собой экспозицию работ российского фотохудожника С.Л.Ковальчука, запечатлевшего в ходе поездки в Мексику простых людей и результаты их ежедневного вклада в сохранение культурного наследия страны.</se>
+      <se lang="es" variant_id="1">La exposición estará abierta hasta el próximo 29 de noviembre y recoge obras del fotógrafo ruso Serguéi Kovalchuk quien durante el viaje a México retrató a personas comunes y corrientes y los resultados de su aportación cotidiana a la preservación del patrimonio cultural nacional.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Выступившие на открытии Директор Латиноамериканского департамента МИД России А.В.Щетинин, Чрезвычайный и Полномочный Посол Мексиканских Соединенных Штатов в Российской Федерации Н.Пенсадо, Председатель Союза фотохудожников России Д.Н.Иванов и сам автор С.Л.Ковальчук подчеркнули символичность мероприятия как важной составляющей культурного и духовного единения народов России и Мексики, укрепления уз дружбы и сотрудничества между двумя странами.</se>
+      <se lang="es" variant_id="1">El Director del Departamento Latinoamericano del MAE de Rusia, Alexander Schetinin, la Embajadora Extraordinaria y Plenipotenciaria de los Estados Unidos Mexicanos en la Federación de Rusia, Norma Pensado Moreno, el Presidente de la Unión de Fotógrafos de Rusia, Dmitri Ivanov, y el propio autor, Serguéi Kovalchuk, quienes usaron de la palabra durante la inauguración, destacaron el carácter simbólico de la exposición en tanto importante parte constitutiva de la unión cultural y espiritual de los pueblos de Rusia y México, de la consolidación de los lazos de amistad y cooperación entre ambos países.</se>
+    </para>
+  </body>
+</html>

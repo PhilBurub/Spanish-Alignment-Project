@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Прием заявок на обучение в России продлен до 15 марта </se>
+    <se lang="es" variant_id="1">Se extienden los plazos del registro para estudiar en Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">19 февраля / 2021</se>
+    <se lang="es" variant_id="1">19 de febrero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/priem_zayavok_na_obuchenie_v_rossii_prodlen_do_15_marta/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/se_extienden_los_plazos_del_registro_para_estudiar_en_rusia/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Россотрудничество продлевает регистрацию кандидатов на обучение в пределах квоты Правительства Российской Федерации.</se>
+      <se lang="es" variant_id="1">La Agencia Federal Rossotrudnichestvo ha ampliado el registro de candidatos para estudiar en Rusia dentro de la cuota del Gobierno de la Federación de Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Заявку на сайте education-in-russia.com можно подать до 00:00 15 марта 2021 года по московскому времени.</se>
+      <se lang="es" variant_id="1">Se puede enviar una solicitud en el sitio web education-in-russia.com hasta las 00:00 del 15 de marzo de 2021, hora de Moscú.</se>
+    </para>
+  </body>
+</html>

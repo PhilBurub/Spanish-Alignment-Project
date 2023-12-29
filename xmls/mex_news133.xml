@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Сокровища Урала в сердце Мехико </se>
+    <se lang="es" variant_id="1">Joyas rusas en el corazón de México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">28 мая / 2021</se>
+    <se lang="es" variant_id="1">28 de mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/sokrovishcha_urala/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/joyas_rusas/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В 1851 году российский император Николай I распорядился отправить на Всемирную выставку в Лондон работы русских мастеров из уральского малахита – дверь, две чаши, вазу и мозаичный стол, заслужившие самые высокие оценки жюри конкурса.</se>
+      <se lang="es" variant_id="1">En 1851 el zar Nicolás I envió a la Gran Exposición Universal de Londres un mesón de mosaico, una puerta, dos fuentes y un macetón de malaquita, un precioso mineral abundante en la región rusa de los Urales.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Туда они так и не попали и со временем были перемещены в Чапультепекский дворец.</se>
+      <se lang="es" variant_id="1">Por su belleza y finura las piezas se ganaron la admiración del jurado de la Exposición.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">На рубеже XIX и XX веков президент Мексики Порфирио Диас постановил приобрести эти малахитовые изделия в Европе для украшения одного из залов Национального дворца в Мехико.</se>
+      <se lang="es" variant_id="1">Siendo presidente de México Porfirio Díaz, las mismas fueron adquiridas en Europa para engalanar un salón del Palacio Nacional, aunque nunca fueron colocadas y se trasladaron al Castillo de Chapultepec.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Сегодня в этом здании находится Национальный исторический музей, в Малахитовом зале которого и выставлена гордость русских мастеров.</se>
+      <se lang="es" variant_id="1">Hoy día estas obras de los maestros rusos forman parte del impresionante Salón de Malaquitas del Museo Nacional de Historia.</se>
+    </para>
+  </body>
+</html>

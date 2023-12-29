@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Акция "Сад памяти" прошла в Мексике по случаю празднования Дня Победы </se>
+    <se lang="es" variant_id="1">La acción internacional "Jardín de la memoria" se llevó a cabo en México con motivo de la celebración del día de la Victoria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">17 мая</se>
+    <se lang="es" variant_id="1">16 de mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/aktsiya_sad_pamyati_proshla_v_meksike_po_sluchayu_prazdnovaniya_dnya_pobedy/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/la_acci_n_internacional_jard_n_de_la_memoria_se_llev_a_cabo_en_m_xico_con_motivo_de_la_celebraci_n_d/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Сегодня на территории Movimiento Antorchista Nacional при поддержке Россотрудничества и Посольства России в Мексике, а также при содействии представителей движения «ВОЛОНТЁРЫ ПОБЕДЫ» были посажены 3 дерева в память о погибших в годы Великой Отечественной войны.</se>
+      <se lang="es" variant_id="1">Hoy, en el territorio del Movimiento Antorchista Nacional, con el apoyo de Casa rusa en la Ciudad de México y la Embajada de Rusia en México, así como con la asistencia de representantes del movimiento "Voluntarios de la Victoria", se plantaron tres árboles en memoria de los muertos durante la Gran Guerra Patria.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Cоветник-посланник Посольства К.Дорохин: Сегодня мы посадили на дружественной нам мексиканской земле не просто деревья, а символ памяти.</se>
+      <se lang="es" variant_id="1">Hoy hemos plantado no solo árboles, sino un símbolo de la memoria en una tierra mexicana amistosa para nosotros.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Эти деревья будут расти и процветать, как и наши отношения с Мексикой, и напоминать нам о тех, кто пожертвовал своей жизнью за нашу свободу, и о том, что мы должны делать все возможное, чтобы сохранить ее.</se>
+      <se lang="es" variant_id="1">Estos árboles crecerán y prosperarán, al igual que nuestra relación con México, y nos recordarán a aquellos que sacrificaron sus vidas por nuestra libertad y que debemos hacer todo lo posible para preservarla. Gracias a nuestros amigos mexicanos por esta oportunidad.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Международная акция "Сад памяти" впервые была проведена в 2020 году.</se>
+      <se lang="es" variant_id="1">La acción Internacional "Jardín de la memoria" se celebró por primera vez en 2020.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Ее цель - увековечить память каждого, кто погиб в годы Великой Отечественной войны.</se>
+      <se lang="es" variant_id="1">Su objetivo es perpetuar la memoria de todos los que murieron durante la gran guerra patria.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">В рамках акции в 89 регионах России и более чем в 35 странах мира будет высажено 27 миллионов деревьев.</se>
+      <se lang="es" variant_id="1">En el marco de la campaña se plantarán 27 millones de árboles en 89 regiones de Rusia y en más de 35 países del mundo.</se>
+    </para>
+    <para id="6">
+      <se lang="ru" variant_id="0">Напомним, что общие людские потери (военнослужащих и гражданского населения) СССР за время войны составили 27 миллионов человек.</se>
+      <se lang="es" variant_id="1">Recordemos que las pérdidas humanas totales (militares y civiles) de la URSS durante la guerra ascendieron a 27 millones de personas.</se>
+    </para>
+  </body>
+</html>

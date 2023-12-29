@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексику прибыла очередная партия российской вакцины «Спутник V» </se>
+    <se lang="es" variant_id="1">El nuevo lote de "Sputnik V" arriba a México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">31 марта / 2021</se>
+    <se lang="es" variant_id="1">31 de marzo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksiku_pribyla_ocherednaya_partiya_rossiyskoy_vaktsiny_sputnik_v/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_nuevo_lote_de_sputnik_v_arriba_a_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">31 марта 2021 г. в Мексику прибыла очередная партия российской вакцины от коронавируса «Спутник V» в количестве 500 тыс.</se>
+      <se lang="es" variant_id="1">El 31 de marzo de 2021 llegó a México el nuevo lote de 500 mil dosis de la vacuna rusa contra el coronavirus “Sputnik V”.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Во встрече груза в Международном аэропорту г. Мехико приняли участие Посол России в Мексике В.В.Коронелли, генеральный директор Главного управления по Европе МИД Мексики Б.Агилар и глава мексиканской компании «Бирмекс» (официальный импортер препарата) П.Сентено.</se>
+      <se lang="es" variant_id="1">En la recepción de este cargamento en el Aeropuerto Internacional de la Ciudad de México participaron el Embajador de Rusia en México, Víktor Koronelli, Director General para Europa de la SRE, Bernardo Aguilar, y el Director General de Birmex, Pedro Zenteno Santaella.</se>
+    </para>
+  </body>
+</html>

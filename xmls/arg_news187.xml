@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии выставки русского скульптора С.Д.Эрьзи в Посольстве </se>
+    <se lang="es" variant_id="1">Sobre la inauguración de la exposición del escultor ruso Stepan Erzya en la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 сентября</se>
+    <se lang="es" variant_id="1">12 setiembre</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/ob_otkrytii_vystavki_russkogo_skulptora_s_d_erzi_v_posolstve/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/sobre_la_inauguraci_n_de_la_exposici_n_del_escultor_ruso_stepan_erzya_en_la_embajada/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Экс-сенатор Российской Федерации от Республики Мордовия В.В.Литюшкин передал в дар российскому диппредставительству копии работ выдающегося русского скульптора С.Д.Нефёдова, творившего под псевдонимом Эрьзя.</se>
+      <se lang="es" variant_id="1">El ex senador de la Federación de Rusia por la República de Mordovia, Vladimir Lityushkin, donó a la Misión diplomática rusa copias de las obras del destacado escultor ruso Stepan Nefedov, que trabajó bajo el seudónimo de Erzya.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Экспозиция, украсившая представительские залы Посольства, воспроизводит историю творческого пути мастера.</se>
+      <se lang="es" variant_id="1">La exposición que decoró las salas representativas de la Embajada reproduce la historia del camino creativo del maestro.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Среди 30 работ представлены как ранние («Эрзянка», «Калипсо», «Иоанн Креститель», «Ева»), так и более поздние произведения художника («Пламенный», «Аргентинка», «Портрет матери», «Старик-мордвин», «Русская женщина»), которые он создал в период проживания в Аргентине с 1927 по 1950 год.</se>
+      <se lang="es" variant_id="1">Entre las 30 obras se presentan tanto las primeras ("Erzyanka", "Calypso", "Juan el Bautista", "Eva") como las obras posteriores del artista ("Ardiente", "Mujer argentina", "Retrato de la madre", "Viejo mordvin", "Mujer rusa") que el artista creó mientras vivía en Argentina de 1927 a 1950.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Примечательно, что для изготовления своих скульптур С.Д.Эрьзя использовал уникальные породы дерева – кебрачо и альгарробо, встречающиеся в субтропических лесах Южной Америки.</se>
+      <se lang="es" variant_id="1">Cabe destacar que para sus esculturas Stepan Erzya utilizó tipos únicos  de madera: el quebracho y el algarrobo, que se encuentran en los bosques subtropicales de América del Sur.</se>
+    </para>
+  </body>
+</html>

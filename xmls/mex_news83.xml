@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О праздновании Дня Победы в Мексике  </se>
+    <se lang="es" variant_id="1">En México se celebró el Día de la Victoria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 мая / 2022</se>
+    <se lang="es" variant_id="1">09 de mayo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_prazdnovanii_dnya_pobedy_v_meksike_/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/en_mexico_se_celebro_el_dia_de_la_victoria/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Накануне Дня Победы в Мехико в рамках «Бессмертного полка» прошла ставшая уже традиционной акция Стена Памяти.</se>
+      <se lang="es" variant_id="1">En vísperas del Día de la Victoria y en el marco del “Regimiento Inmortal” en la Ciudad de México se celebró el acto tradicional denominado “Muro de la Memoria”.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Отдать дань уважения борцам с нацизмом пришли живущие и работающие в Мексике соотечественники и члены их семей, мексиканские граждане, сотрудники посольства.</se>
+      <se lang="es" variant_id="1">Los compatriotas rusos y sus familiares, ciudadanos mexicanos y personal de la Embajada rindieron homenaje a todos que lucharon contra el nazismo durante la Gran Guerra Patria.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Посол В.В.Коронелли: "Идут годы, но память не только остается, но и крепнет, передаётся в семьях из поколения в поколение.</se>
+      <se lang="es" variant_id="1">Embajador Víktor Koronelli: Pasan los años, pero la memoria no sólo persiste sino se fortalece, se perpetúa a través de las generaciones.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Бессмертный Полк, который в эти дни шагает по планете, – самое яркое тому свидетельство.</se>
+      <se lang="es" variant_id="1">El Regimiento Inmortal que está marchando por el planeta en estos días es la mejor muestra de ello.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">&lt;…&gt; 77 лет назад нацизм был остановлен нашими предками.</se>
+      <se lang="es" variant_id="1">&lt;…&gt; Hace 77 años el nazismo fue detenido por nuestros antepasados.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Сегодня не пройдут ни неофашизм, ни неонацизм.</se>
+      <se lang="es" variant_id="1">Hoy no pasarán el neonazismo ni neofascismo!</se>
+    </para>
+  </body>
+</html>

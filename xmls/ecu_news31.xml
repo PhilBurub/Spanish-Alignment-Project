@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Мероприятие в эквадорской столице в честь кубинского поэта и революционера Х.Марти </se>
+    <se lang="es" variant_id="1">Evento en la capital ecuatoriana en honor al poeta y revolucionario cubano José Martí </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">19 мая / 2022</se>
+    <se lang="es" variant_id="1">19 mayo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/meropriyatie_v_ekvadorskoy_stolitse_v_chest_kubinskogo_poeta_i_revolyutsionera_kh_marti/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/evento_en_la_capital_ecuatoriana_en_honor_al_poeta_y_revolucionario_cubano_jos_mart/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">19 мая с.г. в музейном комплексе «Mitad del Mundo» (Середина мира), вблизи эквадорской столицы, по инициативе Посольства Кубы в Эквадоре состоялась церемония возложения венков к памятнику кубинского поэта и революционера Хосе Марти, погибшего в этот день 127 лет назад в битве с испанскими колонизаторами.</se>
+      <se lang="es" variant_id="1">El 19 de mayo en la ciudad Mitad del Mundo (al norte de la ciudad de Quito) por iniciativa de la Embajada de Cuba en Ecuador, se realizó una ceremonia de colocación de ofrenda floral en el monumento al poeta y revolucionario cubano José Martí, quien murió ese día hace 127 años en una batalla con los colonialistas españoles.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии вместе с представителями дипломатического корпуса, аккредитованного в Эквадоре, постоянно проживающими в этой Андской стране кубинцами и местными властями принял участие и Посол России в Эквадоре В.И.Спринчан, возложивший от имени российского посольства корзину цветов и отдавший дань памяти Х.Марти.</se>
+      <se lang="es" variant_id="1">Al acto, junto a representantes del cuerpo diplomático acreditado en Ecuador, cubanos con residencia permanente en este país andino y autoridades locales, participó el Embajador de Rusia en Ecuador Vladimir Sprinchan, quien depositó flores en nombre de la Embajada de Rusia y rindió homenaje a la memoria de José Martí.</se>
+    </para>
+  </body>
+</html>

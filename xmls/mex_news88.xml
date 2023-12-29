@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О статье Посла России в Мексике в издании Los Buzos </se>
+    <se lang="es" variant_id="1">¿Qué hay detrás de la bandera rusa? </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">22 августа</se>
+    <se lang="es" variant_id="1">23 de agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_state_posla_rossii_v_meksike_v_izdanii_los_buzos/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/qu_hay_detr_s_de_la_bandera_rusa/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">22 августа в мексиканском издании Los Buzos опубликована статья Посла России Н.Софинского «Что стоит за российским флагом?»</se>
+      <se lang="es" variant_id="1">Los invitamos a leer el reciente artículo del Embajador de Rusia en México, Nikolay Sofínskiy, en Buzos de la Noticia "¿Qué hay detrás de la bandera rusa?"</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">22 августа объявлено Днем Государственного флага Российской Федерации.</se>
+      <se lang="es" variant_id="1">22 de agosto fue proclamado Día de la bandera nacional de la Federación de Rusia.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Сколько научных открытий было сделано под этим флагом!</se>
+      <se lang="es" variant_id="1">¡Cuántos descubrimientos científicos se han hecho bajo esta bandera!</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">От разработки периодической системы химических элементов до открытий в области математики, медицины и астрономии - эти достижения продолжают вдохновлять ученых и исследователей всего мира.</se>
+      <se lang="es" variant_id="1">Desde el desarrollo del sistema periódico de elementos químicos hasta descubrimientos en matemáticas, medicina y astronomía, estos logros siguen inspirando a científicos e investigadores de todo el mundo.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Россия неоднократно помогала США и во время борьбы за независимость, и во время гражданской войны, и т. д.</se>
+      <se lang="es" variant_id="1">Incluso varias veces Rusia ayudó a EE. UU. tanto durante su lucha por la independencia, como durante su guerra civil, etc.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0"> Н.Софинский: Россия выступает за справедливое мироустройство, что важно для других государств, если они думают о своих народах и против доминирования горстки стран на международной арене.</se>
+      <se lang="es" variant_id="1">N.Sofinskiy: Rusia aboga por un orden mundial justo, lo cual es importante para otros Estados si piensan en sus pueblos y en contra del dominio de un puñado de países en la arena internacional.</se>
+    </para>
+  </body>
+</html>

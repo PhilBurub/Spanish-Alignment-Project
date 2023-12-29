@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Спецвыпуск журнала «Русская мысль» </se>
+    <se lang="es" variant_id="1">La edición especial de la revista «El Pensamiento Ruso» </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">06 мая / 2020</se>
+    <se lang="es" variant_id="1">06 de mayo / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/spetsvypusk_zhurnala_russkaya_mysl/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/la_edici_n_especial_de_la_revista_el_pensamiento_ruso/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">При содействии Фонда поддержки и защиты прав соотечественников, проживающих за рубежом (соучредители – МИД России и Россотрудничество), издан специальный выпуск журнала «Русская мысль», посвященный 75-й годовщине Победы в Великой Отечественной войне.</se>
+      <se lang="es" variant_id="1">La edición especial (en inglés) de la revista «El Pensamiento Ruso» con motivo del 75 aniversario de la Victoria en la Gran Guerra Patria ya está disponible.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Спецвыпуск повествует о вкладе советского народа и Красной Армии в Победу и спасение мира от фашизма, героизме советских солдат и командиров, тружеников тыла, о бесчеловечных массовых преступлениях гитлеровцев и их пособников на оккупированных территориях.</se>
+      <se lang="es" variant_id="1">Esta edición se centra en la contribución del pueblo soviético y del Ejército Rojo en la Victoria, así como en la lucha contra los intentos de falsificar la historia de la Segunda Guerra Mundial.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Журнал "Русская мысль" (англ.)</se>
+      <se lang="es" variant_id="1">"El Pensamiento Ruso" (en inglés)</se>
+    </para>
+  </body>
+</html>

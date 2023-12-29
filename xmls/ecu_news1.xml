@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Акция «Сад памяти» на экваторе </se>
+    <se lang="es" variant_id="1">El Jardín de la memoria en el Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">08 мая</se>
+    <se lang="es" variant_id="1">09 mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/aktsiya_sad_pamyati_na_ekvatore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/el_jard_n_de_la_memoria_en_el_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">«Волонтёры Победы», соотечественники, выпускники отечественных вузов и сотрудники Посольства России в Эквадоре провели 5 мая 2023 г. патриотическую акцию «Сад Памяти».</se>
+      <se lang="es" variant_id="1">"Voluntarios de la Victoria", compatriotas, egresados de universidades soviéticas y rusas y funcionarios de la Embajada de Rusia en Ecuador realizaron el 5 de mayo de 2023 la acción patriótica "El Jardín de la Memoria".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">На территории комплекса «Митад дель Мундо» (Середина мира), расположенного на линии экватора, были высажены молодые деревца лимонов.</se>
+      <se lang="es" variant_id="1">En el territorio del complejo "Mitad del mundo", ubicado en el ecuador, se plantaron árboles de limón.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В ходе краткого митинга Посол России в Эквадоре В.И.Спринчан и координатор движения «Волонтеры Победы» в стране пребывания Ж.Робалино рассказали присутствующим о значении этого мероприятия для сохранения памяти о подвигах наших отцов и дедов в ходе Великой Отечественной войны.</se>
+      <se lang="es" variant_id="1">Durante la breve manifestación, el Embajador de Rusia en Ecuador, Vladimir Sprinchan, y el coordinador del movimiento "Voluntarios de la Victoria" en el país anfitrión, Zhanna Robalino, hablaron a los presentes sobre la importancia de este evento para preservar la memoria de las hazañas de nuestros padres y abuelos durante la Gran Guerra Patria.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Акция прошла в сопровождении песен и мелодий, посвященных Дню Победы.</se>
+      <se lang="es" variant_id="1">El evento se llevó a cabo acompañado de canciones y melodías dedicadas al Día de la Victoria.</se>
+    </para>
+  </body>
+</html>

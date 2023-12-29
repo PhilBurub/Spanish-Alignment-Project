@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Встреча с губернатором Пайсанду </se>
+    <se lang="es" variant_id="1">Reunión con el Intendente de Paysandú </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">07 ноября / 2021</se>
+    <se lang="es" variant_id="1">07 noviembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/vstrecha_s_gubernatorom_paysandu/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/reuni_n_con_el_intendente_de_paysand/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">6 ноября 2021 г. во время командировки в департамент Пайсанду посол России А.В.Будаев встретился с губернатором Н.Оливерой.</se>
+      <se lang="es" variant_id="1">El 6 de noviembre de 2021 durante su viaje al departamento de Paysandú el Embajador de Rusia Andrey Budaev se reunió con el Intendente Nicolás Olivera.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы затрагивались перспективы развития взаимовыгодного межрегионального сотрудничества, а также вопросы, связанные с вкладом в культурное развитие региона представителей российской диаспоры, включая проведение фестиваля славянской культуры.</se>
+      <se lang="es" variant_id="1">Durante su conversación las partes abordaron las perspectivas del desarrollo de la cooperación interregional, así como la contribución de los representantes de la diáspora rusa al desarrollo cultural de la región, inclusive la celebración del festival de la cultura eslava.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">После встречи роспосол и губернатор Пайсанду приняли участие в посадке на Аллее наций в Ботаническом саду г. Пайсанду саженца березки, как символа дружбы и сотрудничества между нашими двумя странами.</se>
+      <se lang="es" variant_id="1">Después de la reunión el Embajador y el Intendente de Paysandú participaron en la plantación en el Paseo de las Naciones del Jardín Botánico de la ciudad de Paysandú del abedul como símbolo de amistad y cooperación entre nuestros dos países.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">В ходе состоявшихся мероприятий посол дал интервью представителям местных СМИ.</se>
+      <se lang="es" variant_id="1">En el marco de su viaje el Embajador concedió una entrevista a los periodistas de los medios locales.</se>
+    </para>
+  </body>
+</html>

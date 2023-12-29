@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Первая партия вакцины «Спутник V» прибыла в Мексику </se>
+    <se lang="es" variant_id="1">Llegó a México el primer lote de la vacuna rusa "Sputnik V" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 февраля / 2021</se>
+    <se lang="es" variant_id="1">23 de febrero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/pervaya_partiya_vaktsiny_sputnik_v_pribyla_v_meksiku/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/lleg_a_m_xico_el_primer_lote_de_la_vacuna_rusa_sputnik_v/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">22 февраля 2021 г. в Мексику прибыла первая партия российской вакцины от коронавируса «Спутник V».</se>
+      <se lang="es" variant_id="1">Arribó a México el primer lote de 200 mil dosis de Sputnik V, la vacuna rusa contra el Covid-19.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В торжественной церемонии в Международном аэропорту г. Мехико в присутствии многочисленных представителей прессы приняли участие Министр иностранных дел Мексики М.Эбрард Касаубон, Посол России в Мексике В.В.Коронелли, заместитель Министра иностранных дел Мексики по многосторонним вопросам и правам человека М.Дельгадо, генеральные директора Главных управлений МИД по Европе (Б.Агилар) и по вопросам региональных американских организаций и механизмов (Э.Гуадаррама).</se>
+      <se lang="es" variant_id="1">En la ceremonia de entrega, que se celebró en el Aeropuerto Internacional Benito Juarez de la Ciudad de México en presencia de los representantes de los medios mexicanos, participaron el Secretario de Relaciones Exteriores Marcelo Ebrard, el Embajador de Rusia en México Víktor Koronelli, la Subsecretaria para Asuntos Multilaterales y Derechos Humanos Martha Delgado, Director General para Europa Bernardo Aguilar y Director General de Organismos Regionales y Americanos Efraín Guadarrama.</se>
+    </para>
+  </body>
+</html>

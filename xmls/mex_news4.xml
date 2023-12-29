@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">24 февраля в Клубе журналистов Мексики состоялось торжественное мероприятие в память о героях Донбасса </se>
+    <se lang="es" variant_id="1">El 24 de febrero, en el Club de Periodistas de México, se celebró un evento solemne en memoria de los héroes de Donbass  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">24 февраля</se>
+    <se lang="es" variant_id="1">25 de febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/24_fevralya_v_klube_zhurnalistov_meksiki_sostoyalos_torzhestvennoe_meropriyatie_v_pamyat_o_geroyakh_/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_24_de_febrero_en_el_club_de_periodistas_de_m_xico_se_celebr_un_evento_solemne_en_memoria_de_los_h/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">24 февраля в Клубе журналистов Мексики состоялось торжественное мероприятие в память о героях Донбасса, а также презентация книги мексиканского поэта Алехандро Зентено Чавеса "Да здравствует Россия!</se>
+      <se lang="es" variant_id="1">El 24 de febrero, en el Club de Periodistas de México , se celebró un evento solemne en memoria de los héroes de Donbass, así como la presentación del libro del poeta mexicano Alejandro Zenteno Chávez: “¡Vive Rusia!</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие представители дипломатического корпуса Мексики, а также прогрессивная интеллигенция.</se>
+      <se lang="es" variant_id="1">Que despierta la humanidad.” En el evento participaron representantes del cuerpo diplomático de México, así como intelectuales progresistas.</se>
+    </para>
+  </body>
+</html>

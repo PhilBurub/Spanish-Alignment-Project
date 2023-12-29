@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об интервью Посла России эквадорской газете </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador de Rusia al diario ecuatoriano </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 марта / 2022</se>
+    <se lang="es" variant_id="1">21 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/ob_intervyu_posla_rossii_ekvadorskoy_gazete/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_del_embajador_de_rusia_al_diario_ecuatoriano/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">21 марта с.г. Посол России в Эквадоре В.И.Спринчан в пространном виртуальном интервью эквадорской газете “La Hora” (Час) подробно рассказал о корнях конфликта на Украине, причинах приведших к началу проведения специальной военной операции российских вооруженных сил и ходе ее развития.</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia en Ecuador Vladimir Sprinchan concedió una extensa entrevista virtual al diario ecuatoriano “La Hora”, habló en detalle sobre las raíces del conflicto en Ucrania, las razones que llevaron al inicio de la operación militar especial de las fuerzas armadas rusas y el rumbo de su desarrollo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Также Посол ответил на вопросы журналиста об ущербе, которые западные экономические санкции несут как российской экономике, так и двусторонним торгово-экономических отношениям.</se>
+      <se lang="es" variant_id="1">El Embajador también respondió a las preguntas del periodista sobre el daño que las sanciones económicas occidentales tienen tanto en la economía rusa como en las relaciones comerciales y económicas bilaterales.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Интервью доступно по ссылке  https://www.youtube.com/watch?v=9vCW7G4MNlI</se>
+      <se lang="es" variant_id="1">La entrevista está disponible en youtube -  https://www.youtube.com/watch?v=9vCW7G4MNlI</se>
+    </para>
+  </body>
+</html>

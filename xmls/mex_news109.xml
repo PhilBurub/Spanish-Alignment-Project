@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России в Мексике дал интервью информагентству «Нотимекс» </se>
+    <se lang="es" variant_id="1">Atrás Entrevista del Embajador de Rusia a la agencia Notimex </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">05 мая / 2020</se>
+    <se lang="es" variant_id="1">05 de mayo / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_v_meksike_dal_intervyu_informagentstvu_notimeks/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/atr_s_entrevista_del_embajador_de_rusia_a_la_agencia_notimex/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Посол России в Мексике В.В.Коронелли дал интервью ведущему государственному информационному агентству «Нотимекс».</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia en Mexico, Víktor Koronelli, concedió una entrevista a la agencia de noticias Notimex, en la cual aborda el estado de las relaciones bilaterales, las medidas tomadas para frenar la propagación del coronavirus en Rusia y la situación en Siria, entre otros temas.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С текстом интервью (на испанском языка) можно ознакомиться по следующей ссылке: Интервью Посла России в Мексике информагентству «Нотимекс»</se>
+      <se lang="es" variant_id="1">El texto de la entrevista está disponible con el siguiente enlace: Entrevista del Embajador de Rusia a la agencia Notimex</se>
+    </para>
+  </body>
+</html>

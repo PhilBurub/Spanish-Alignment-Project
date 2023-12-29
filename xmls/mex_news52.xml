@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Мексиканский ансамбль выступит на Фольклориаде в Уфе </se>
+    <se lang="es" variant_id="1">México participa en la Folkloriada Mundial de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 июля / 2021</se>
+    <se lang="es" variant_id="1">03 de julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/folkloriada/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/mexico_en_la_folkloriada/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">С 3 по 10 июля 2021 года центром мирового фольклора станет Республика Башкортостан.</se>
+      <se lang="es" variant_id="1">Del 3 al 10 de julio de 2021 en la ciudad rusa de Ufá se celebrará la VI Folkloriada Mundial CIOFF®.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В VI Всемирной Фольклориаде CIOFF®, которая впервые состоится в России,  примут  участие 1500  артистов из  37 стран мира.</se>
+      <se lang="es" variant_id="1">En este certamen que por primera vez en la historia tendrá lugar en Rusia, participarán 1500 artistas de 37 países del mundo.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Мексика будет представлена на состязании ансамблем народного танца "Вальярта ацтека".</se>
+      <se lang="es" variant_id="1">México estará representado en el festival por el grupo de danza folklórica Vallarta Azteca.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Официальный сайт Фольклориады: https://folkloriada2021.com/</se>
+      <se lang="es" variant_id="1">Sitio web oficial de la Folkloriada: https://folkloriada2021.com/sp/</se>
+    </para>
+  </body>
+</html>

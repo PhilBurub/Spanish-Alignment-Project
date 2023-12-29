@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">10 февраля в России отмечается профессиональный праздник − День дипломата </se>
+    <se lang="es" variant_id="1">El 10 de febrero en Rusia se celebra la fiesta profesional − el Día del diplomático.  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">11 февраля</se>
+    <se lang="es" variant_id="1">11 de febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/10_fevralya_v_rossii_otmechaetsya_professionalnyy_prazdnik_den_diplomata/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_10_de_febrero_en_rusia_se_celebra_la_fiesta_profesional_el_d_a_del_diplom_tico_/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">10 февраля в России отмечается профессиональный праздник - День дипломата.</se>
+      <se lang="es" variant_id="1">El 10 de febrero en Rusia se celebra la fiesta profesional − el Día del diplomático.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Дата праздника выбрана не случайно: она связана с древнейшим документальным упоминанием (10 февраля 1549 года) Посольского приказа - первой в истории нашей страны государственной структуры, занимавшейся иностранными делами.</se>
+      <se lang="es" variant_id="1">La fecha de la fiesta no fue elegida por casualidad: está relacionada con la mención documental más antigua (10 de febrero 1549) de la orden de Embajada, la primera estructura estatal en la historia de nuestro país que se ocupaba de los asuntos exteriores.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Современная система международных отношений немыслима без России: наша страна поддерживает дипломатические отношения с 191 государством, имеет более 140 дипломатических представительств по всему миру.</se>
+      <se lang="es" variant_id="1">El sistema moderno de relaciones internacionales es inimaginable sin Rusia: nuestro país mantiene relaciones diplomáticas con 191 países, cuenta con más de 140 misiones diplomáticas en todo el mundo.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">По этому случаю состоялся прием в Посольстве России в Мексике.</se>
+      <se lang="es" variant_id="1">En esta ocasión se celebró una recepción en la Embajada de Rusia en México.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">На церемонии присутствовали главы дипломатических миссий, представители политических, общественных и деловых организаций.</se>
+      <se lang="es" variant_id="1">En la ceremonia participaron los jefes de las misiones diplomáticas, representantes de organizaciones políticas, sociales y empresariales.</se>
+    </para>
+  </body>
+</html>

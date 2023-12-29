@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече с китайским дипломатом в Эквадоре </se>
+    <se lang="es" variant_id="1">Reunión con el diplomático chino en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">17 января</se>
+    <se lang="es" variant_id="1">17 enero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/o_vstreche_s_kitayskim_diplomatom_v_ekvadore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/reuni_n_con_el_diplom_tico_chino_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">17 января с.г. Советник-Посланник Посольства России в Эквадоре М.Е.Кокорев встретился со своим коллегой, советником по политическим вопросам Посольства Китая в Эквадоре В.Хинмингом.</se>
+      <se lang="es" variant_id="1">El 17 de enero de 2022 el Ministro Consejero de la Embajada de Rusia en Ecuador, Mikhail Kokorev, se reunió con su homólogo, el Consejero Político de la Embajada de China en Ecuador, Wang Xinming.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Китайский собеседник отметил предвзятое освещение отношений между Кито и Пекином, а также действий России по защите Донбасса западными новостными агентствами в местных СМИ, остающимися здесь наиболее распространёнными источниками информации.</se>
+      <se lang="es" variant_id="1">El interlocutor chino señaló la parcialidad en la cobertura informativa de las relaciones entre Quito y Beijing, así como las acciones de Rusia para proteger Donbass por parte de las agencias de noticias occidentales en los medios locales, que siguen siendo las fuentes de información más comunes.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Вместе с тем, дипломат дружественного Китая подчеркнул важность развития отношений с Россией по всем направлениям, представляющим взаимный интерес, особенно в многосторонних форматах.</se>
+      <se lang="es" variant_id="1">Al mismo tiempo, el diplomático de la amistosa China destacó la importancia de desarrollar las relaciones con Rusia en todas las áreas de interés mutuo, especialmente en formatos multilaterales.</se>
+    </para>
+  </body>
+</html>

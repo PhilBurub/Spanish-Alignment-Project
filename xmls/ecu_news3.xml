@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Эквадоре стремление к изучению русского языка проявляется ещё в школе </se>
+    <se lang="es" variant_id="1">El deseo de aprender ruso en Ecuador comienza desde la escuela </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 августа</se>
+    <se lang="es" variant_id="1">23 agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/v_ekvadore_stremlenie_k_izucheniyu_russkogo_yazyka_proyavlyaetsya_eshchye_v_shkole/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/el_deseo_de_aprender_ruso_en_ecuador_comienza_desde_la_escuela/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Посол России в Эквадоре В.И.Спринчан встретился с семьей 12-летней Камилы Апонте и самой девочкой, которая сообщила о горячем желании изучать русский язык и познавать русскую культуру.</se>
+      <se lang="es" variant_id="1">El 23 de agosto de este año, el Embajador de Rusia en Ecuador, Vladímir Sprinchan, se reunió con la familia de la niña de 12 años que se llama Camila Aponte y con la misma niña, quienes informaron sobre el deseo ardiente de aprender ruso.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Юная эквадорка выразила готовность организовать группу своих ровесников для освоения базового уровня русского языка.</se>
+      <se lang="es" variant_id="1">La joven ecuatoriana expresó su disposición a organizar un grupo de sus compañeros para dominar el nivel básico de la lengua rusa.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В свою очередь Посол В.И.Спринчан взял на себя обязательство подобрать для эквадорки преподавателя и познакомить с ребятами её возраста из семей выпускников отечественных вузов, одинаково говорящих на русском и испанском языках, для общения.</se>
+      <se lang="es" variant_id="1">A su vez, el Embajador Sprinchan, se ha comprometido buscar un profesor para la ecuatoriana y presentarla a chicos de su misma edad de las familias de los graduados de universidades nacionales que hablan en ruso y español para la comunicación.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">На прощание Камиле был подарен сборник стихотворений А.С.Пушкина, М.Ю.Лермонтова и С.А.Есенина в переводе на испанский язык М.Корнехо, а также брошюра о достопримечательностях России.</se>
+      <se lang="es" variant_id="1">En su despedida, Camilla recibió una colección de poemas de A. S. Pushkin, M. Yu.Lermontov y S.A.Yesenin traducida al español por M. Cornejo, así como un folleto sobre los lugares de interés de Rusia.</se>
+    </para>
+  </body>
+</html>

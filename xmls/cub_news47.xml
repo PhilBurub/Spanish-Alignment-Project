@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О торжественной линейке по случаю 1 сентября в школе при Посольстве </se>
+    <se lang="es" variant_id="1">En la Escuela de la Embajada se celebró el solemne acto con motivo el Día de los Conocimientos </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">01 сентября</se>
+    <se lang="es" variant_id="1">01 septiembre</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://cuba.mid.ru/ru/press-centre/news/o_torzhestvennoy_lineyke_v_shkole_pri_posolstve_po_sluchayu_1_sentyabrya/</se>
+    <se lang="es" variant_id="1">https://cuba.mid.ru/es/press-centre/news/en_la_escuela_de_la_embajada_se_celebr_el_solemne_acto_con_motivo_el_d_a_de_los_conocimientos/</se>
+  </source>
+  <country>Cuba</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">1 сентября 2023 г. в школе при Посольстве России на Кубе состоялась торжественная линейка, посвящённая началу нового учебного года.</se>
+      <se lang="es" variant_id="1">El 1 de septiembre en la Escuela de la Embajada de Rusia en Cuba se celebró el solemne acto dedicado al inicio del nuevo año académico y el Día de los Conocimientos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">К учащимся школы обратился Посол В.В.Коронелли, пожелавший ребятам, в т.ч. будущим выпускникам 9 и 11 классов, успешно преодолеть все препятствия, родителям – терпения, а преподавателям – мудрости. </se>
+      <se lang="es" variant_id="1">El Embajador Víctor V. Koronelli se dirigió a los alumnos de la Escuela, sobre todo a los futuros graduados, deseándolos pasar de manera exitosa todos los obstáculos en su camino.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Перед собравшимися также выступил атташе по вопросам обороны П.Д.Куликов и директор школы Л.В.Соколова.</se>
+      <se lang="es" variant_id="1">Ante los asistentes también intervinieron el Agregado de Defensa, Petr D. Kulikov, y la Directora de la escuela, Larisa V. Sokolova.</se>
+    </para>
+  </body>
+</html>

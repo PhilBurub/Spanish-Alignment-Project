@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Телефонный разговор Президента России Владимира Путина с Президентом Аргентины Альберто Фернандесом </se>
+    <se lang="es" variant_id="1">Putin y Fernández discuten los acuerdos sobre el uso de la vacuna Sputnik V en Argentina </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">06 ноября / 2020</se>
+    <se lang="es" variant_id="1">06 noviembre / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/154__telefonnyy_razgovor_prezidenta_rossii_vladimira_putina_s_prezidentom_argentiny_alberto_fernandesom/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/154__putin_y_fern_ndez_discuten_los_acuerdos_sobre_el_uso_de_la_vacuna_sputnik_v_en_argentina/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Особое внимание уделено вопросам противодействия распространению коронавирусной инфекции.</se>
+      <se lang="es" variant_id="1">Los líderes prestaron "especial atención" a las cuestiones de la lucha contra la propagación del covid-19, comunicó el Kremlin.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">По инициативе аргентинской стороны состоялся телефонный разговор Владимира Путина с Президентом Аргентинской Республики Альберто Фернандесом.</se>
+      <se lang="es" variant_id="1">El presidente de Rusia, Vladímir Putin, abordó este viernes durante una llamada telefónica con su homólogo argentino, Alberto Fernández, las perspectivas de implementación de los acuerdos sobre el uso de la vacuna rusa Sputnik V en el país latinoamericano.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Особое внимание уделено вопросам противодействия распространению коронавирусной инфекции.</se>
+      <se lang="es" variant_id="1">Durante la conversación los líderes prestaron "especial atención" a las cuestiones de la lucha contra la propagación del covid-19, informó el Kremlin en un comunicado.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Подтверждён настрой на дальнейшее развитие взаимовыгодного сотрудничества между Россией и Аргентиной по всем основным направлениям, включая торгово-экономическую сферу.</se>
+      <se lang="es" variant_id="1">Además, tanto Putin, como Fernández confirmaron la disposición a seguir desarrollando "una cooperación mutuamente beneficiosa" entre los dos Estados "en todas las esferas principales, incluida la comercial y económica".</se>
+    </para>
+  </body>
+</html>

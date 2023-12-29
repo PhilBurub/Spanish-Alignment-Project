@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече Посла России с эквадорским деятелем культуры </se>
+    <se lang="es" variant_id="1">El Embajador de Rusia, Vladímir Sprinchan, se reunió con una figura de la cultura ecuatoriana </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">17 августа</se>
+    <se lang="es" variant_id="1">22 agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/o_vstreche_posla_rossii_s_ekvadorskim_deyatelem_kultury/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/el_embajador_de_rusia_vlad_mir_sprinchan_se_reuni_con_una_figura_de_la_cultura_ecuatoriana/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Эквадорский публицист и художник Марко Сурита подарил Посольству России в Эквадоре изготовленный им квадриптих, посвященный России.</se>
+      <se lang="es" variant_id="1">El publicista y artista ecuatoriano Marco Zurita regaló a la Embajada de Rusia en Ecuador un quadríptico dedicado a Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Посол В.И.Спринчан поблагодарил эквадорского друга за добрые чувства к нашей стране и вручил ему благодарность как символ укрепления отношений между Россией и Эквадором в гуманитарной сфере.</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia Vladímir Sprinchan agradeció al amigo ecuatoriano por sus buenos sentimientos hacia nuestro país y le entregó el merecido agradecimiento (pergamino), como símbolo del fortalecimiento de las relaciones entre Rusia y Ecuador en la esfera humanitaria.</se>
+    </para>
+  </body>
+</html>

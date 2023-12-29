@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об открытии фотовыставки в посольстве России </se>
+    <se lang="es" variant_id="1">La inauguración de exposición en la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 сентября / 2022</se>
+    <se lang="es" variant_id="1">23 setiembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/ob_otkrytii_fotovystavki_v_posolstve_rossii/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/la_inauguraci_n_de_exposici_n_en_la_embajada/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">23 сентября 2022 г. в здании российской дипмиссии в Уругвае состоялось открытие фотовыставки «Природные красоты России».</se>
+      <se lang="es" variant_id="1">El 23 de septiembre de 2022 en la Embajada de Rusia en Uruguay fue inaugurada la exposición fotográfica “Bellezas naturales de Rusia”.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие представители российской диаспоры, столичной мэрии, СМИ, общественно-политических и культурных кругов, а также дипкорпуса.</se>
+      <se lang="es" variant_id="1">En el evento participaron representantes de la diáspora rusa, Intendencia de Montevideo, medios de comunicación, círculos socio-políticos y culturales locales, así como del cuerpo diplomático.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Экспозиция вызвала интерес у присутствовавших.</se>
+      <se lang="es" variant_id="1">La exposición generó interés de los presentes.</se>
+    </para>
+  </body>
+</html>

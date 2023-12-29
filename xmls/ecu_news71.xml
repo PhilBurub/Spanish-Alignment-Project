@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об интервью посла России эквадорскому телеканалу «Ecuavisa» </se>
+    <se lang="es" variant_id="1">La entrevista del Embajador de Rusia al canal de televisión ecuatoriano "Ecuavisa" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 марта / 2022</se>
+    <se lang="es" variant_id="1">03 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/ob_intervyu_posla_rossii_ekvadorskomu_telekanalu_ecuavisa/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/la_entrevista_del_embajador_de_rusia_al_canal_de_televisi_n_ecuatoriano_ecuavisa/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">3 марта с.г. Посол России в Эквадоре В.И.Спринчан принял участие в программе «Прямой контакт» в прайм-тайм влиятельного эквадорского телеканала «Ecuavisa».</se>
+      <se lang="es" variant_id="1">En 3 de marzo el Embajador de Rusia en Ecuador Sr. Vladimir Sprinchan participó en el programa "Contacto Directo" (en horario de máxima audiencia) del influyente canal de televisión ecuatoriano "Ecuavisa".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В беседе с известным телеведущим Л.Артьедой посол представил позицию России по многим аспектам специальной военной операции Вооруженных сил России на Украине.</se>
+      <se lang="es" variant_id="1">Durante la conversación con el conocido presentador Sr. Lenin Artieda, Embajador Sprinchan presentó la posición de Rusia sobre muchos aspectos de la operación militar especial de las Fuerzas Armadas de Rusia en Ucrania.</se>
+    </para>
+  </body>
+</html>

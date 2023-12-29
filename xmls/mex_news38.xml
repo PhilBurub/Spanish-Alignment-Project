@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью В.В.Коронелли газете «Эль Универсаль» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador de Rusia al periódico "El Universal" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 мая / 2020</se>
+    <se lang="es" variant_id="1">09 de mayo / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_v_v_koronelli_gazete_el_universal/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_de_rusia_al_peri_dico_el_universal/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">9 мая 2020 г. одна из центральных мексиканских газет «Эль Универсаль» опубликовала интервью с Послом России в Мексике В.В.Коронелли, посвященное 75-й годовщине Победы над фашизмом и роли России в мире.</se>
+      <se lang="es" variant_id="1">El 9 de mayo de 2020 uno de los periódicos principales mexicanos, El Universal, publicó una entrevista con el Embajador de Rusia en México, Víctor Koronelli, dedicada al 75 aniversario de la derrota del nazismo y al papel de Rusia en el mundo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Ознакомиться с текстом интервью (на испанском языке) можно по ссылке: https://www.eluniversal.com.mx/mundo/rusia-aboga-por-un-mundo-policentrico-embajador-de-rusia-en-mexico</se>
+      <se lang="es" variant_id="1">La entrevista está disponible en el siguiente enlace: https://www.eluniversal.com.mx/mundo/rusia-aboga-por-un-mundo-policentrico-embajador-de-rusia-en-mexico</se>
+    </para>
+  </body>
+</html>

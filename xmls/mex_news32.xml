@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Доклад МИД России о ситуации с правами человека в отдельных странах </se>
+    <se lang="es" variant_id="1">Informe del MAE de Rusia sobre la situación de los DD HH en ciertos países </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">28 июля</se>
+    <se lang="es" variant_id="1">28 de julio</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/doklad_mid_rossii_o_situatsii_s_pravami_cheloveka_v_otdelnykh_stranakh/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/informe_del_mae_de_rusia_sobre_la_situaci_n_de_los_dd_hh_en_ciertos_pa_ses/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В настоящий доклад включена ситуация с правами человека в отдельных странах, в том числе относящих себя к развитым демократиям, считающих себя «образцовыми» в плане защиты прав человека, а также тяготеющих к этому кругу государств.</se>
+      <se lang="es" variant_id="1">El texto completo del Informe del Ministerio de Asuntos Exteriores de la Federación de Rusia "Sobre la situación de los derechos humanos en ciertos países" está disponible aquí.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Полный текст доклада.</se>
+      <se lang="es" variant_id="1">Su traducción al idioma español pronto estará disponible en este link.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России встретился с испанским путешественником А. Де Маричаларом </se>
+    <se lang="es" variant_id="1">Embajador de Rusia se reúne con el viajero español Álvaro de Marichalar </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">16 мая / 2022</se>
+    <se lang="es" variant_id="1">16 de mayo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_vstretilsya_s_ispanskim_puteshestvennikom_a_de_marichalarom/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_de_rusia_se_re_ne_con_el_viajero_espa_ol_lvaro_de_marichalar/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">16 мая 2022 г. Посол России в Мексике В.В.Коронелли принял в посольстве испанского путешественника, члена Русского географического общества А. Де Маричалара, осуществляющего кругосветное путешествие на водном мотоцикле в честь 500-летия первого кругосветного плавания.</se>
+      <se lang="es" variant_id="1">El 16 de mayo de 2022 el Embajador de Rusia en México, Víktor Koronelli, recibió en las instalaciones de nuestra Embajada al famoso viajero español y miembro de la Sociedad Geográfica Rusa, Álvaro de Marichalar, quien está dando la vuelta al mundo en una moto acuática para conmemorar el 500 aniversario de la primera circunnavegación del planeta.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Маршрут предусматривает посещение Камчатки и Крыма.</se>
+      <se lang="es" variant_id="1">Su ruta pasa por las penínsulas rusas de Kamchatka y Crimea.</se>
+    </para>
+  </body>
+</html>

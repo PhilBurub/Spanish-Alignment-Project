@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексику прибыла вторая партия вакцины «Спутник V» </se>
+    <se lang="es" variant_id="1">El segundo lote de "Sputnik V" arriba a México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 марта / 2021</se>
+    <se lang="es" variant_id="1">10 de marzo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksiku_pribyla_vtoraya_partiya_vaktsiny_sputnik_v/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_segundo_lote_de_sputnik_v_arriba_a_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">10 марта 2021 г. в Мексику прибыла вторая партия российской вакцины от коронавируса «Спутник V» в размере 200 тыс.</se>
+      <se lang="es" variant_id="1">El 10 de marzo de 2021 arribó a México el segundo cargamento de 200 mil dosis de la vacuna rusa contra el Covid-19 "Sputnik V".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Во встрече приняли участие представители МИД Мексики и Посольства России.</se>
+      <se lang="es" variant_id="1">En la recepción participaron los representantes de la Secretaría de Relaciones Exteriores y de la Embajada de Rusia.</se>
+    </para>
+  </body>
+</html>

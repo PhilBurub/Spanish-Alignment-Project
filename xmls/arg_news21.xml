@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Вперёд, Аргентина! </se>
+    <se lang="es" variant_id="1">¡Adelante, Argentina! </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">18 декабря / 2022</se>
+    <se lang="es" variant_id="1">18 diciembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/vperyed_argentina/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/adelante_argentina/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В России все болели за Аргентину.</se>
+      <se lang="es" variant_id="1">En Rusia todos hinchaban a Argentina.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Так было и так будет.</se>
+      <se lang="es" variant_id="1">Así fue y así será.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Потому что за друзей надо переживать, радоваться их успехам.</se>
+      <se lang="es" variant_id="1">Hay que preocuparse por los amigos, alegrarse por sus éxitos.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">А ещё приходить на помощь в трудный час.</se>
+      <se lang="es" variant_id="1">Más aún prestar ayuda en una hora difícil.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Мы вместе справились с коронавирусом, преодолеем и другие вызовы.</se>
+      <se lang="es" variant_id="1">Juntos luchabamos contra el coronavirus y vamos a superar otros desafíos.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Россия знает, что такое победа.</se>
+      <se lang="es" variant_id="1">Rusia sabe lo que es la victoria.</se>
+    </para>
+    <para id="6">
+      <se lang="ru" variant_id="0">В спорте, в жизни, в исторической перспективе.</se>
+      <se lang="es" variant_id="1">En el deporte, en la vida, en la perspectiva histórica.</se>
+    </para>
+    <para id="7">
+      <se lang="ru" variant_id="0">Сегодня мы от всей души поздравляем сборную и всех аргентинцев с замечательным успехом.</se>
+      <se lang="es" variant_id="1">Hoy felicitamos de todo corazón a la Selección y a todos los argentinos por su notable éxito.</se>
+    </para>
+    <para id="8">
+      <se lang="ru" variant_id="0">Вперёд, Аргентина!</se>
+      <se lang="es" variant_id="1">¡Adelante, Argentina!</se>
+    </para>
+  </body>
+</html>

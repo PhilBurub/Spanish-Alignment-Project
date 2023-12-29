@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России встретился с председателем Партии труда </se>
+    <se lang="es" variant_id="1">Embajador de Rusia se reunió con el Presidente del Partido de Trabajo </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">07 августа / 2020</se>
+    <se lang="es" variant_id="1">07 de agosto / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/posol_rossii_vstretilsya_s_predsedatelem_partii_truda/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_de_rusia_se_reuni_con_el_presidente_del_partido_de_trabajo/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">6 августа 2020 г. Посол России в Мексике В.В.Коронелли принял в Посольстве председателя Партии труда А.Анайю Гутьерреса.</se>
+      <se lang="es" variant_id="1">El 6 de agosto el Embajador de Rusia en México Víktor Koronelli, recibió en la Embajada al Presidente del Patrido de Trabajo, Alberto Anaya.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Во встрече приняли участие депутат Генерального конгресса Мексики Н.Маседа Каррера и руководитель Дома культуры «Мексика – Россия» в г. Пуэбла К.Гаспар Рамирес.</se>
+      <se lang="es" variant_id="1">En la reunión también participaron la diputada del Congreso General de México, Nelly Maceda Carrera, y directora de la Casa de Cultura México-Rusia, Carolina Gaspar Ramírez.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В ходе беседы обсуждались вопросы двустороннего сотрудничества, а также возможность задействования для его продвижения парламентской составляющей.</se>
+      <se lang="es" variant_id="1">Se discutieron cuestiones de la cooperación bilateral, así como las posibilidades de fortalecer su componente parlamentario.</se>
+    </para>
+  </body>
+</html>

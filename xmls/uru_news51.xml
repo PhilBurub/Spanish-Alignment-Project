@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече посла с министром внутренних дел Уругвая </se>
+    <se lang="es" variant_id="1">Reunión del Embajador de Rusia  con el Ministro del Interior de Uruguay </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">05 мая / 2021</se>
+    <se lang="es" variant_id="1">05 mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_vstreche_posla_s_ministrom_vnutrennikh_del_urugvaya/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/reuni_n_del_embajador_de_rusia_con_el_ministro_del_interior_de_uruguay/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">5 мая 2021 г. Посол России в Уругвае А.В.Будаев был принят Министром внутренних дел Уругвая Х.В.Ларраньягой.</se>
+      <se lang="es" variant_id="1">El 5 de mayo de 2021 el Embajador de Rusia en Uruguay Andrey Budaev fue recibido por el Ministro del Interior de Uruguay Jorge Larrañaga.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы затрагивались вопросы, представляющие взаимный интерес.</se>
+      <se lang="es" variant_id="1">Durante la reunión se abordaron las cuestiones del interés común.</se>
+    </para>
+  </body>
+</html>

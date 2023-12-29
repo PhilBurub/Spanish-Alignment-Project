@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О концерте «Хора Турецкого» и SOPRANO в Мехико </se>
+    <se lang="es" variant_id="1">El Coro Turetsky y Soprano volvieron a presentarse en la capital mexicana </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">21 июля</se>
+    <se lang="es" variant_id="1">21 de julio</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_kontserte_khora_turetskogo_i_soprano_v_mekhiko/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/el_coro_turetsky_y_soprano_volvieron_a_presentarse_en_la_capital_mexicana/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Концерт «Песни победы» под руководством народного артиста Российской Федерации Михаила Турецкого прошел с большим успехом в культурном центре «Лос-Пинос» — самой престижной площадке города Мехико.</se>
+      <se lang="es" variant_id="1">El día 19 de julio de 2023 el Coro Turetsky y Soprano volvieron a presentarse en la capital mexicana El concierto "Canciones de la unidad" bajo la dirección de Mijaíl Turetsky se celebró con  gran éxito en el Complejo Cultural Los Pinos, el lugar más prestigioso de la Ciudad de México.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В дружеской атмосфере зрители насладились неповторимыми голосами солистов под аккомпанемент живой музыки.</se>
+      <se lang="es" variant_id="1">En la atmósfera amistosa el público disfrutó las voces increíbles y inolvidables de los artistas con el acompañamiento de la música viva.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В завершение выступления артисты исполнили символичную для этой страны песню «Мехико линдо», тем самым поблагодарив за столь теплый прием, оказанный им мексиканской публикой и местным Министерством культуры.</se>
+      <se lang="es" variant_id="1">Al final de la presentación artistas interpretaron la canción - símbolo del país anfitrión "México Lindo" con el fin de agradecer la recepción tan acogida que les brindó público mexicano y la Secretaría de Cultura Federal.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Мероприятие посетили более 300 человек, среди которых были российские соотечественники, мексиканские ценители русской культуры, представители аккредитованного в стране дипломатического корпуса, руководства МИД и Минкультуры Мексики.</se>
+      <se lang="es" variant_id="1">El evento visitaron más de 300 personas entre los cuales fueron compatriotas rusos, amigos mexicanos, los representantes del cuerpo diplomático, la SRE y SECULT.</se>
+    </para>
+  </body>
+</html>

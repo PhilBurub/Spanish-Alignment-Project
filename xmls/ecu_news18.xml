@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью посла популярному эквадорскому YouTube каналу «Sorprendente Films»  </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador al popular canal ecuatoriano en YouTube "Sorprendente Films" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 марта / 2022</se>
+    <se lang="es" variant_id="1">09 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/intervyu_posla_populyarnomu_ekvadorskomu_youtube_kanalu_sorprendente_films_/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_del_embajador_al_popular_canal_ecuatoriano_en_youtube_sorprendente_films/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По инициативе владельца YouTube канала «Sorprendente Films» У.Годоя 9 марта с.г. состоялась беседа Посла России в Эквадоре В.И.Спринчана с пользователями данного СМИ.</se>
+      <se lang="es" variant_id="1">El 9 de marzo por iniciativa del dueño del canal en YouTube "Sorprendente Films" Sr. Hugo Godoy, el Embajador de Rusia en Ecuador Sr. Vladimir Sprinchan sostuvo una conversación con los usuarios de este medio.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Был затронут широкий спектр вопросов, связанных с историей конфликта, ходом специальной военной операции российских Вооруженных сил на территории Украины и влиянии экономических санкций на экономики России и Эквадора.</se>
+      <se lang="es" variant_id="1">Se tocaron una amplia gama de temas relacionados con la historia del conflicto, la operación militar especial de las Fuerzas Armadas Rusas en el territorio de Ucrania y el impacto de las sanciones económicas en las economías de Rusia y Ecuador.</se>
+    </para>
+  </body>
+</html>

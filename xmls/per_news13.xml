@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О визите представителей роспосольства на химический факультет Национального университета им.Св.Марка </se>
+    <se lang="es" variant_id="1">Sobre la visita de representantes de la Embajada a la Facultad de Química e Ingeniería Química de la UNMSM </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">14 сентября</se>
+    <se lang="es" variant_id="1">14 Septiembre</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/o_vizite_predstaviteley_rosposolstva_na_khimicheskiy_fakultet_natsionalnogo_universiteta_im_sv_marka/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/sobre_la_visita_de_representantes_de_la_embajada_a_la_facultad_de_qu_mica_e_ingenier_a_qu_mica_de_la/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">14 сентября представители роспосольства посетили химический факультет Национального университета им.Св.Марка.</se>
+      <se lang="es" variant_id="1">El 14 de septiembre representantes de la Embajada de Rusia visitaron la Facultad de Química de la Universidad Nacional de San Marcos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">На встрече с руководством факультета обсуждались перспективы сотрудничества с российскими исследовательскими центрами и компаниями.</se>
+      <se lang="es" variant_id="1">En la reunión con los directivos de la facultad se discutieron las perspectivas de cooperación con los centros de investigación y empresas rusas.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Химический факультет был основан выдающимся русским химиком А.Мосером, происходившим из семьи русских немцев, который волею судеб оказался в Перу в 1940-е.</se>
+      <se lang="es" variant_id="1">La Facultad de Química fue fundada por el destacado químico ruso Alejandro Moser, proveniente de una familia de alemanes rusos, quien, por voluntad del destino, arribó al Perú en la década de 1940.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">В его честь в университете поставлены бюст и памятная доска.</se>
+      <se lang="es" variant_id="1">En su honor se instalaron un busto y una placa conmemorativa en la universidad.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">А.Мосер был первым деканом химического факультета и внес заметный вклад в становление профессионального высшего образования в этой области в Перу.</se>
+      <se lang="es" variant_id="1">Alejandro Moser fue el primer decano de la Facultad de Química y realizó un aporte significativo al desarrollo de la educación superior profesional en este campo en el Perú.</se>
+    </para>
+  </body>
+</html>

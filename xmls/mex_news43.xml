@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью Посла России в Мексике газете «Эль Универсаль» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador de Rusia a "El Universal" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">26 февраля / 2021</se>
+    <se lang="es" variant_id="1">26 de febrero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_posla_rossii_v_meksike_gazete_el_universal/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_de_rusia_a_el_universal/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">26 февраля 2021 г. в одной из центральных мексиканских газет «Эль Универсаль» опубликовано интервью Посла России в Мексике В.В.Коронелли по случаю прибытия в страну первой партии российской вакцины от коронавируса «Спутник V».</se>
+      <se lang="es" variant_id="1">El 26 de febrero de 2021 el diario "El Universal" publicó la entrevista con el Embajador de Rusia en México, Víktor Koronelli, con motivo de la llegada al país del primer lote de "Sputnik V", la vacuna rusa contra el Covid-19.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С текстом публикации (на испанском языке) можно ознакомиться по следующей ссылке.</se>
+      <se lang="es" variant_id="1">Se puede consultar el texto de la publicación aquí.</se>
+    </para>
+  </body>
+</html>

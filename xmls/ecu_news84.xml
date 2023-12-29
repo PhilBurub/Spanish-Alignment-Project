@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Петербургский балет восхитил эквадорских зрителей своим выступлением </se>
+    <se lang="es" variant_id="1">El ballet de San Petersburgo deleitó al público ecuatoriano con su actuación </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 августа</se>
+    <se lang="es" variant_id="1">23 agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/peterburgskiy_balet_voskhitil_ekvadorskikh_zriteley_svoim_vystupleniem/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/el_ballet_de_san_petersburgo_deleito_al_publico_ecuatoriano_con_su_actuacion/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">У любителей российского балета и нашей культуры в целом, 23 августа с.г. была прекрасная возможность насладиться знаменитым балетом на музыку П.И.Чайковского «Лебединое озеро».</se>
+      <se lang="es" variant_id="1">Los amantes del ballet y de la cultura rusa, el 23 de agosto de este año tuvieron una gran oportunidad de disfrutar del famoso ballet con música de Piotr Ilich Chaikovski «El lago de los cisnes».</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Представление, состоявшееся в столичном театре «Сан Габриель», сопровождалось горячими овациями зрителей.</se>
+      <se lang="es" variant_id="1">La presentación, celebrada en el teatro San Gabriel de la capital ecuatoriana, fue acompañada por un cálido aplauso del público.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России посетил Гильдию кинорежиссеров Аргентины </se>
+    <se lang="es" variant_id="1">El Embajador de Rusia visita la Asociación General de Directores Autores Cinematográficos y Audiovisuales </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 октября / 2018</se>
+    <se lang="es" variant_id="1">10 octubre / 2018</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/posol_rossii_posetil_gildiyu_kinorezhisserov_argentiny_10_10_18/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/el_embajador_de_rusia_visita_la_asociaci_n_general_de_directores_autores_cinematogr_ficos_y_10-10-18/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">9 октября с.г. Чрезвычайный и Полномочный Посол Российской Федерации Д.В.Феоктистов посетил Гильдию кинорежиссеров Аргентины.</se>
+      <se lang="es" variant_id="1">El día 9 de octubre el Embajador Extraordinario y Plenipotenciario de la Federación de Rusia Dmitry Feoktistov visitó la Asociación General de Directores Autores Cinematográficos y Audiovisuales.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы с ее руководителем К.Галеттини обсуждены перспективы расширения двустороннего сотрудничества в культурно-гуманитарной сфере, в том числе в области кинематографии.</se>
+      <se lang="es" variant_id="1">Conversó con el Presidente de la Comisión Directiva de la entidad Carlos Galettini sobre las posibilidades de desarrollo de la cooperación bilateral en el ámbito cultural, incluso en la esfera de cine.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Д.В.Феоктистов выразил готовность оказывать поддержку инициативам, направленным на популяризацию российского киноискусства в Аргентине.</se>
+      <se lang="es" variant_id="1">Dmitry Feoktistov expresó su voluntad de apoyar los proyectos que contribuyan a la divulgación del arte cinematográfico ruso en Argentina.</se>
+    </para>
+  </body>
+</html>

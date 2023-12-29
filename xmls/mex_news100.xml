@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Открытие Недели российского кино в Мехико </se>
+    <se lang="es" variant_id="1">Se inaugura la Semana del Cine Ruso </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 декабря / 2019</se>
+    <se lang="es" variant_id="1">03 de diciembre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/otkrytie_nedeli_rossiyskogo_kino_v_mekhiko/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/196__se_inaugura_la_semana_del_cine_ruso/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">2 декабря 2019 г. в кинотеатре «Синеполис Диана» состоялось торжественное открытие Недели российского кино, на котором был показан фильм «Курьезы» (режиссер А.Мышкин).</se>
+      <se lang="es" variant_id="1">El 2 de diciembre de 2019 en el cine “Cinepolis Diana” se inauguró la  Semana del Cine Ruso, donde se estrenó la película “Curiosidades” del  director Andréi Myshkin.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Посол России в Мексике В.В.Коронелли и директор фестиваля С.В.Новожилов обратились к зрителям с приветственным словом.</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia en México, Víktor Koronelli, y el Director del festival, Sergéi Novozhilov, se dirigieron al público con palabras de bienvenida.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">На мероприятии присутствовали деятели мексиканского кинематографа и представители дипкорпуса.</se>
+      <se lang="es" variant_id="1">Al evento asistieron representantes del cinematógrafo mexicano así como del cuerpo  diplomático.</se>
+    </para>
+  </body>
+</html>

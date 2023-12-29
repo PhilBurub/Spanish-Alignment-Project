@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об интервью посла эквадорской радиостанции </se>
+    <se lang="es" variant_id="1">Entrevista del embajador de la emisora ecuatoriana </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">02 марта / 2022</se>
+    <se lang="es" variant_id="1">02 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/ob_intervyu_posla_ekvadorskoy_radiostantsii_02032022/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_del_embajador_de_la_emisora_ecuatoriana/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По просьбе журналистов эквадорской радиостанции «UTC» (102.9 fm) «для представления сегодняшней альтернативной точки зрения на события на Украине», Посол России в Эквадоре В.И.Спринчан дал 2 марта с.г. обширное интервью указанному СМИ.</se>
+      <se lang="es" variant_id="1">A solicitud de los periodistas de la emisora de radio "UTC" (102.9 fm) "con el fin de presentar el punto de vista alternativo sobre los acontecimientos en Ucrania", el Embajador de Rusia en Ecuador Sr. Vladimir Sprinchan dio una extensa entrevista.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В течение более получаса В.И.Спринчан в прямом эфире рассказывал эквадорским радиослушателям об основаниях, которые привели к принятию российским руководством решения о проведении специальной военной операции на Украине.</se>
+      <se lang="es" variant_id="1">Durante más de media hora, Señor Sprinchan relató en vivo a los radioescuchas ecuatorianos los motivos que llevaron a la decisión de las autoridades rusas de realizar una operación militar especial en Ucrania.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Были даны ответы на конкретные вопросы радиоведущего, касающиеся как возможного влияния данной ситуации на российско-эквадорские отношения, так и по событиям в целом.</se>
+      <se lang="es" variant_id="1">Se dieron respuestas a las preguntas específicas del locutor de radio, tanto sobre el posible impacto de esta situación en las relaciones ruso-ecuatorianas, como sobre los acontecimientos en general.</se>
+    </para>
+  </body>
+</html>

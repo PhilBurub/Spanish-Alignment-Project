@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России посетил «Русский центр» в Университете Буэнос-Айреса </se>
+    <se lang="es" variant_id="1">El Embajador de Rusia visitó el Centro Ruso de la Universidad de Buenos Aires </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">20 ноября / 2019</se>
+    <se lang="es" variant_id="1">20 noviembre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/posol_rossii_posetil_russkiy_tsentr_v_universitete_buenos_ayresa/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/el_embajador_de_rusia_visit_el_centro_ruso_de_la_universidad_de_buenos_aires/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">19 ноября с.г. Чрезвычайный и Полномочный Посол Российской Федерации Д.В.Феоктистов принял участие во встрече с руководством факультетов Университета Буэнос-Айреса по случаю начала работы на базе вуза «Русского центра» Фонда «Русский мир».</se>
+      <se lang="es" variant_id="1">El día 19 de noviembre el Embajador Extraordinario y Plenipotenciario de la Federación de Rusia Dmitry Feoktistov asistió a la reunión con los secretarios de relaciones internacionales de diferentes facultades de la UBA con motivo del comienzo de trabajo del Centro Ruso de la Fundación “Russkiy Mir” a base de la universidad mencionada.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ноябре с.г. директором «Русского центра» назначена соотечественница Сильвана Ярмолюк. </se>
+      <se lang="es" variant_id="1">En el mes de noviembre del año en curso la compatriota de Rusia Silvana Jarmoluk fue nombrada directora del Centro Ruso.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В планах учреждения большое количество образовательно-просветительских мероприятий, включая проведение визитов в Аргентину делегаций ведущих российских вузов, содействие научным обменам, организацию семинаров и конференций по российской проблематике.</se>
+      <se lang="es" variant_id="1">Está previsto un amplio abanico de eventos de carácter educativo. La institución facilitará las visitas de diferentes delegaciones universitarias de Rusia a Argentina, intercambios científicos, seminarios y conferencia dedicados a Rusia.</se>
+    </para>
+  </body>
+</html>

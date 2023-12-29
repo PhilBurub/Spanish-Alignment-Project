@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече Посла России с Министром иностранных дел Мексики </se>
+    <se lang="es" variant_id="1">Embajador de Rusia se reúne con el Canciller de México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">19 августа / 2020</se>
+    <se lang="es" variant_id="1">19 de agosto / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_vstreche_posla_rossii_s_ministrom_inostrannykh_del_meksiki/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/embajador_de_rusia_se_re_ne_con_el_canciller_de_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">19 августа 2020 г. Посол России В.В.Коронелли провел встречу с Министром иностранных дел Мексики М.Эбрардом, состоявшуюся по инициативе мексиканской стороны.</se>
+      <se lang="es" variant_id="1">El 19 de agosto el Embajador de Rusia, Víktor Koronelli, mantuvo una reunión con el Sr. Secretario de Relaciones Exteriores de México, Marcelo Ebrard Casaubon, a instancias de la Parte Mexicana.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Обсуждались вопросы получения Мехико доступа к российской вакцине от коронавируса "Спутник V".</se>
+      <se lang="es" variant_id="1">Abordaron las posibilidades de proporcionar a México el acceso a SputnikV, la vacuna rusa contra Covid19.</se>
+    </para>
+  </body>
+</html>

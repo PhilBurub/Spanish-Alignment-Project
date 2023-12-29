@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Владимир Высоцкий в Мексике </se>
+    <se lang="es" variant_id="1">Vladimir Vysotski en México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">31 мая / 2021</se>
+    <se lang="es" variant_id="1">31 de mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/vysotski/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/vysotski_mx/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Выдающийся советский поэт, бард и актер Владимир Высоцкий побывал в Мексике дважды.</se>
+      <se lang="es" variant_id="1">El famoso cantautor, poeta y actor soviético Vladimir Vysotski estuvo en México en dos ocasiones, en 1975 y en verano de 1977.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Он сопровождал свою супругу Марину Влади, снимавшуюся в фильме Рене Кардоны «Тайна Бермудского треугольника» на острове Косумель в Карибском море.</se>
+      <se lang="es" variant_id="1">Durante la segunda visita acompañaba a su esposa, la actriz Marina Vlady, que participaba en rodaje de la película de Rene Cardona “El triángulo diabólico de las Bermudas” en la Isla de Cozumel.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В Мексике поэт испытал необычайный прилив вдохновения, который сам он сравнил с Болдинской осенью в творчестве А.С.Пушкина.</se>
+      <se lang="es" variant_id="1">En el paradisíaco Caribe mexicano Vysotski sintió una inspiración sin precedente.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">В частности, сохранилась рукопись стихотворения «Упрямо я стремлюсь на дно», написанного Высоцким на бланке отеля, где он остановился.</se>
+      <se lang="es" variant_id="1">Aún existe un borrador de una de sus poemas escrito en la hoja membretada del hotel donde se hospedó.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">После Косумеля супруги отправились в столицу страны Мехико, где Владимир Семенович выступил на 13-м канале мексиканского телевидения в музыкальной программе Musicalísimo.</se>
+      <se lang="es" variant_id="1">De Cozumel los esposos viajaron a la Ciudad de México donde Vysotski dio un concierto para el programa “Musicalísimo” del Canal 13 de la televisión mexicana.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">По словам Марины Влади, концерт имел колоссальный успех.</se>
+      <se lang="es" variant_id="1">De acuerdo a Marina Vlady, tuvo un éxito enorme.</se>
+    </para>
+    <para id="6">
+      <se lang="ru" variant_id="0">Телефонная станция канала разрывалась от звонков восторженных мексиканских телезрителей.</se>
+      <se lang="es" variant_id="1">Los televidentes mexicanos inundaron con sus llamadas la central telefónica del canal.</se>
+    </para>
+  </body>
+</html>

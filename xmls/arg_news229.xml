@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">С Праздником Великой Победы! </se>
+    <se lang="es" variant_id="1">¡Feliz Día de la Victoria! </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 мая / 2021</se>
+    <se lang="es" variant_id="1">09 mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/s_prazdnikom_velikoy_pobedy/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/feliz_d_a_de_la_victoria/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По случаю 76-ого юбилея Победы Советского Союза в Великой Отечественной войне сотрудники Посольства России в Аргентине исполнили легендарную песню военных лет "Катюша"</se>
+      <se lang="es" variant_id="1">Con motivo del 76º aniversario de la Victoria de la Unión Soviética en la Gran Guerra Patria los empleados de la Embajada de Rusia en Argentina interpretaron la canción legendaria de tiempos de la guerra "Katyusha"</se>
+    </para>
+  </body>
+</html>

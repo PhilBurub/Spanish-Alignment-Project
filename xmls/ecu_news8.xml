@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Выпускники отечественных вузов отметили День Победы </se>
+    <se lang="es" variant_id="1">Egresados de universidades rusas celebraron el Día de la Victoria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 мая / 2021</se>
+    <se lang="es" variant_id="1">15 mayo / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/vypuskniki_otechestvennykh_vuzov_otmetili_den_pobedy/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/egresados_de_universidades_rusas_celebraron_el_dia_de_la_victoria/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">9 мая Посол России в Эквадоре В.И.Спринчан принял участие в видеоконференции выпускников советских и российских вузов, посвященной Дню Победы.</se>
+      <se lang="es" variant_id="1">El 9 de mayo, el Embajador de Rusia en Ecuador Vladimir Sprinchan, participó en una videoconferencia de egresados de universidades soviéticas y rusas dedicadas al Día de la Victoria.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Были представлены глубокие доклады исторически и политически подчёркивающие заслуги советской армии и СССР в разгроме над нацистской Германией.</se>
+      <se lang="es" variant_id="1">Se presentaron informes histórica y políticamente profundos en las que se destacaba el mérito del ejército soviético y la URSS en la derrota sobre la Alemania nazi.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Приветствие Посла участникам конференции, в котором акцентировалась ответственность нынешним поколениям не забывать истинных итогов Великой отечественной войны и не позволять переписывать историю, было встречено выпускниками с одобрением.</se>
+      <se lang="es" variant_id="1">El saludo del Embajador a los participantes de la conferencia, en el que se enfatizó la responsabilidad de las generaciones actuales de no olvidar los verdaderos resultados de la Gran Guerra Patria y no permitir que se reescriba la historia, fue recibido por los graduados con aprobación.</se>
+    </para>
+  </body>
+</html>

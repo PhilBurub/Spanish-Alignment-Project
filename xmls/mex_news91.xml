@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об интервью Посла Н.В.Софинского РИА «Новости» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador Nikolay Sofínskiy a la agencia Sputnik Mundo </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 августа</se>
+    <se lang="es" variant_id="1">03 de agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/ob_intervyu_posla_n_v_sofinskogo_ria_novosti/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_nikolay_sofinskiy_a_la_agencia_sputnik_mundo/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">3 августа 2023 года опубликовано развернутое интервью Посла России в Мексике Н.В.Софинского корреспонденту РИА «Новости» К.Руденко.</se>
+      <se lang="es" variant_id="1">El pasado 3 de agosto fue publicada la primera entrevista del nuevo Embajador de Rusia en México, Nikolay Sofínskiy, a la agencia de información rusa Sputnik Mundo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В материале: - оценки текущего состояния российско-мексиканских отношений и взаимодействия с Мехико на многосторонних площадках; - положение дел в области торгово-экономических связей со страной пребывания; - перспективы туристических обменов и переговоров по безвизовому соглашению с Мексикой; - будущее образовательных обменов между двумя странами.</se>
+      <se lang="es" variant_id="1">En el material Ustedes encontrarán: - las evaluaciones del estado actual de las relaciones ruso-mexicanas en el ámbito bilateral y en el marco de los organismos internacionales; - la radiografía de los lazos económico-comerciales con México; - las perspectivas de los inercambios turísticos y del acuerdo de supresión de visas; - el futuro de los intercambios académicos entre ambos países.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Полный текст интервью доступен на сайте РИА «Новости».</se>
+      <se lang="es" variant_id="1">El texto de la entrevista está disponible en el sitio web de Sputnik Mundo.</se>
+    </para>
+  </body>
+</html>

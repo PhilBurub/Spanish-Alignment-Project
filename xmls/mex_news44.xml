@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью Посла России в Мексике газете «Эль Экономиста» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador Koronelli a "El Economista" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 октября / 2022</se>
+    <se lang="es" variant_id="1">11 de octubre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_posla_rossii_v_meksike_gazete_el_ekonomista111022/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_koronelli_a_el_economista111022/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">11 октября 2022 года Посол России в Мексике В.В.Коронелли дал интервью мексиканской газете «Эль Экономиста».</se>
+      <se lang="es" variant_id="1">El 11 de octubre de 2022 el Embajador de Rusia en México, Víktor Koronelli, concedió una entrevista al diario "El Economista".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С текстом публикации (на испанском языке) можно ознакомиться по следующей ссылке.</se>
+      <se lang="es" variant_id="1">La versión completa de la publicación está disponible aquí.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об интервью роспосла еженедельнику «Ла Маньяна» </se>
+    <se lang="es" variant_id="1">Sobre la entrevista del Embajador de Rusia en Uruguay al semanario La Mañana </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">07 апреля / 2021</se>
+    <se lang="es" variant_id="1">07 abril / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/ob_intervyu_rosposla_ezhenedelniku_la_manyana/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_la_entrevista_del_embajador_de_rusia_en_uruguay_al_semanario_la_ma_ana/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">7 апреля 2021 г. в здании российской дипмиссии состоялось интервью Посла России А.В.Будаева специальному корреспонденту уругвайского еженедельного издания «Ла Маньяна» А.Асеведо Папов, в ходе которого затрагивались вопросы, касающиеся внутренней и внешней политики России, ее достижений в области науки, культуры и образования, а также состояния и перспектив российско-уругвайских отношений.</se>
+      <se lang="es" variant_id="1">El 7 de abril de 2021 en el edificio de la Misión Diplomática de Rusia en Uruguay se realizó la entrevista del Embajador Andrey Budaev para el semanario uruguayo La Mañana con la corresponsal Anahí Acevedo Papov, en el transcurso del cual se abordaron cuestiones relacionadas con la política interior y exterior de Rusia, sus logros científicos, culturales y en el campo de educación, así como con el estado y las perspectivas de las relaciones ruso-uruguayos.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Отдельное внимание было уделено предстоящему празднованию Дня космонавтики и 60-летней годовщины полета в космос Ю.А.Гагарина.</se>
+      <se lang="es" variant_id="1">Se acordó una atención especial a la próxima celebración del Día de la Cosmonáutica y el 60 Aniversario del vuelo al espacio de Yuri Gagarin.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Особый интерес был проявлен уругвайской журналисткой к сотрудничеству России с зарубежными партнерами в вопросах совместного противостояния новой коронавирусной инфекции, включая поставки российской вакцины Спутник V.</se>
+      <se lang="es" variant_id="1">La periodista uruguaya manifestó un interés especial a la cooperación de Rusia con socios extranjeros para la confrontación conjunta de la pandemia de COVID-19, incluyendo los suministros de la vacuna rusa Sputnik V.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О проведении фестиваля Сабантуй в Перу </se>
+    <se lang="es" variant_id="1">Sobre el festival de Sabantúy en el Perú </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">27 мая</se>
+    <se lang="es" variant_id="1">27 Mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/o_provedenii_festivalya_sabantuy_v_peru/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/sobre_el_festival_de_sabant_y_en_el_per/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">27 мая с.г. в Лиме на главной площади исторического района Барранко состоялся традиционный татарский фестиваль Сабантуй.</se>
+      <se lang="es" variant_id="1">27 de mayo en Lima, en la plaza principal del distrito histórico de Barranco, se llevó a cabo la tradicional fiesta tártara Sabantúy.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мероприятие было организовано Ассоциацией российских соотечественников в Перу «С тобой, Россия!» и организацией татар в Латинской Америке «Татлам» при поддержке роспосольства.</se>
+      <se lang="es" variant_id="1">El evento fue organizado por la Asociación de Compatriotas Rusos en el Perú "¡Contigo, Rusia!" y la organización de tártaros en América Latina "Tatlam" con el apoyo de la Embajada de Rusia.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Праздничная программа включала в себя концерт татарской и русской музыки, традиционные игры и конкурсы с призами, гастрономическую ярмарку и выставку об объектах Всемирного наследия ЮНЕСКО в России.</se>
+      <se lang="es" variant_id="1">El programa festivo incluyó un concierto de música tártara y rusa, juegos tradicionales y concursos con premios, feria gastronómica y una exposición sobre los sitios del Patrimonio Mundial de la UNESCO en Rusia.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">В течение дня мероприятие посетили более тысячи человек, среди которых были представители российской общины, выпускники советских и российских вузов, студенты, школьники, СМИ, дружественные НПО и простые перуанцы.</se>
+      <se lang="es" variant_id="1">Durante la jornada, al evento asistieron más de mil personas, entre ellos representantes de la comunidad rusa, egresados ​​de universidades rusas y soviéticas, estudiantes, escolares, medios de comunicación, ONG amigas y público en general.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Посольство выражает благодарность мэрии Барранко за любезно предоставленную площадку и содействие в проведении мероприятия.</se>
+      <se lang="es" variant_id="1">La Embajada expresa su profundo agradecimiento a la Alcaldía de Barranco por brindar amablemente las instalaciones y la asistencia en la realización del evento.</se>
+    </para>
+  </body>
+</html>

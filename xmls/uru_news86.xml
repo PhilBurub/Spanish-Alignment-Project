@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О гуманитарной акции посольства </se>
+    <se lang="es" variant_id="1">Sobre la acción humanitaria de la Embajada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">20 июля</se>
+    <se lang="es" variant_id="1">20 julio</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_gumanitarnoy_aktsii_posolstva/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_la_acci_n_humanitaria_de_la_embajada/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В связи с кризисом в сфере доступа к питьевой воде в Монтевидео, вызванного продолжительной засухой, в рамках гуманитарной акции 13, 14 и 17 июля с.г. посольство России в Уругвае передало 400 канистр воды по 7 л (итого 2,8 т) Национальной организации ассоциаций пенсионеров Уругвая, дому престарелых г.Прогресо, а также школе № 361 им. Российской Федерации. </se>
+      <se lang="es" variant_id="1">En el marco de una acción humanitaria en relación con la emergencia con el agua potable en Montevideo como consecuencia de la larga sequía los días 13, 14 y 17 de julio del a.c. la Embajada de Rusia en Uruguay realizó donación de 400 bidones de agua potable de 7 litros cada uno (2,8 toneladas en total). De ellos 200 bidones fueron entregados para la Organización Nacional de Asociaciones de Jubilados y Pensionistas del Uruguay, 100 bidones para hogar de ansíanos "Residencial Progreso" y 100 bidones para la Escuela No 361 que lleva el nombre de Rusia.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Посол А.В.Будаев подчеркнул, что этот символический жест помощи и солидарности с наиболее нуждающимися жителями Монтевидео свидетельствует о дружественных отношениях между нашими странами и народами.</se>
+      <se lang="es" variant_id="1">El Jefe de la Misión Diplomática rusa Andrey Budaev destacó que este gesto simbólico de ayuda y de solidaridad con la gente más necesitada de Montevideo demuestra el carácter amistoso de relaciones entre nuestros dos países y pueblos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Пожертвование питьевой воды было принято с большой благодарностью местными властями и руководством организаций-реципиентов.</se>
+      <se lang="es" variant_id="1">Las entregas benéficas de agua potable fueron recibidas con gran agradecimiento por las autoridades locales y las directivas de las instituciones receptoras de la donación.</se>
+    </para>
+  </body>
+</html>

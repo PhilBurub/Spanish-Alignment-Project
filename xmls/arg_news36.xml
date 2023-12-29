@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Заявление Посольства России в Аргентине в связи с покушением  на вице-президента К.Фернандес де Киршнер </se>
+    <se lang="es" variant_id="1">Declaración de la Embajada de Rusia en Argentina  sobre el atentado a Vicepresidenta Cristina Fernández de Kirchner </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">02 сентября / 2022</se>
+    <se lang="es" variant_id="1">02 setiembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/zayavlenie_posolstva_rossii_v_argentine_v_svyazi_s_pokusheniem_na_vitse_prezidenta_k_fernandes_de_ki/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/declaraci_n_de_la_embajada_de_rusia_en_argentina_sobre_el_atentado_a_vicepresidenta_cristina_fern_nd/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Решительно осуждаем трусливую попытку нападения на К.Фернандес де Киршнер.</se>
+      <se lang="es" variant_id="1">Condenamos rotundamente el cobarde ataque contra Cristina Fernández de Kirchner.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Актам политического насилия нет и не может быть никакого оправдания.</se>
+      <se lang="es" variant_id="1">No hay ni puede haber justificación alguna para los actos de violencia política.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В этот трудный час мы солидарны с вице-президентом, Правительством и народом Аргентины.</se>
+      <se lang="es" variant_id="1">En esta hora difícil, nos solidarizamos con la Vicepresidenta, el Gobierno y el Pueblo de la República Argentina.</se>
+    </para>
+  </body>
+</html>

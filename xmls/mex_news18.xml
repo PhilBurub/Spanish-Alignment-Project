@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мехико состоялось торжественное открытие выставки военных плакатов времен Великой Отечественной Войны </se>
+    <se lang="es" variant_id="1">En la ciudad de México se celebró la inauguración de la exposición de carteles militares de la Gran Guerra Patria </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">11 мая</se>
+    <se lang="es" variant_id="1">12 de mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_mekhiko_sostoyalos_torzhestvennoe_otkrytie_vystavki_voennykh_plakatov_vremen_velikoy_otechestvenno/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/en_la_ciudad_de_m_xico_se_celebr_la_inauguraci_n_de_la_exposici_n_de_carteles_militares_de_la_gran_g/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Открыл выставку посол Николай Софинский, а также директор музея Museo Casa de la Memoria Indómita Луис Карлос Пичардо Морено.</se>
+      <se lang="es" variant_id="1">Abrió la exposición el Embajador Nikolay Sofinsky, así como el director del Museo Casa de la Memoria Indómita, Luis Carlos Pichardo Moreno.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Н. Софинский: Очень символично, что эта выставка, принадлежащая коллекции Государственного исторического музея, расположенного в центре Москвы, теперь выставлена в центре Мехико.</se>
+      <se lang="es" variant_id="1">N.Sofinskiy: Es muy simbólico que esta exposición, perteneciente a la colección del Museo Histórico Estatal situado en el centro de Moscú, se exhiba ahora en el centro de Ciudad de México.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Из сердца Москвы в сердце Мексики.</se>
+      <se lang="es" variant_id="1">Del corazón de Moscú al corazón de México.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Мы благодарим всех наших мексиканских друзей, а также наших соотечественников, которые отпраздновали это событие вместе с нами.</se>
+      <se lang="es" variant_id="1">Agradecemos a todos nuestros amigos mexicanos, así como a nuestros compatriotas que celebraron este evento con nosotros.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Выставка будет открыта до 30 июля.</se>
+      <se lang="es" variant_id="1">La exposición estará abierta hasta finales de julio.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Вход свободный.</se>
+      <se lang="es" variant_id="1">Entrada libre.</se>
+    </para>
+  </body>
+</html>

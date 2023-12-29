@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью Посла России телеканалу «ТВ Ацтека» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador de Rusia en México a la cadena de televisión “Azteca” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">04 сентября / 2019</se>
+    <se lang="es" variant_id="1">04 de septiembre / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_posla_rossii_telekanalu_tv_atsteka_20190904/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/196__entrevista_del_embajador_de_rusia_en_m_xico_a_la_cadena_de_televisi_n_azteca/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">4 сентября 2019 г. Посол России в Мексике В.В.Коронелли в эфире телеканала «ТВ Ацтека» дал интервью популярному мексиканскому телеведущему Л.Курсио.</se>
+      <se lang="es" variant_id="1">El 4 de septiembre el canal de televisión mexicana “Azteca” transmitió  una entrevista del Embajador de la Federación de Rusia en México Víktor  Koronelli al popular presentador de televisión mexicano Leonardo Curzio.</se>
+    </para>
+  </body>
+</html>

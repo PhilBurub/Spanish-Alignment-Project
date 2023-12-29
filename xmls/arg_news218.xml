@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России в Аргентине Д.В.Феоктистов посетил концерт русской музыки </se>
+    <se lang="es" variant_id="1">El Embajador de Rusia, Dmitry Feoktistov, asistió a un concierto de música rusa </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">11 октября / 2021</se>
+    <se lang="es" variant_id="1">11 octubre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/posol_rossii_v_argentine_d_v_feoktistov_posetil_kontsert_russkoy_muzyki/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/el_embajador_de_rusia_dmitry_feoktistov_asisti_a_un_concierto_de_m_sica_rusa/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">9 октября с.г. Посол Российской Федерации в Аргентинской Республике Д.В.Феоктистов посетил концерт русской музыки «Едины в братстве» в исполнении хора «Ликуй Барилоче» под руководством О.Людковой.</se>
+      <se lang="es" variant_id="1">El 9 de octubre a.c. el Embajador de la Federación de Rusia en Argentina, Dmitry Feoktistov, asistió a un concierto de música rusa "Unidos en la Fraternidad" interpretado por el Coro Likui Bariloche bajo la direccion de Olga Ludkova.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Творческое мероприятие прошло в клубе «Сиркуло Милитар» в столице Аргентины и собрало представителей столичной интеллигенции и общины российских соотечественников.</se>
+      <se lang="es" variant_id="1">El evento cultural se celebró en el Club Círculo Militar en la ciudad de Buenos Aires y reunió los representantes de la intelectualidad metropolitana y la diáspora de los compatriotas rusos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Исполнительское искусство хора получило высокие оценки и искренний отклик у публики.</se>
+      <se lang="es" variant_id="1">Las artes escénicas del coro fueron muy aclamadas y recibieron una respuesta sincera del público.</se>
+    </para>
+  </body>
+</html>

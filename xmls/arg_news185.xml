@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об информационной брошюре Посольства России «От Спутника к Спутнику» </se>
+    <se lang="es" variant_id="1">Sobre la revista informativa de la Embajada de Rusia “Del Sputnik a la Sputnik” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">30 декабря / 2021</se>
+    <se lang="es" variant_id="1">30 diciembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/ob_informatsionnoy_broshyure_posolstva_rossii_ot_sputnika_k_sputniku/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/sobre_la_revista_informativa_de_la_embajada_de_rusia_del_sputnik_a_la_sputnik/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Предлагаем вам ознакомиться с подготовленной Посольством информационной брошюрой на русском и испанском языках «От Спутника к Спутнику», посвященной двум вехам в развитии советской и российской научной мысли – запуску первого космического спутника Земли и созданию первой вакцины против коронавируса.</se>
+      <se lang="es" variant_id="1">Les presentamos la revista informativa “Del Sputnik a la Sputnik”, emitida por la Embajada en castellano y ruso y dedicada a los dos hitos en el desarrollo de la investigación científica soviética y rusa, que son el lanzamiento del primer satélite espacial y la producción de la primera vacuna contra el coronavirus.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Рассчитываем, что данное издание вызовет у читателей дополнительный интерес к России, ее научным достижениям и талантливым исследователям.</se>
+      <se lang="es" variant_id="1">Esperamos que la publicación pueda fomentar interés de los lectores hacia Rusia, sus logros científicos y talentosos investigadores.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Приятного чтения!</se>
+      <se lang="es" variant_id="1">¡Que disfruten de la lectura!</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Брошюра «От Спутника к Спутнику»</se>
+      <se lang="es" variant_id="1">La revista informativa “Del Sputnik a la Sputnik”</se>
+    </para>
+  </body>
+</html>

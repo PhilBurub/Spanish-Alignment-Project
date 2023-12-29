@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Шествие «Бессмертного полка» в Эквадоре </se>
+    <se lang="es" variant_id="1">El desfile del «Regimiento Inmortal» en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">08 мая</se>
+    <se lang="es" variant_id="1">09 mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/shestvie_bessmertnogo_polka_v_ekvadore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/el_desfile_del_regimiento_inmortal_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">При участии соотечественников, эквадорских выпускников отечественных вузов, представителей дружественно настроенных к нам общественных организаций Эквадора и просто эквадорских друзей, а также сотрудников Посольства и членов их семей, 6 мая 2023 г. в г.Кито прошёл марш «Бессмертного полка».</se>
+      <se lang="es" variant_id="1">Con la participación de compatriotas, ecuatorianos egresados de universidades soviéticas y rusas, representantes de organismos públicos del Ecuador y amigos ecuatorianos, así como funcionarios de la Embajada de Rusia en Ecuador y sus familiares, el 6 de mayo de 2023 se llevó a cabo el desfile del Regimiento Inmortal en Quito.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мероприятие, в котором приняло участие более 100 человек, продолжилось митингом, на котором участники выразили чувства признания Советскому Союза и Красной армии за победу в Великой Отечественной войне, отмечая значение этого события во всей мировой истории.</se>
+      <se lang="es" variant_id="1">Dicho acto en que participaron más de 100 personas, continuó con una manifestación en la que los participantes expresaron su sentimiento de reconocimiento a la Unión Soviética y al Ejército Rojo por la victoria en la Gran Guerra Patria, destacando la trascendencia de este evento en la historia mundial.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">При этом, в выступлении каждого из них обязательно перекидывался мостик на события сегодняшних дней вокруг России, осуждая возрождение нацизма на Украине и его поддержку коллективным Западом, а также высоко оценивая действия России по недопущению повторения ужасов, которые несёт нацистская идеология.</se>
+      <se lang="es" variant_id="1">Al mismo tiempo, en el discurso de cada uno de ellos, obligatoriamente se hizo hincapié sobre los acontecimientos de hoy en torno a Rusia, condenando el resurgimiento del nazismo en Ucrania y su apoyo por parte del colectivo de Occidente y también elogiando las acciones de Rusia para evitar que se repita los horrores que trae la ideología nazi.</se>
+    </para>
+  </body>
+</html>

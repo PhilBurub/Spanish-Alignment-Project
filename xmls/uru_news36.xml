@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече в Культурном центре им. М.Горького </se>
+    <se lang="es" variant_id="1">Reunión en el Centro Cultural Máximo Gorki </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 декабря / 2021</se>
+    <se lang="es" variant_id="1">23 diciembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_vstreche_v_kulturnom_tsentre_im_m_gorkogo/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/reuni_n_en_el_centro_cultural_m_ximo_gorki/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">22 декабря 2021 г. группа сотрудников российской дипмиссии во главе с послом А.В.Будаевым встретилась с активом Культурного центра им. М.Горьгого г. Монтевидео.</se>
+      <se lang="es" variant_id="1">El 22 de diciembre de 2021 un grupo de los funcionarios de la Misión Diplomática Rusa encabezado por el Embajador Andrey Budaev se reunió con los activistas del Centro Cultural Máximo Gorki de Montevideo.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Во время беседы были подведены итоги работы Центра в уходящем году, включая ход реконструкции его здания, а также намечены совместные планы сотрудничества на будущее.</se>
+      <se lang="es" variant_id="1">Durante la conversación se hizo balance del trabajo del Centro este año, inclusive el estado de la reconstrucción de su sede, así como se trazaron los planes conjuntos de la cooperación para el futuro.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Посол вручил представителям организации памятный диплом с благодарностью за активную работу в сфере продвижения русского языка и культуры, подборку художественной и учебной литературы на русском языке для библиотеки Центра, а также финансовые средства для проведения новогоднего утренника для детей российских соотечественников.</se>
+      <se lang="es" variant_id="1">El Embajador entregó a los representantes de la organización el diploma conmemorativo con agradecimientos por el trabajo activo en el campo de la promoción del idioma ruso y cultura, una selección de libros de ficción y educativos en ruso para la biblioteca del Centro, así como los fondos para organizar la fiesta del Año Nuevo para los niños de compatriotas rusos.</se>
+    </para>
+  </body>
+</html>

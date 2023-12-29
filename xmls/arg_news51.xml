@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Наталья Орейро посетила Посольство России </se>
+    <se lang="es" variant_id="1">Natalia Oreiro visitó la Embajada de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">26 июня / 2019</se>
+    <se lang="es" variant_id="1">26 junio / 2019</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/natalya_oreyro_posetila_posolstvo_rossii/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/natalia_oreiro_visit_la_embajada_de_rusia/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">26 июня с.г. в Посольстве России состоялась встреча Посла Российской Федерации Д.В.Феоктистова с известной латиноамериканской певицей и актрисой Н.Орейро.</se>
+      <se lang="es" variant_id="1">El Día 26 de julio el Embajador de la Federación de Rusia Dmitry Feoktistov se reunió en la Embajada de Rusia con famosa diva latinoamericana Natalia Oreiro.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Обсуждались возможности развития российско-аргентинского сотрудничества в культурно-гуманитарной и торгово-экономической сфере.</se>
+      <se lang="es" variant_id="1">Abordaron los temas de desarrollo de la cooperación ruso-argentina tanto cultural, como comercial y económica.</se>
+    </para>
+  </body>
+</html>

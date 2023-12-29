@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">С Днём России! </se>
+    <se lang="es" variant_id="1">Día de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">11 июня / 2020</se>
+    <se lang="es" variant_id="1">11 de junio / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/s_dnyem_rossii/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/d_a_de_rusia/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Обращение Посла России в Мексике В.В.Коронелли (на испанском языке), а также поздравления проживающих здесь соотечественников по случаю Дня России.</se>
+      <se lang="es" variant_id="1">Mensaje del Embajador de Rusia en México, Víctor Koronelli, así como felicitaciones de nuestros compatriotas con motivo de la fiesta nacional, el Día de Rusia.</se>
+    </para>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Русская музыка продолжает оставаться  популярной в Эквадоре </se>
+    <se lang="es" variant_id="1">Música rusa sigue siendo popular en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">03 февраля</se>
+    <se lang="es" variant_id="1">03 febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/russkaya_muzyka_prodolzhaet_ostavatsya_populyarnoy_v_ekvadore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/m_sica_rusa_sigue_siendo_popular_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">3 февраля с.г. в прекрасном филармоническом комплексе «Дом музыки» в эквадорской столице состоялся концерт Национального симфонического оркестра под управлением российского дирижёра Ю.М.Соболева.</se>
+      <se lang="es" variant_id="1">El 3 de febrero del presente año, en el hermoso complejo filarmónico «Casa de la Música» de la capital ecuatoriana, se llevó a cabo un concierto de la Orquesta Sinfónica Nacional bajo la conducción del director ruso Yuri Sobolev.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">При исполнении произведений Д.Д.Шостаковича солировал российско-эквадорский скрипач А.Рохас Песков, прибывший на гастроли из австрийской столицы, где он сотрудничает с Венским симфоническим оркестром.</se>
+      <se lang="es" variant_id="1">El violinista ruso-ecuatoriano, solista Alexey Rojas Peskov, quien llegó de gira desde la capital austriaca, donde colabora con la Orquesta Sinfónica de Viena, interpretó composiciones de Dmitri Shostakóvich.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Русская музыка была тепло встречена эквадорскими зрителями.</se>
+      <se lang="es" variant_id="1">La música rusa fue recibida con entusiasmo por el público ecuatoriano.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">По завершении концерта за кулисами состоялась встреча Посла России в Эквадоре В.И.Спринчана с российскими участниками этого концерта: дирижёром Ю.М.Соболевым и скрипачом А.Рохас Песковым.</se>
+      <se lang="es" variant_id="1">Al finalizar el concierto, el Embajador de Rusia en Ecuador, Vladimir Sprinchan, se reunió con los artistas rusos protagonistas en este concierto: el director de orquesta Yuri Sobolev y el violinista Alexey Rojas Peskov.</se>
+    </para>
+  </body>
+</html>

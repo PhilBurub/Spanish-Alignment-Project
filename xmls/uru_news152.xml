@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Поездка посла в департамент Рио-Негро </se>
+    <se lang="es" variant_id="1">El viaje del Embajador al Departamento Río Negro </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">07 августа / 2021</se>
+    <se lang="es" variant_id="1">07 agosto / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/poezdka_posla_v_departament_rio_negro/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/el_viaje_del_embajador_al_departamento_r_o_negro/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В ходе командировки посла России в Уругвае А.В.Будаева в департамент Рио-Негро 6-7 августа 2021 г. состоялась его встреча с губернатором департамента О.Лафлуфом, в ходе которой обсуждались вопросы развития межрегионального торгово-экономического, культурного и гуманитарного сотрудничества.</se>
+      <se lang="es" variant_id="1">Los días 6 y 7 de agosto de 2021 durante el viaje al Departamento Río Negro el Embajador de Rusia en Uruguay Andrey Budaev se reunió con el Intendente del Departamento Omar Lafluf.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе командировки посла России в Уругвае А.В.Будаева в департамент Рио-Негро 6-7 августа 2021 г. состоялась его встреча с губернатором департамента О.Лафлуфом, в ходе которой обсуждались вопросы развития межрегионального торгово-экономического, культурного и гуманитарного сотрудничества.</se>
+      <se lang="es" variant_id="1">Las partes discutieron los aspectos del desarrollo de la cooperación interregional en los campos económico-comercial, cultural y humanitario.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Губернатор проявил заинтересованность в участии в организуемом НК СЭСЛА Международном телемосте «Москва-Латинская Америка» (намеченном на 14 сентября с.г.).</se>
+      <se lang="es" variant_id="1">El Intendente expresó su interés en tomar parte en la Videoconferencia Internacional del Comité Nacional para la Cooperación Económica con los Países Latinoamericanos “Moscú – Latinoamérica” (prevista para el 14 de septiembre del a.c.).</se>
+    </para>
+  </body>
+</html>

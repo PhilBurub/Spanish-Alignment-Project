@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Дипломаты Посольства посетили праздничный концерт по случаю 72-летия основания Культурного сообщества «Н.А.Островский» </se>
+    <se lang="es" variant_id="1">Los diplomáticos de la Embajada asistieron al concierto del club de compatriotas “Nicolás Ostrovsky” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 июля / 2018</se>
+    <se lang="es" variant_id="1">23 julio / 2018</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/diplomaty_posolstva_posetili_prazdnichnyy_kontsert_po_sluchayu_72_letiya_osnovaniya_kulturnogo_soobshch/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/los_diplom_ticos_de_la_embajada_asistieron_al_concierto_del_club_de_compatriotas_nicol_s_ostrovsky/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Дипломаты роспосольства в Буэнос-Айресе посетили праздничный концерт по случаю 72-летия клуба соотечественников - Культурного сообщества «Н.А.Островский».</se>
+      <se lang="es" variant_id="1">Los diplomáticos de la Embajada asistieron al concierto del Club de compatriotas “Nicolás Ostrovsky” con motivo del 72º aniversario de la Institución.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Временный поверенный в делах России в Аргентине Д.В.Белов обратился к собравшимся с приветственным словом.</se>
+      <se lang="es" variant_id="1">El Encargado de negocios a.i.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Временный поверенный в делах России в Аргентине Д.В.Белов обратился к собравшимся с приветственным словом.</se>
+      <se lang="es" variant_id="1">de Rusia en Argentina, Sr. Dmitry Belov saludo a los miembros de esta Sociedad Cultural con palabras de bienvenida.</se>
+    </para>
+  </body>
+</html>

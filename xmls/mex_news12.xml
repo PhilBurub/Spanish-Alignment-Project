@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексику прибыла деcятая партия вакцины «Спутник V» </se>
+    <se lang="es" variant_id="1">Décimo cargamento de "Sputnik V" llega a México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">01 июля / 2021</se>
+    <se lang="es" variant_id="1">01 de julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksiku_pribyla_decyataya_partiya_vaktsiny_sputnik_v/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/decimo_cargamento_de_sputnik_v_llega_a_mexico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">30 июня 2021 года в Мексику прибыла очередная (деcятая) партия российской вакцины от коронавируса «Спутник V» объемом 350 тысяч доз.</se>
+      <se lang="es" variant_id="1">El 30de junio de 2021 llegó al territorio mexicano el décimo lote de la vacuna rusa anticovid "Sputnik V" de 350 mil de dosis.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Кроме того, мексиканской стороне было передано активное вещество для будущей расфасовки отечественного препарата в Мексике.</se>
+      <se lang="es" variant_id="1">Asimismo, las autoridades mexicanas recibieron en el AICM un cargamento de la sustancia activa para envasar el biológico ruso en México.</se>
+    </para>
+  </body>
+</html>

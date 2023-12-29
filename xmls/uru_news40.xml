@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече посла в МИД Уругвая </se>
+    <se lang="es" variant_id="1">Reunión del Embajador en la Cacillería de Uruguay </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">26 июля / 2021</se>
+    <se lang="es" variant_id="1">26 julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_vstreche_posla_v_mid_urugvaya/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/reuni_n_del_embajador_en_la_caciller_a_de_uruguay/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">26 июля 2021 г. Посол России А.В.Будаев провёл рабочую встречу с начальником Управления многосторонней политики Главного управления по политическим вопросам МИД Уругвая Г.Альваресом.</se>
+      <se lang="es" variant_id="1">El 26 de julio de 2021 el Embajador de Rusia Andrey Budaev tuvo una reunión de trabajo con el Director de Asuntos Multilaterales del Ministerio de Relaciones Exteriores Gustavo Álvarez.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы затрагивались актуальные вопросы взаимодействия двух стран в ООН и на других многосторонних «площадках», включая тематику поддержки российских кандидатур.</se>
+      <se lang="es" variant_id="1">Las partes abordaron los temas relevantes de la interacción de los dos países en la ONU y otras plataformas multilaterales, inclusive el tema del apoyo a los candidatos rusos.</se>
+    </para>
+  </body>
+</html>

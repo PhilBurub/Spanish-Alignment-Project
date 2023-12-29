@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России посетил выставку МИД Эквадора по случаю Международного дня мигранта </se>
+    <se lang="es" variant_id="1">Embajador de Rusia visita exposición del Ministerio de Relaciones Exteriores de Ecuador con motivo del Día internacional del migrante </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 декабря / 2022</se>
+    <se lang="es" variant_id="1">15 diciembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/posol_rossii_posetil_vystavku_mid_ekvadora_po_sluchayu_mezhdunarodnogo_dnya_migranta/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/embajador_de_rusia_visita_exposici_n_del_ministerio_de_relaciones_exteriores_de_ecuador_con_motivo_d/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">15 декабря 2022 г. Посол России в Эквадоре В.И.Спринчан присутствовал на открытии фотовыставки, организованной МИД страны пребывания совместно с Международной организацией по миграции.</se>
+      <se lang="es" variant_id="1">El 15 de diciembre de 2022, el Embajador de Rusia en Ecuador, Vladimir Sprinchan, asistió a la inauguración de una exposición fotográfica organizada por el Ministerio de Relaciones Exteriores y Movilidad Humana del país junto con la Organización Internacional para las Migraciones.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В своём выступлении Заместитель Министра иностранных дел Эквадора С.Эспиндола отметила важность оказания помощи прибывающим и находящимся на национальной территории мигрантам, а также необходимость продолжения международного сотрудничества с целью защиты их прав.</se>
+      <se lang="es" variant_id="1">En su intervención, la Viceministra de Movilidad Humana del Ecuador, Silvia Espíndola, destacó la importancia de la asistencia a los migrantes que llegan y se encuentran en el territorio nacional, así como la necesidad de continuar la cooperación internacional para proteger sus derechos.</se>
+    </para>
+  </body>
+</html>

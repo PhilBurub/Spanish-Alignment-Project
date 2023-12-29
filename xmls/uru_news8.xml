@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">День Государственного флага России </se>
+    <se lang="es" variant_id="1">El Día de la Bandera Estatal de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">22 августа / 2021</se>
+    <se lang="es" variant_id="1">22 agosto / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/den_gosudarstvennogo_flaga_rossii/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/el_d_a_de_la_bandera_estatal_de_rusia/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Накануне Дня Государственного флага Российской Федерации в уругвайской газете “La República” была опубликована статья посла России А.В.Будаева об истории российского триколора и значении этого праздника.</se>
+      <se lang="es" variant_id="1">En vísperas de Día de la Bandera Estatal de la Federación de Rusia el artículo del Embajador de Rusia Andrey Budaev sobre la historia del tricolor ruso y la importancia de este evento fue publicado en el periódico uruguayo “La República”.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Сотрудники российской дипмиссии вместе с соотечественниками провели флешмоб, посвященный этой дате.</se>
+      <se lang="es" variant_id="1">El personal de la Misión Diplomática rusa junto a los compatriotas llevaron a cabo un flashmob dedicado a esta fecha.</se>
+    </para>
+  </body>
+</html>

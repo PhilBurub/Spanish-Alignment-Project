@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью посла ведущей эквадорской газете «El Universo» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador al principal diario ecuatoriano “El Universo” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 марта / 2022</se>
+    <se lang="es" variant_id="1">09 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/intervyu_posla_vedushchey_ekvadorskoy_gazete_el_universo/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/entrevista_del_embajador_al_principal_diario_ecuatoriano_el_universo/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По просьбе эквадорских журналистов Посол России в Эквадоре В.И.Спринчан дал 9 марта с.г. обстоятельное интервью ведущей газете «El Universo» о российских подходах к развитию ситуации на Украине и возможных последствиях западных экономических санкций как для экономик России и Эквадора, так и всего мира.</se>
+      <se lang="es" variant_id="1">El 9 de marzo a pedido de los periodistas ecuatorianos, el Embajador de Rusia en Ecuador Sr. Vladimir Sprinchan dio una detallada entrevista sobre los enfoques rusos al desarrollo de la situación en Ucrania y las posibles consecuencias de las sanciones económicas occidentales para las economías de Rusia y Ecuador, así como para todo el mundo.</se>
+    </para>
+  </body>
+</html>

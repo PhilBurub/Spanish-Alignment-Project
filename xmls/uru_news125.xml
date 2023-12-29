@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О фотоэкспозиции, посвященной Дню России </se>
+    <se lang="es" variant_id="1">La exposición fotográfica “Rusia de hoy” </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 июня / 2022</se>
+    <se lang="es" variant_id="1">10 junio / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_fotoekspozitsii_posvyashchennoy_dnyu_rossii/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/la_exposici_n_fotogr_fica_rusia_de_hoy/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">10 июня 2022 г. в российском посольстве в г. Монтевидео в преддверии нашего национального праздника состоялось открытие выставки фотографий «Россия сегодня».</se>
+      <se lang="es" variant_id="1">El 10 de junio de 2022 en la Embajada rusa en Montevideo en vísperas de nuestra fiesta nacional se inauguró la exposición de fotos “Rusia de hoy”.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В церемонии приняли участие российские соотечественники, главы ряда дипмиссий дружественных стран, представители местных СМИ, уругвайских общественно-политических и культурных кругов.</se>
+      <se lang="es" variant_id="1">En la ceremonia participaron los compatriotas rusos, jefes de Misiones Diplomáticas de países amigos, representantes de los medios de comunicación locales y de los círculos socio-políticos y culturales uruguayos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Фотоподборка с изображениями культурно-исторических и природных красот России вызвала заметный интерес у присутствовавших.</se>
+      <se lang="es" variant_id="1">La muestra de imágenes de las atracciones culturales, históricas y naturales de Rusia generó un notable interés de los presentes.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Также роспосол дал интервью журналистам медиахолдинга “Grupo R Multimedio” и прибывшим в Монтевидео участникам кругосветного путешествия на тримаране «По пути русских мореплавателей» Е.Ковалевскому и С.Березкину.</se>
+      <se lang="es" variant_id="1">Al mismo tiempo, el Embajador de Rusia en Ururugay Andrey Budaev fue entrevistado por los periodistas del “Grupo R Multimedio” y los participantes de la expedición en el trimarán “En el camino de los navegantes rusos alrededor del mundo” Evgeny Kovalevsky y Stanislav Berezkin.</se>
+    </para>
+  </body>
+</html>

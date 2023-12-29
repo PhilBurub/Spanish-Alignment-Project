@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Встреча российского посла с Министром культуры Республики Эквадор </se>
+    <se lang="es" variant_id="1">Reunión del Embajador de Rusia con el Ministro de Cultura de la República del Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">15 июля / 2021</se>
+    <se lang="es" variant_id="1">14 julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/vstrecha_rossiyskogo_posla_s_ministrom_kultury_respubliki_ekvador/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/reunion_del_embajador_de_rusia_con_el_ministro_de_cultura_de_la_republica_del_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">14 июля с.г. состоялась беседа Посла России в Эквадоре В.И.Спринчана с Министром культуры и наследия М.Е.Мачука Мерино.</se>
+      <se lang="es" variant_id="1">El 14 de julio, se realizó una conversación entre el Embajador de Rusia en Ecuador Vladimir Sprinchan y la Ministra de Cultura y Patrimonio del Ecuadior María Elena Machuca Merino.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Был обсужден тем российского-эквадорского взаимодействия в рамках Межправительственного соглашения о культурном и научном сотрудничестве, в том числе варианты участия творческих коллективов сторон в различных мероприятиях в другой стране.</se>
+      <se lang="es" variant_id="1">Se discutieron los temas de la interacción ruso-ecuatoriana en el marco del Acuerdo Intergubernamental de Cooperación Cultural y Científica, incluyendo opciones para la participación de equipos creativos de las partes en diversos eventos.</se>
+    </para>
+  </body>
+</html>

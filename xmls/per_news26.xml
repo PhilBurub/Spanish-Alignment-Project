@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О гастролях Санкт-Петербургского театра классического балета в Лиме </se>
+    <se lang="es" variant_id="1">Gira del Teatro de Ballet Clásico de San Petersburgo en Lima </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">19 марта</se>
+    <se lang="es" variant_id="1">19 Marzo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/o_gastroh_sankt_petkogo_teatra_klasskogo_baleta_v_lime/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/gira_del_teatro_de_ballet_cl_sico_de_san_petersburgo_en_lima/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">17-19 марта с.г. в Большом национальном театре Перу состоялись выступления Санкт-Петербургского театра классического балета благодаря усилиям антрепренерской перуанской компании Продартес.</se>
+      <se lang="es" variant_id="1">Los días 17-19 de marzo el Gran Teatro Nacional del Perú acogió presentaciones del Teatro de Ballet Clásico de San Petersburgo gracias al esfuerzo de la empresa promotora de espectáculos culturales Prodartes.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Вниманию местной публики были представлены классические постановки знаменитых балетов П.И.Чайковского «Лебединое озеро» и «Спящая красавица», прошедшие с аншлагом.</se>
+      <se lang="es" variant_id="1">Al público peruano se le ofrecieron producciones clásicas de los famosos ballets de Piotr Tchaikovsky "El lago de los cisnes" y "La bella durmiente", las entradas se agotaron.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Перуанские зрители тепло приветствовали российских артистов и, по комментариям местной публики, «наслаждались представлениями от начала до конца, высоко оценив талант артистов».</se>
+      <se lang="es" variant_id="1">Los espectadores recibieron calurosamente a los artistas rusos y, según comentan los visitantes locales, “disfrutaron de las presentaciones desde el inicio hasta el fin, apreciando el talento de los artistas”.</se>
+    </para>
+  </body>
+</html>

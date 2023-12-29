@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О проведении в Русском доме спектакля «Метель» </se>
+    <se lang="es" variant_id="1">Espectáculo "La tempestad de nieve" en la Casa Rusa </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">18 августа</se>
+    <se lang="es" variant_id="1">18 Agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/o_provedenii_v_russkom_dome_spektaklya_metel/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/espect_culo_la_tempestad_de_nieve_en_la_casa_rusa/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">18 августа 2023 года в РЦНК в Лиме ученики местной школы имени Максима Горького поставили спектакль «Метель» по повести А.С.Пушкина.</se>
+      <se lang="es" variant_id="1">El 18 de agosto de 2023, en el Casa Rusa de Lima, los alumnos del Colegio Maxim Gorki en Lima presentaron el espectáculo "La tempestad de nieve", basada en la novela de Alexander Pushkin.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Выступление было тепло встречено перуанской публикой и российскими соотечественниками (всего около 100 человек).</se>
+      <se lang="es" variant_id="1">La actuación fue muy bien recibida por el público peruano y compatriotas rusos (más de 100 personas en total).</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Посол России Игорь Романченко и Егорова приветствовали гостей, а также вручили всем участникам памятные подарки.</se>
+      <se lang="es" variant_id="1">El Embajador de Rusia, Igor Romanchenko, y la Directora de la Casa Rusa, Alexandra Egorova, dieron la bienvenida a los invitados y entregaron a todos los participantes regalos memorables.</se>
+    </para>
+  </body>
+</html>

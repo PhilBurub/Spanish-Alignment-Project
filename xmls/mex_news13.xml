@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексику прибыла девятая партия вакцины «Спутник V» </se>
+    <se lang="es" variant_id="1">Noveno cargamento de "Sputnik V" llega a México </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">14 июня / 2021</se>
+    <se lang="es" variant_id="1">14 de junio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksiku_pribyla_devyataya_partiya_vaktsiny_sputnik_v/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/noveno_cargamento_de_sputnik_v_llega_a_m_xico/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">14 июня 2021 года в Мексику прибыла очередная (девятая) партия российской вакцины от коронавируса «Спутник V» в количестве 50 тыс.</se>
+      <se lang="es" variant_id="1">El 11 de junio de 2021 llegó a territorio mexicano el noveno lote de la vacuna rusa anticovid "Sputnik V" de 50 mil de dosis.</se>
+    </para>
+  </body>
+</html>

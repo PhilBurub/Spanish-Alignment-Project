@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью В.В.Коронелли телеканалу «ADN40» </se>
+    <se lang="es" variant_id="1">Entrevista del Embajador Koronelli al canal "ADN40" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">26 августа / 2020</se>
+    <se lang="es" variant_id="1">26 de agosto / 2020</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/intervyu_v_v_koronelli_telekanalu_adn40/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/entrevista_del_embajador_koronelli_al_canal_adn40/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">26 августа 2020 г. Посол России в Мексике В.В.Коронелли дал мексиканскому телевизионному каналу «ADN40» интервью (на испанском языке), посвященное разработке российскими учеными вакцины от коронавируса.</se>
+      <se lang="es" variant_id="1">Este 26 de agosto el Embajador de Rusia Víktor Koronelli ha concedido una entrevista al canal "ADN40" sobre los ensayos clínicos de la vacuna SputnikV en México.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Видео</se>
+      <se lang="es" variant_id="1">Video</se>
+    </para>
+  </body>
+</html>

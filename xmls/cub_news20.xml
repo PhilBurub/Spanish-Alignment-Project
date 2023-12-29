@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Интервью Президента Кубы М.Диас-Канеля телеканалу RT </se>
+    <se lang="es" variant_id="1">Entrevista exclusiva del Presidente de Cuba, Miguel Díaz-Canel, a RT </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">31 мая</se>
+    <se lang="es" variant_id="1">31 mayo</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://cuba.mid.ru/ru/press-centre/news/intervyu_prezidenta_kuba_m_dias_kanelya_telekanalu_rt/</se>
+    <se lang="es" variant_id="1">https://cuba.mid.ru/es/press-centre/news/entrevista_exclusiva_del_presidente_de_cuba_miguel_d_az_canel_a_rt/</se>
+  </source>
+  <country>Cuba</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Президент Кубы Мигель Диас-Канель в интервью RT заявил, что Гавана осуждает вводимые Западом санкции против России и не приемлет расширения НАТО к российским границам.</se>
+      <se lang="es" variant_id="1">El presidente de Cuba, Miguel Díaz-Canel, concedió una entrevista exclusiva a RT, en cuyo marco abordó el lugar del país en el contexto geopolítico actual, así como el deseo de EE.UU.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Он также выразил недовольство гегемонистским мышлением западных государств, которые рассматривают развивающиеся страны как «задний двор».</se>
+      <se lang="es" variant_id="1">de establecer su hegemonía en el mundo y la creciente aspiración de muchos países a la multipolaridad.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Полная версия интервью доступна по ссылке.</se>
+      <se lang="es" variant_id="1">La versión completa de la entrevista está disponible aquí .</se>
+    </para>
+  </body>
+</html>

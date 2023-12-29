@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О статье Посла России в Мексике в газете «Ла Хорнада» </se>
+    <se lang="es" variant_id="1">Artículo del Embajador Nikolay Sofínskiy en La Jornada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">08 августа</se>
+    <se lang="es" variant_id="1">08 de agosto</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/o_state_posla_rossii_v_meksike_v_gazete_la_khornada/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/art_culo_del_embajador_nikolay_sof_nskiy_en_la_jornada/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">8 августа 2023 года в мексиканской газете «Ла Хорнада» опубликована статья Посла России Н.В.Софинского «Истинные причины кризиса на рынках энергоносителей».</se>
+      <se lang="es" variant_id="1">El 8 de agosto de 2023 el diario mexicano La Jornada publicó la opinión del Embajador de Rusia en México, Nikolay Sofínskiy, «Verdaderas causas de la crisis en los mercados energéticos».</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В материале приводится российское видение текущего положения дел в энергетической сфере, даются принципиальные оценки близорукой политики стран Запада, спровоцировавших турбулентность на глобальных рынках углеводородов задолго до начала специальной военной операции на Украине и использующих энергетику как оружие.</se>
+      <se lang="es" variant_id="1">El artículo contiene la posición rusa acerca de la situación actual en la esfera energética. Se exponen los errores de las políticas miopes de los países occidentales que provocaron turbulencias en los mercados globales de hidrocarburos mucho antes del inicio de la operación militar especial en Ucrania y que ahora utilizan la energía como arma.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Полный текст статьи на испанском языке доступен на сайте издания.</se>
+      <se lang="es" variant_id="1">El texto completo de la publicación está disponible en la página web de La Jornada.</se>
+    </para>
+  </body>
+</html>

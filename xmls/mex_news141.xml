@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Телефонный разговор Президентов России и Мексики </se>
+    <se lang="es" variant_id="1">Presidentes de Rusia y México sostienen una llamada </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">25 января / 2021</se>
+    <se lang="es" variant_id="1">25 de enero / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/telefonnyy_razgovor_s_prezidentom_meksiki_andresom_manuelem_lopesom_obradorom/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/presidentes_de_rusia_y_m_xico_sostienen_una_llamada/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">25 января состоялся телефонный разговор Президента Российской Федерации В.В.Путина с Президентом Мексиканских Соединенных Штатов А.М.Лопесом Обрадором.</se>
+      <se lang="es" variant_id="1">El 25 de enero el Presidente de la Federación de Rusia, Vladímir Putin, sostuvo una llamada con el Presidente de los Estados Unidos Mexicanos, Andrés Manuel López Obrador.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С обеих сторон отмечен конструктивный и взаимовыгодный характер российско-мексиканских отношений, которые успешно развиваются по различным направлениям.</se>
+      <se lang="es" variant_id="1">Las partes refrendaron el carácter constructivo y mutuamente ventajoso de las relaciones ruso-mexicanas, las cuales se están desarrollando en diversos ámbitos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Предметно обсуждена проблематика противодействия распространению коронавирусной инфекции и обеспечения эпидемической безопасности.</se>
+      <se lang="es" variant_id="1">Discutieron en detalle la lucha contra la propagación del Covid-19, así como los temas de seguridad epidemiológica.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Рассмотрены вопросы организации поставок в Мексику российской вакцины «Спутник V», а также подготовки в России профильных мексиканских специалистов-медиков.</se>
+      <se lang="es" variant_id="1">Abordaron la organización de suministro de la vacuna rusa Sputnik V a México y la formación de los especialistas médicos mexicanos en Rusia.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">В связи с диагностированием у Президента Мексики коронавируса Владимир Путин пожелал ему скорейшего и полного выздоровления.</se>
+      <se lang="es" variant_id="1">El Presidente Putin deseó al Presidente López Obrador, diagnosticado con coronavirus, pronta y completa recuperación.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Условлено о продолжении контактов.</se>
+      <se lang="es" variant_id="1">Las partes acordaron mantener sus contactos.</se>
+    </para>
+  </body>
+</html>

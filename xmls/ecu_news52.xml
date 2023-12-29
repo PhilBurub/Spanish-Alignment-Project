@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О культурном мероприятии российских соотечественников в Эквадоре </se>
+    <se lang="es" variant_id="1">Sobre el evento cultural de compatriotas rusos en Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">12 июля / 2021</se>
+    <se lang="es" variant_id="1">07 julio / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/o_kulturnom_meropriyatii_rossiyskikh_sootechestvennikov_v_ekvadore/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/sobre_el_evento_cultural_de_compatriotas_rusos_en_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По инициативе группы российских соотечественников в Эквадоре 7 июля с.г. в частном доме выпускницы Санкт-Петербургского государственного университета И. Эндара Бирюзовой впервые после долгого периода состоялся показ фильма-сказки «Снежная королева» с субтитрами на испанском языке. </se>
+      <se lang="es" variant_id="1">El 7 de julio, en la casa particular de Endara Biryuzova, la graduada de la Universidad Estatal de San Petersburgo, por iniciativa de un grupo de compatriotas rusos en Ecuador, por primera vez se mostró con subtítulos en español después de un largo período la película "La reina de las nieves".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">На мероприятии, которое планируется сделать еженедельным, присутствовали не только россияне, но и эквадорские выпускники отечественных вузов, простые эквадорцы и сотрудники Посольства с членами семей.</se>
+      <se lang="es" variant_id="1">En el evento que está previsto ser semanal participaron no solo rusos, sino también ecuatorianos graduados de universidades rusas, ciudadanos de Ecuador y funcionarios de la Embajada con sus familiares.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Здесь же собрана библиотека русской литературы на испанском языке.</se>
+      <se lang="es" variant_id="1">La casa también contiene una biblioteca de literatura rusa en español.</se>
+    </para>
+  </body>
+</html>

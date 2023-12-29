@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В Мексике открылась выставка, посвященная Александре Коллонтай </se>
+    <se lang="es" variant_id="1">Inauguran en México exposición dedicada a Alexandra Kollontai </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">28 марта / 2022</se>
+    <se lang="es" variant_id="1">28 de marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://mexico.mid.ru/ru/novosti/v_meksike_otkrylas_vystavka_posvyashchennaya_a_kollontay/</se>
+    <se lang="es" variant_id="1">https://mexico.mid.ru/es/noticias/inauguran_en_m_xico_exposici_n_dedicada_a_alexandra_kollontai/</se>
+  </source>
+  <country>Mexico</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">28 марта 2022 г. в Национальной библиотеке Мексики Посол Российской Федерации В.В.Коронелли принял участие в церемонии открытия выставки, посвященной 150-й годовщине со дня рождения первой женщины-посла СССР в Мексике Александры Коллонтай.</se>
+      <se lang="es" variant_id="1">El día 28 de marzo de 2022 en la Biblioteca de México el Embajador de Rusia, Excmo. Sr. Víktor Koronelli participó en la Ceremonia de Inauguración de la Exposición dedicada al 150° aniversario del nacimiento de la primera Embajadora mujer de la URSS en los Estados Unidos Mexicanos Alexandra Kollontai.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Церемонию посетили Директор Национальной библиотеки Мексики Р.Борха, федеральный депутат, вице-председатель Группы Дружбы с Россией Н.Маседа, федеральный сенатор от штата Нижняя Калифорния А. дель Кармен Леон, деятели искусства и культуры, российские соотечественники.</se>
+      <se lang="es" variant_id="1">Visitaron la ceremonia Director General de Bibliotecas, Lic. Rodrigo Borja Torres, la Diputada Federal, Vicepresidenta del Grupo de Amistad con Rusia en la Cámara de Diputados de México, Sra. Nelly Maceda, Senadora Federal del Estado Baja California, Sra, Alejandra del Carmen León, los representantes del círculo artístico-cultural de México y compatriotas rusos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Выставка продлится с 28 марта по 24 апреля 2022 года.</se>
+      <se lang="es" variant_id="1">La exhibición estará abierta al público desde el día 28 de marzo hasta el día 24 de abril de 2022.</se>
+    </para>
+  </body>
+</html>

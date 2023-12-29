@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Требования для въезда в Российскую Федерацию </se>
+    <se lang="es" variant_id="1">Requisitos de entrada a Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">10 декабря / 2021</se>
+    <se lang="es" variant_id="1">10 Diciembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/trebovaniya_dlya_vezda_v_rossiyskuyu_federatsiyu/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/requisitos_de_entrada_a_rusia/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Обращаем ваше внимание, что все иностранные граждане и лица без гражданства въезжающие в Российскую Федерацию, в том числе в целях транзитного проезда, должны иметь при себе медицинский документ (на русском или английском языке), подтверждающий отрицательный результат лабораторного исследования материала на COVID-19 методом полимеразной цепной реакции (ПЦР).</se>
+      <se lang="es" variant_id="1">Prestamos su atención que todos los nacionales extranjeros y apátridas que ingresan al territorio de la Federación de Rusia, así como con los fines de tránsito, deben tener un documento médico (en idioma ruso o inglés), que certifique resultado negativo de un estudio de laboratorio del material para el COVID-19 usando el método de reacción en cadena de la polimerasa (PCR).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Подчеркиваем, что с 8 декабря 2021 года срок действия отрицательного результата лабораторного исследования на COVID-19, проведенного методом полимеразной цепной реакции, составляет 48 часов от времени результата лабораторного исследования на COVID-19.</se>
+      <se lang="es" variant_id="1">Subrayamos que a partir del 8 de diciembre de 2021 la vigencia de la prueba es de 48 (cuarenta y ocho) horas contadas desde el la hora del resultado del estudio laboratorio.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В случае невозможности предъявления медицинского документа на русском или английском языке допускается предъявлять его на официальном языке государства, в котором зарегистрирована организация, выдающая такой документ, с переводом на русский язык.</se>
+      <se lang="es" variant_id="1">En el caso de que sea imposible presentar un documento médico en el idioma ruso o inglés, sea permitido presentarlo en idioma oficial del Estado dónde está registrada la organización emitente de tal documento, con una traducción al idioma ruso, cuya veracidad deberá ser autenticada por un oficial consular de la Federación de Rusia.</se>
+    </para>
+  </body>
+</html>

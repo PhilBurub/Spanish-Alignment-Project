@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О концерте классической музыки в российском посольстве </se>
+    <se lang="es" variant_id="1">Sobre el concierto de música clásica en la Embajada de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">13 февраля</se>
+    <se lang="es" variant_id="1">13 febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/o_kontserte_klassicheskoy_muzyki_v_rossiyskom_posolstve/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/sobre_el_concierto_de_m_sica_cl_sica_en_la_embajada_de_rusia/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">13 февраля 2023 г. в здании посольства России в Уругвае состоялся концерт классической музыки по случаю 150-летия выдающегося российского оперного певца Ф.И.Шаляпина (13 февраля) и великого русского композитора и пианиста С.В.Рахманинова (1 апреля).</se>
+      <se lang="es" variant_id="1">El 13 de febrero en la sede de la Embajada de Rusia en Uruguay se celebró el concierto de música clásica con motivo de 150 Aniversarios de destacado cantante ruso de ópera Fiódor Chaliapin (13 de febrero) y gran compositor y pianista ruso Sergei Rachmaninov (1 de abril).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">На мероприятии прозвучали инструментальные и песенные произведения С.В.Рахманинова, А.П.Бородина, М.П.Мусоргского в исполнении оперной певицы Евгении Пиршиной и пианиста Мартина Мюнха.</se>
+      <se lang="es" variant_id="1">Durante el evento fueron presentadas obras instrumentales y canciones de Sergei Rachmaninov, Aleksandr Borodín y Modest Músorgski, interpretadas por la cantante de ópera Evgenia Pirshina y el pianista Martin Munch.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">На концерте присутствовали представители уругвайских культурных и артистических кругов, главы дипмиссий дружественных стран и российские соотечественники.</se>
+      <se lang="es" variant_id="1">Al concierto asistieron representantes de círculos culturales y artísticos uruguayos, Jefes de Misiones Diplomáticas de los países amigos y compatriotas rusos.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Выступление, проходившее при полном зале и под громкие аплодисменты, вызвало заметный душевный подъем у присутствовавших.</se>
+      <se lang="es" variant_id="1">La presentación artística, celebrada en una sala llena y acompañada por fuertes aplausos, despertó notable emoción de los presentes.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Посол А.В.Будаев, Е.Пиршина и М.Мюнх дали интервью медиахолдингу “Grupo R Multimedio”.</se>
+      <se lang="es" variant_id="1">El Embajador Andrey Budaev, Evgenia Pirshina y Martin Munch concedieron una entrevista al grupo mediático “Grupo R Multimedio”.</se>
+    </para>
+  </body>
+</html>

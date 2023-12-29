@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Фотовыставка «Военные преступления украинских неонацистов» </se>
+    <se lang="es" variant_id="1">Exposición fotográfica virtual "Crímenes de guerra de los neonazis ucranianos" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 февраля</se>
+    <se lang="es" variant_id="1">23 Febrero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/fotovystavka_voennye_prestupleniya_ukrainskikh_neonatsistov/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/exposici_n_fotogr_fica_virtual_cr_menes_de_guerra_de_los_neonazis_ucranianos/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">По случаю годовщины начала СВО на Украине представляем вашему вниманию виртуальную фотовыставку «Военные преступления украинских неонацистов».</se>
+      <se lang="es" variant_id="1">Con motivo del aniversario del inicio de la operación militar especial en Ucrania les presentamos una exposición fotográfica virtual "Crímenes de guerra de los neonazis ucranianos".</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ней наглядно отражены преступления ВСУ по отношению к собственному населению, преступные методы ведения войны и попытки их сокрыть.</se>
+      <se lang="es" variant_id="1">Esta refleja claramente las atrocidades de las Fuerzas Armadas de Ucrania en relación con su propia población, los métodos criminales de guerra y los intentos de ocultarlos.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Эти доказательства не оставляют места для спекуляций относительно решения российского руководства о начале спецоперации.</se>
+      <se lang="es" variant_id="1">Las evidencias no dejan lugar a especulaciones sobre la decisión del dirigencia rusa de lanzar una operación especial militar.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">Нынешний кризис на Украине возник в 2014 г., когда при активной поддержке США и ЕС в Киеве был совершен вооруженный госпереворот, в результате которого к власти были приведены радикальные националистические силы, эта страна была превращена в плацдарм для ослабления России.</se>
+      <se lang="es" variant_id="1">La crisis actual en Ucrania surgió en 2014, cuando, con el apoyo activo de los Estados Unidos y la UE, se llevó a cabo un golpe de estado en Kiev, como resultado del cual llegaron al poder nacionalistas radicales, y este país se convirtió en un trampolín para el debilitamiento de Rusia.</se>
+    </para>
+    <para id="4">
+      <se lang="ru" variant_id="0">Против нового режима выступили Крым и Донбасс.</se>
+      <se lang="es" variant_id="1">Crimea y el Donbás se opusieron al nuevo régimen.</se>
+    </para>
+    <para id="5">
+      <se lang="ru" variant_id="0">Крым обрел свою независимость, а против Донбасса киевским режимом была развязана война, которая унесла жизни 14 тыс. человек, де-факто насильственная украинизация русскоязычного населения, экономическая и энергетическая блокада – все это с опорой на неонацисткие формирования.</se>
+      <se lang="es" variant_id="1">Crimea obtuvo su independencia, y el régimen de Kiev desató una guerra contra el Donbás que se cobró la vida de 14 mil personas, efectuó la ucranización forzosa de facto de la población de habla rusa, el bloqueo económico y energético – todo esto con el apoyo de formaciones neonazi.</se>
+    </para>
+  </body>
+</html>

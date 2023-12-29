@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол Боливии в Эквадоре посетила российское посольство </se>
+    <se lang="es" variant_id="1">Embajadora de Bolivia en Ecuador visitó la Embajada de Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">22 марта / 2022</se>
+    <se lang="es" variant_id="1">22 marzo / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/posol_bolivii_v_ekvadore_posetila_rossiyskoe_posolstvo/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/embajadora_de_bolivia_en_ecuador_visit_la_embajada_de_rusia/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Недавно назначенная Послом Боливии в Эквадоре С.Флорес Соламайо вместе с другими дипломатами Посольства Боливии в Эквадоре посетили Посольство России 22 марта с.г. с протокольным визитом.</se>
+      <se lang="es" variant_id="1">La recién designada Embajadora de Bolivia en Ecuador, Segundina Flores Solamayo, junto a otros diplomáticos de la Embajada de Bolivia en Ecuador, visitaron la Embajada de Rusia el 22 de marzo del presente año con una visita protocolar.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Состоялся обмен мнениями о состоянии и перспективах взаимоотношений каждой из сторон со страной пребывания.</se>
+      <se lang="es" variant_id="1">Tuvo lugar un intercambio de puntos de vista sobre el estado y las perspectivas de las relaciones de cada una de las partes con el país anfitrión.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Послы России и Боливии в Эквадоре условились продолжать контакты в интересах своих стран.</se>
+      <se lang="es" variant_id="1">Los embajadores de Rusia y Bolivia en Ecuador acordaron continuar los contactos en intereses de sus países.</se>
+    </para>
+  </body>
+</html>

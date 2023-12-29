@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об изменении правил въезда на территорию России </se>
+    <se lang="es" variant_id="1">Cambio de reglas de ingreso a Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">14 декабря / 2022</se>
+    <se lang="es" variant_id="1">14 diciembre / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://uruguay.mid.ru/ru/novosti/news/ob_izmenenii_pravil_vezda_na_territoriyu_rossii/</se>
+    <se lang="es" variant_id="1">https://uruguay.mid.ru/es/noticias/news/cambio_de_reglas_de_ingreso_a_rusia/</se>
+  </source>
+  <country>Uruguay</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В соответствии с распоряжением Главного государственного санитарного врача Российской Федерации № 22 от 17 октября 2022 года для всех иностранных граждан, следующих в Российскую Федерацию, с 21 октября с.г., отменяется требование об обязательном предъявлении при посадке на борт воздушного судна и при въезде в страну (вне зависимости от вида транспорта) отрицательного ПЦР-теста.</se>
+      <se lang="es" variant_id="1">En virtud del decreto Jefa del Principal Organismo Sanitario de la Federación de Rusia № 22 del 17 de octubre de 2022 para todos los ciudadanos extranjeros que viajen a la Federación de Rusia se elimina a partir del 21 de octubre del a.c. el requerimiento de presentar una prueba de PCR negativa al abordar un avión e ingresar al país (independientemente del modo de transporte).</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Для граждан России отменяется требование о прохождении ПЦР-теста по прибытии и соблюдении режима изоляции до получения его результатов.</se>
+      <se lang="es" variant_id="1">Para los ciudadanos rusos se levanta la necesidad de someterse a prueba de PCR al llegar al país así como cumplir el régimen de aislamiento hasta que los resultados estén disponibles.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">При этом обязательным остаётся заполнение анкеты для прибывающих в страну, размещённой на сайте Роспотребнадзора: https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docs</se>
+      <se lang="es" variant_id="1">Tanto para los ciudadanos de la Federación de Rusia como para los extranjeros que ingresan al territorio de la Federación de Rusia se mantiene el requisito de rellenar el formulario que se encuentra en el sitio web de Rospotrebnadzor: https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docs</se>
+    </para>
+  </body>
+</html>

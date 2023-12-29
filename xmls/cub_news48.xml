@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Об акции "Свеча памяти" на Кубе </se>
+    <se lang="es" variant_id="1">La acción Vela de la Memoria en Cuba  </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">23 июня / 2022</se>
+    <se lang="es" variant_id="1">23 junio / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://cuba.mid.ru/ru/press-centre/news/ob_aktsii_svecha_pamyati_na_kube/</se>
+    <se lang="es" variant_id="1">https://cuba.mid.ru/es/press-centre/news/la_acci_n_vela_de_la_memoria_en_cuba_/</se>
+  </source>
+  <country>Cuba</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">22 июня 2022 г. на территории Храма Казанской иконы Божией Матери в Гаване прошла Всероссийская мемориальная акция "Свеча памяти", посвящённая памяти 27 миллионов советских граждан, погибших в годы Великой Отечественной войны.</se>
+      <se lang="es" variant_id="1">El 22 de junio de 2022 se celebró en La Habana la acción “Vela de la Memoria” en homenaje a los 27 millones de ciudadanos soviéticos fallecidos durante la Gran Guerra Patria.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В мероприятии приняли участие сотрудники дипмиссий России и Белоруссии, члены их семей, постоянно проживающие на острове соотечественники, граждане Кубы.</se>
+      <se lang="es" variant_id="1">Asistieron funcionarios de las misiones diplomáticas de Rusia y Belarus, miembros de sus familias, compatriotas residentes en la Isla, ciudadanos de Cuba.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">В рамках акции была совершена Заупокойная лития.</se>
+      <se lang="es" variant_id="1">En el marco de la acción, que tuvo lugar en el territorio de la Iglesia Ortodoxa Nuestra Señora de Kazán, se realizó la litiya fúnebre.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">По окончании акции собравшимся был продемонстрирован художественный фильм "В бой идут одни старики".</se>
+      <se lang="es" variant_id="1">Al concluir del evento, se mostró a la audiencia el largometraje "Al combate sólo van los veteranos".</se>
+    </para>
+  </body>
+</html>

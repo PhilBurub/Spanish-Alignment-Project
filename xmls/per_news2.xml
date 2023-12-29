@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">В центре Лиме прошла манифестация в поддержку России </se>
+    <se lang="es" variant_id="1">En centro de Lima se manifiestan en solidaridad con Rusia </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">17 апреля / 2022</se>
+    <se lang="es" variant_id="1">17 Abril / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://peru.mid.ru/ru/press-centre/news/v_tsentre_lime_proshla_manifestatsiya_v_podderzhku_rossii/</se>
+    <se lang="es" variant_id="1">https://peru.mid.ru/es/press-centre/news/en_centro_de_lima_se_manifiestan_en_solidaridad_con_rusia/</se>
+  </source>
+  <country>Peru</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">17 апреля на одной из центральных площадей перуанской столицы прошел митинг в поддержку России.</se>
+      <se lang="es" variant_id="1">El domingo 17 de abril, en la plaza San Martin, ubicada en pleno centro de la capital peruana, se realizó un mitin en apoyo a la operación especial rusa en Ucrania.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Мартина с флагами России, высказывают свою солидарность и поддержку российской специальной военной операции на Украине на фоне кампании по дезинформации в СМИ и односторонних экономических санкций, которые – по словам участников митинга – стали основной причиной роста цен на продовольствие, топливо и другие жизненно важные продукты во всем мире.</se>
+      <se lang="es" variant_id="1">En las redes sociales se difunden vídeos en las cuales decenas de personas, que se reunieron con banderas rusas en una de las principales plazas capitalinas, se pronuncian en solidaridad y respaldo de la operación especial rusa en Ucrania frente a la campaña de desinformación en los medios y las sanciones unilaterales que, según los reunidos, constituyen razón principal de la subida de precios de alimentos, gasolina y otros productos en todo el mundo.</se>
+    </para>
+  </body>
+</html>

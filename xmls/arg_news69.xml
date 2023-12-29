@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">О встрече Посла России в Аргентине Д.В.Феоктистова  с главой кабинета министров Х.Мансуром </se>
+    <se lang="es" variant_id="1">Sobre el encuentro del Embajador de Rusia D. Dmitry Feoktistov con el Jefe de Gabinete de Ministros D. Juan Luis Manzur </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">02 ноября / 2021</se>
+    <se lang="es" variant_id="1">02 noviembre / 2021</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/o_vstreche_posla_rossii_v_argentine_d_v_feoktistova_s_glavoy_kabineta_ministrov_kh_mansurom/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/sobre_el_encuentro_del_embajador_de_rusia_d_dmitry_feoktistov_con_el_jefe_de_gabinete_de_ministros_d/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">2 ноября с.г. состоялась встреча Д.В.Феоктистова с Х.Мансуром.</se>
+      <se lang="es" variant_id="1">El pasado 2 de noviembre el Embajador de Rusia D. Dmitry Feoktistov se reunió con el Jefe de Gabinete de Ministros D. Juan Luis Manzur.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В ходе беседы обсуждались перспективы развития двустороннего торгово-экономического сотрудничества, в том числе в сфере железнодорожного транспорта.</se>
+      <se lang="es" variant_id="1">En el marco de la conversación abordaron las perspectivas del desarrollo de la cooperación bilateral económica y comercial, incluyendo la esfera de transporte ferroviario.</se>
+    </para>
+  </body>
+</html>

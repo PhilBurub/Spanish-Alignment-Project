@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Встреча Посла России с эквадорским Министром сельского хозяйства и животноводства </se>
+    <se lang="es" variant_id="1">Reunión del Embajador de Rusia con el Ministro de Agricultura y Ganadería de Ecuador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">17 января</se>
+    <se lang="es" variant_id="1">17 enero</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/vstrecha_posla_rossii_s_ekvadorskim_ministrom_selskogo_khozyaystva_i_zhivotnovodstva/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/reuni_n_del_embajador_de_rusia_con_el_ministro_de_agricultura_y_ganader_a_de_ecuador/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">Посол России в Эквадоре В.И.Спринчан встретился с Министром сельского хозяйства и животноводства Б.Мансано.</se>
+      <se lang="es" variant_id="1">El 17 de enero el Embajador de Rusia en Ecuador, Vladimir Sprinchan, se reunió con el Ministro de Agricultura y Ganadería, Bernardo Manzano.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">Стороны обсудили большой круг вопросов российско-эквадорских взаимоотношений в сфере сельского хозяйства, подробно остановившись на перспективах расширения указанного сотрудничества.</se>
+      <se lang="es" variant_id="1">Las partes discutieron un gran número de cuestiones de las relaciones ruso-ecuatorianas en el campo de la agricultura.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">Эквадорские партнеры продемонстрировали заинтересованность в расширении взаимодействия с Россией.</se>
+      <se lang="es" variant_id="1">Los socios ecuatorianos han demostrado su interés en ampliar la cooperación con Rusia.</se>
+    </para>
+  </body>
+</html>

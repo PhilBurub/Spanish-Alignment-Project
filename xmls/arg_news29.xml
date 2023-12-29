@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">День России в Университете «Сальвадор» </se>
+    <se lang="es" variant_id="1">Día de Rusia en la Universidad del Salvador </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">09 октября / 2018</se>
+    <se lang="es" variant_id="1">09 octubre / 2018</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://argentina.mid.ru/ru/press-centre/news/den_rossii_v_universitete_salvador/</se>
+    <se lang="es" variant_id="1">https://argentina.mid.ru/es/press-centre/news/d_a_de_rusia_en_la_universidad_del_salvador/</se>
+  </source>
+  <country>Argentina</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">8 октября с.г. в частном католическом Университете «Сальвадор», одним из самых известных выпускников которого является Папа Римский Франциск, при участии Посольства и представительства Россотрудничества прошел День России. </se>
+      <se lang="es" variant_id="1">El 8 de octubre se celebró el Día de Rusia, auspiciado por la Embajada y la Representación de Rossotrudnichestvo, en la ilustre Universidad del Salvador, entre cuyos más renombrados egresados está el Papa Francisco.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">В программу мероприятия вошли лекции о современном состоянии российско-аргентинских отношений, культуре, истории и туристическом потенциале Российской Федерации, фотовыставка «Русская цивилизация».</se>
+      <se lang="es" variant_id="1">Programa del evento incluyó las charlas sobre el estado contemporáneo de las relaciones entre Rusia y Argentina, cultura, historia y potencial turístico de la Federación de Rusia, así como la muestra fotográfica “La Civilización Rusa”.</se>
+    </para>
+    <para id="2">
+      <se lang="ru" variant_id="0">С лекцией о приоритетных направлениях двустороннего сотрудничества выступил Чрезвычайный и Полномочный Посол Российской Федерации Д.В.Феоктистов.</se>
+      <se lang="es" variant_id="1">El Embajador Extraordinario y Plenipotenciario de la Federación de Rusia Dmitry Feoktistov dictó la conferencia sobre las prioridades de cooperación bilateral.</se>
+    </para>
+    <para id="3">
+      <se lang="ru" variant_id="0">На встрече с ректором Университета «Сальвадор» К.Сальвадоресом де Арсуага обсуждены перспективы расширения российско-аргентинского сотрудничества по линии высших учебных заведений.</se>
+      <se lang="es" variant_id="1">Conversó con el Rector de la Universidad del Salvador Dr. Carlos Salvadores de Arzuaga sobre las posibilidades de aumento de interacción entre las universidades de Rusia y Argentina.</se>
+    </para>
+  </body>
+</html>

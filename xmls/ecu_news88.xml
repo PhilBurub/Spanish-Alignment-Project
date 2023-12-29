@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <se lang="ru" variant_id="0">Посол России в Эквадоре посетил учебный фрегат «Гуаяс» </se>
+    <se lang="es" variant_id="1">Embajador de Rusia en el Ecuador visitó buque "Guayas" </se>
+  </head>
+  <date>
+    <se lang="ru" variant_id="0">13 июля / 2022</se>
+    <se lang="es" variant_id="1">13 julio / 2022</se>
+  </date>
+  <source>
+    <se lang="ru" variant_id="0">https://ecuador.mid.ru/ru/news/posol_rossii_v_ekvadore_posetil_uchebnyy_fregat_guayas/</se>
+    <se lang="es" variant_id="1">https://ecuador.mid.ru/es/embajada/news/embajador_de_rusia_en_el_ecuador_visit_buque_guayas/</se>
+  </source>
+  <country>Ecuador</country>
+  <body>
+    <para id="0">
+      <se lang="ru" variant_id="0">В рамках визита в г.Гуаякиль, Посол России в Эквадоре В.И.Спринчан осмотрел 13 июля с.г. учебный фрегат военно-морских сил страны пребывания «Гуаяс», который в августе 2008 г. совершил заход в г. Владивосток в рамках Тихоокеанского похода.</se>
+      <se lang="es" variant_id="1">El 13 de julio, en el marco de una visita a Guayaquil, el Embajador de Rusia en el Ecuador, Vladimir Sprinchan, visitó buque escuela a vela de la Armada del Ecuador, aparejado como bricbarca "Guayas", que en 2008 cruzó el Océano Pacífico e hizo una escala en Vladivostok.</se>
+    </para>
+    <para id="1">
+      <se lang="ru" variant_id="0">С командованием парусника были обсуждены перспективы двустороннего взаимодействия в данной сфере.</se>
+      <se lang="es" variant_id="1">Con el comando del velero se discutieron las perspectivas de cooperación bilateral en dicha área.</se>
+    </para>
+  </body>
+</html>
